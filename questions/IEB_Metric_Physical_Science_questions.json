@@ -1,0 +1,45 @@
+
+{
+  "questions": [
+    {
+      "id": "phy_ieb_met_001",
+      "type": "mcq",
+      "question": "Which of Newton's laws states that for every action, there is an equal and opposite reaction?",
+      "answer": "Newton's Third Law",
+      "options": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Universal Gravitation"
+      ],
+      "concept": "Newton's Laws of Motion",
+      "lesson_id": "lesson_1",
+      "source": "generated",
+      "difficulty": "easy",
+      "tags": ["newton's laws", "forces"]
+    }
+  ],
+  "decks": [
+    {
+      "id": "deck_phy_ieb_met_001",
+      "title": "Newton's Laws - Flashcards",
+      "lesson_ids": ["lesson_1"],
+      "flashcard_question_ids": [],
+      "study_mode_settings": {
+        "show_answer_delay": 3,
+        "shuffle_cards": true,
+        "repeat_incorrect": true
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz_phy_ieb_met_001",
+      "title": "Newton's Laws - Practice Quiz",
+      "lesson_id": "lesson_1",
+      "question_ids": ["phy_ieb_met_001"],
+      "time_limit": 15,
+      "passing_score": 70
+    }
+  ]
+}

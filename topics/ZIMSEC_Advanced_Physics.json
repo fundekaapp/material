@@ -1,0 +1,26 @@
+
+{
+  "course": {
+    "title": "ZIMSEC Advanced Physics",
+    "color": "#ffc107",
+    "icon": "zimsec_logo",
+    "lessons": ["lesson_1"],
+    "level": "Advanced",
+    "examination_body": "ZIMSEC"
+  },
+  "lessons": [
+    {
+      "icon": "wave_properties_icon",
+      "title": "Wave Properties",
+      "description": "The characteristics and behaviors of waves.",
+      "content": "This lesson explores the properties of waves, including diffraction, interference, and polarization.",
+      "deck_ids": ["deck_phy_zim_adv_001"],
+      "quiz_ids": ["quiz_phy_zim_adv_001"],
+      "course": "ZIMSEC Advanced Physics",
+      "audio": "",
+      "concepts": ["Diffraction", "Interference", "Polarization"],
+      "order": 1,
+      "prerequisites": []
+    }
+  ]
+}

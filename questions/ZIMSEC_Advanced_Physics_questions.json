@@ -1,0 +1,45 @@
+
+{
+  "questions": [
+    {
+      "id": "phy_zim_adv_001",
+      "type": "mcq",
+      "question": "What is the term for the bending of waves as they pass around an obstacle or through an opening?",
+      "answer": "Diffraction",
+      "options": [
+        "Refraction",
+        "Reflection",
+        "Interference",
+        "Diffraction"
+      ],
+      "concept": "Wave Properties",
+      "lesson_id": "lesson_1",
+      "source": "generated",
+      "difficulty": "easy",
+      "tags": ["waves", "diffraction"]
+    }
+  ],
+  "decks": [
+    {
+      "id": "deck_phy_zim_adv_001",
+      "title": "Wave Properties - Flashcards",
+      "lesson_ids": ["lesson_1"],
+      "flashcard_question_ids": [],
+      "study_mode_settings": {
+        "show_answer_delay": 3,
+        "shuffle_cards": true,
+        "repeat_incorrect": true
+      }
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz_phy_zim_adv_001",
+      "title": "Wave Properties - Practice Quiz",
+      "lesson_id": "lesson_1",
+      "question_ids": ["phy_zim_adv_001"],
+      "time_limit": 15,
+      "passing_score": 70
+    }
+  ]
+}
