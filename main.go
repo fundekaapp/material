@@ -10,7 +10,6 @@ import (
 	"path/filepath"
 	"strings"
 	"time"
-
 	"github.com/google/generative-ai-go/genai"
 	"google.golang.org/api/option"
 	"github.com/ledongthuc/pdf"
