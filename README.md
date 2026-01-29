@@ -40,6 +40,17 @@ Although the contents of this repository are proprietary, they may be useful for
 *(Note: This process will be streamlined in the future, potentially automated via GitHub Actions.)*
 
 ---
+# Course Structure
+ - ExaminationBody_Subject_Grade/
+    - Sylubus.md
+    - examination_dates.json
+    - topics/
+        - lesson.md
+        - flashcards.json
+        - questions.json
+        - videos/
+        - audios/
+---
 
 ## Roadmap
 
