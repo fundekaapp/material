@@ -1,0 +1,20 @@
+<svg width="300" height="120" viewBox="0 0 300 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Square -->
+  <rect x="40" y="30" width="60" height="60" fill="none" stroke="black" stroke-width="2"/>
+
+  <!-- Mass label -->
+  <text x="70" y="65" text-anchor="middle" dominant-baseline="middle"
+        font-size="14" font-family="sans-serif">
+    1 kg
+  </text>
+
+  <!-- Arrow -->
+  <line x1="110" y1="60" x2="220" y2="60" stroke="black" stroke-width="2"/>
+  <polygon points="220,60 210,55 210,65" fill="black"/>
+
+  <!-- Velocity label -->
+  <text x="165" y="45" text-anchor="middle"
+        font-size="14" font-family="sans-serif">
+    1 m s⁻¹
+  </text>
+</svg>
