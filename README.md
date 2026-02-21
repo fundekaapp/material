@@ -1,98 +1,119 @@
-# Material Processor for Fundeka
+# Fundeka Material Processor
 
-This repository contains tools and resources for collecting, parsing, and organizing educational material for **Fundeka**. The primary focus is on converting official syllabus documents and exam papers into structured markdown that can later be added to the database and used to generate learning content.
-
----
+> Content pipeline and structured learning materials for the [Fundeka](https://fundeka.app) learning platform.
 
 ## Overview
 
-Although the contents of this repository are proprietary, they may be useful for both **students** and **developers**:
-
-* **Students** benefit from access to processed syllabus content, official documents, and relevant exam papers.
-* **Developers** can use the parsed syllabus, material, and questions to:
-
-  * Build their own content pipelines.
-  * Create content collections for schools aligned with the official syllabus.
+This repository serves as the single source of truth for all educational content in Fundeka. It combines structured course materials with an automated processing pipeline (`core/`) that uses the Gemini AI API to generate and enrich content — flashcards, lessons, topic metadata, and more.
 
 ---
 
-## Current Structure
+## Repository Structure
 
-* **`parser/`** – Contains the raw syllabus PDFs as well as the parsed markdown versions.
-* **`markdown/`** – Contains cleaned and processed markdown files.
+```
+fundeka-materials/
+├── README.md
+├── core/                  # Rust-based content processor (Gemini-powered)
+├── courses/               # Structured course content
+├── exam_papers/           # Past exam PDFs by examination body
+└── sylubi/                # Official syllabus PDFs by subject
+```
+
+### `courses/`
+
+Each course follows the naming convention: **`examinationbody_subject_level`**
+
+```
+courses/
+└── zimsec_mathematics_olevel/
+    ├── syllabus.json          # Course metadata (description, color, icon)
+    └── topics/
+        └── algebra/
+            ├── topic.json         # Topic metadata
+            ├── lesson.md          # Lesson content (Markdown)
+            ├── lesson.pdf         # Lesson content (PDF)
+            ├── flashcards.json    # Flashcard Q&A pairs
+            ├── assets/            # Images and other media
+            └── videos/            # Video resources
+```
+
+#### `syllabus.json` schema
+
+```json
+{
+  "title": "Mathematics",
+  "examination_body": "ZIMSEC",
+  "level": "O Level",
+  "description": "A brief description of the course.",
+  "color": "#4F46E5",
+  "icon": "calculator"
+}
+```
+
+#### `topic.json` schema
+
+```json
+{
+  "title": "Algebra",
+  "description": "Introduction to algebraic expressions and equations.",
+  "order": 1
+}
+```
+
+#### `flashcards.json` schema
+
+```json
+[
+  {
+    "question": "What is the quadratic formula?",
+    "answer": "x = (-b ± √(b²-4ac)) / 2a"
+  }
+]
+```
+
+### `exam_papers/`
+
+PDF past papers organised by examination body and subject.
+
+### `sylubi/`
+
+Official syllabus PDFs for reference during content generation.
+
+### `core/`
+
+A Rust program that automates content processing across the repository using the [Gemini API](https://ai.google.dev/). It walks the `courses/` directory, reads each `syllabus.json`, and will eventually orchestrate AI-driven generation of lessons, flashcards, and topic content.
+
+**Status:** Active development — currently boilerplate with Gemini client integration scaffolded.
+
+**Prerequisites:**
+- Rust (stable)
+- A valid `GEMINI_API_KEY` environment variable
+
+**Running the processor:**
+
+```bash
+cd core
+export GEMINI_API_KEY=your_key_here
+cargo run
+```
 
 ---
 
-## Usage
+## Adding a New Course
 
-1. Add the latest syllabus documents to the **`parser/pdf/`** folder.
-2. Run the parser:
-
-   ```bash
-   go run parse.go
-   ```
-3. Clean the generated markdown:
-
-   ```bash
-   lua clean_markdown.lua
-   ```
-
-*(Note: This process will be streamlined in the future, potentially automated via GitHub Actions.)*
-
----
-# Course Structure
- - ExaminationBody_Subject_Grade/
-    - Sylubus.md
-    - examination_dates.json
-    - topics/
-        - lesson.md
-        - flashcards.json
-        - questions.json
-        - videos/
-        - audios/
----
-
-## Roadmap
-
-The following features and improvements are planned:
-
-* **Content Structuring**
-
-  * Extract individual grades, topics, concepts, and outcomes from syllabus markdown.
-  * Push structured concepts into the database.
-
-* **Lesson Material Generation**
-
-  * Automatically generate lesson material, flashcards, and quizzes from concepts.
-
-* **Past Paper Integration**
-
-  * Parse past papers and extract questions/answers.
-  * Link quiz questions to their original sources for reference.
-
-* **Media Generation**
-
-  * Generate video and podcast-style audio scripts for concepts and lessons. check out [Vilyrean](https://github.com/mchiwundura/vilyrian)
-  * Create explainer shorts and stitch them into long-form content (e.g., YouTube).
-  * Produce question explanation videos for past exam papers.
+1. Create a directory under `courses/` using the `examinationbody_subject_level` convention (lowercase, underscores).
+2. Add a `syllabus.json` with course metadata.
+3. Create a `topics/` directory and add one subdirectory per topic.
+4. Populate each topic directory with `topic.json`, `lesson.md`, `lesson.pdf`, `flashcards.json`, and any `assets/` or `videos/`.
 
 ---
 
 ## Contributing
 
-Contributions are welcome! You can:
-
-* Improve the parser.
-* Update syllabus documents with the latest versions.
-* Suggest or implement automation (e.g., GitHub Actions).
-
-Please ensure contributions align with the repository’s purpose of supporting structured educational material for Fundeka.
+Content contributions (corrections, additional topics, new exam papers) are welcome. Please keep filenames lowercase with underscores and validate JSON files before opening a pull request.
 
 ---
 
 ## License
 
-This project is proprietary. Unauthorized redistribution of syllabus documents or exam papers may be restricted by copyright.
-
----
-
+Content and code are proprietary to Fundeka unless otherwise stated.
