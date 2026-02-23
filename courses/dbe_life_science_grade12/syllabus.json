@@ -1,4 +1,9 @@
 {
-	"color" : "006A6A",
-	"icon" : "🧬"
+	"id": 1,
+  "title": "Life Science",
+  "examination_body": "Department of Basic Education",
+  "level": "Grade 12",
+  "description": "The study of living organisms, including their structure, function, growth, evolution, and interactions with their environment.",
+  "color": "#ffb84d",
+  "icon": "🧬"
 }
