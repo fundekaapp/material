@@ -41,6 +41,7 @@ courses/
 
 ```json
 {
+ "id": 1,
   "title": "Mathematics",
   "examination_body": "ZIMSEC",
   "level": "O Level",

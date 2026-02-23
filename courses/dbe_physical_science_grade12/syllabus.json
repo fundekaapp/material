@@ -1,19 +1,9 @@
 {
-	"icon" : "⚛️",
-	"color" : "#9584ff",
-  "topics": [
-    "Momentum and Impulse",
-    "Vertical Projectile Motion in One Dimension",
-    "Organic Molecules",
-		"Work Energy and Power",
-		"Doppler Effect",
-		"Rate and Extent of Reaction",
-		"Chemical Equilibrium",
-		"Acids and Bases",
-		"Electric Circuits",
-		"Electrodynamics",
-		"Optical Phenomena and Properties of Materials",
-		"Electrochemical Reactions",
-		"Chemical Industry"
-  ]
+	"id": 2,
+  "title": "Physical Science",
+  "examination_body": "Department of Basic Education",
+  "level": "Grade 12",
+  "description": "The study of non-living systems, including physics and chemistry, focusing on the properties and interactions of matter and energy.",
+  "color": "#9584ff",
+  "icon": "⚛️"
 }
