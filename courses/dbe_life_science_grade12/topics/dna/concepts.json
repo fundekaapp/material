@@ -1,0 +1,14 @@
+{
+  "concepts": [
+    {
+      "id": "DBE-LS12-DNA-C01",
+      "title": "DNA as the genetic makeup of all life",
+      "body": "DNA (deoxyribonucleic acid) serves as the fundamental genetic material for all known living organisms and many viruses, carrying the instructions for development, functioning, growth, and reproduction."
+    },
+    {
+      "id": "DBE-LS12-DNA-C02",
+      "title": "RNA as the genetic makeup of all life",
+      "body": "RNA (ribonucleic acid) serves as the fundamental genetic material for all known living organisms and many viruses, carrying the instructions for development, functioning, growth, and reproduction."
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-•	Explain that projectiles fall 
+DBE-PS12-VPM1D-
+Explain that projectiles fall 
 freely with gravitational 
 acceleration ‘g’ accelerate 
 downwards with a constant 

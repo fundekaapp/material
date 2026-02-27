@@ -1,100 +1,100 @@
 {
   "deckid": "DBE-PS12-MI",
   "title": "Momentum and Impulse",
-  "cards": [
+  "flashcards": [
     {
       "id": "DBE-PS12-MI-FC01",
-      "conceptId": "DBE-PS12-MI-C01",
+      "concept_id": "DBE-PS12-MI-C01",
       "front": "### Define momentum",
       "back": "Momentum is defined as the product of an object's mass and its velocity."
     },
     {
       "id": "DBE-PS12-MI-FC02",
-      "conceptId": "DBE-PS12-MI-C02",
+      "concept_id": "DBE-PS12-MI-C02",
       "front": "### Formula for momentum",
       "back": "The momentum of an object is given by:\n\n$$p = mv$$\nwhere \\(m\\) is mass and \\(v\\) is velocity."
     },
     {
       "id": "DBE-PS12-MI-FC03",
-      "conceptId": "DBE-PS12-MI-C03",
+      "concept_id": "DBE-PS12-MI-C03",
       "front": "### Is momentum a scalar or vector quantity?",
       "back": "Momentum is a **vector quantity** because it has both magnitude and direction. Its direction is the same as the direction of motion."
     },
     {
       "id": "DBE-PS12-MI-FC04",
-      "conceptId": "DBE-PS12-MI-C06",
+      "concept_id": "DBE-PS12-MI-C06",
       "front": "### How is change in momentum calculated?",
       "back": "The change in momentum is calculated using:\n\n$$\\Delta p = p_f - p_i$$"
     },
     {
       "id": "DBE-PS12-MI-FC05",
-      "conceptId": "DBE-PS12-MI-C07",
+      "concept_id": "DBE-PS12-MI-C07",
       "front": "### State Newton’s Second Law in terms of momentum",
       "back": "The net force acting on an object is equal to the rate of change of momentum."
     },
     {
       "id": "DBE-PS12-MI-FC06",
-      "conceptId": "DBE-PS12-MI-C08",
+      "concept_id": "DBE-PS12-MI-C08",
       "front": "### Write Newton’s Second Law in symbols (momentum form)",
       "back": "$$\\vec{F}_{net} = \\frac{\\Delta \\vec{p}}{\\Delta t}$$"
     },
     {
       "id": "DBE-PS12-MI-FC07",
-      "conceptId": "DBE-PS12-MI-C10",
+      "concept_id": "DBE-PS12-MI-C10",
       "front": "### What happens to momentum when an object reverses direction?",
       "back": "The momentum changes direction, resulting in a large change in momentum."
     },
     {
       "id": "DBE-PS12-MI-FC08",
-      "conceptId": "DBE-PS12-MI-C11",
+      "concept_id": "DBE-PS12-MI-C11",
       "front": "### What is meant by a system in physics?",
       "back": "A system is one or more objects that are being studied together."
     },
     {
       "id": "DBE-PS12-MI-FC09",
-      "conceptId": "DBE-PS12-MI-C13",
+      "concept_id": "DBE-PS12-MI-C13",
       "front": "### What is an isolated system?",
       "back": "An isolated system is one in which the net external force acting on the system is zero."
     },
     {
       "id": "DBE-PS12-MI-FC10",
-      "conceptId": "DBE-PS12-MI-C14",
+      "concept_id": "DBE-PS12-MI-C14",
       "front": "### State the law of conservation of momentum",
       "back": "The total linear momentum of an isolated system remains constant."
     },
     {
       "id": "DBE-PS12-MI-FC11",
-      "conceptId": "DBE-PS12-MI-C15",
+      "concept_id": "DBE-PS12-MI-C15",
       "front": "### Difference between elastic and inelastic collisions",
       "back": "In an **elastic collision**, both momentum and kinetic energy are conserved. In an **inelastic collision**, only momentum is conserved."
     },
     {
       "id": "DBE-PS12-MI-FC12",
-      "conceptId": "DBE-PS12-MI-C17",
+      "concept_id": "DBE-PS12-MI-C17",
       "front": "### When can conservation of momentum be applied?",
       "back": "Conservation of momentum can be applied when the system is isolated and motion occurs along a straight line."
     },
     {
       "id": "DBE-PS12-MI-FC13",
-      "conceptId": "DBE-PS12-MI-C18",
+      "concept_id": "DBE-PS12-MI-C18",
       "front": "### Define impulse",
       "back": "Impulse is defined as the product of the net force and the time interval:\n\n$$J = F_{net}\\Delta t$$"
     },
     {
       "id": "DBE-PS12-MI-FC14",
-      "conceptId": "DBE-PS12-MI-C19",
+      "concept_id": "DBE-PS12-MI-C19",
       "front": "### Is impulse a vector quantity?",
       "back": "Yes, impulse is a **vector quantity** and acts in the direction of the net force."
     },
     {
       "id": "DBE-PS12-MI-FC15",
-      "conceptId": "DBE-PS12-MI-C20",
+      "concept_id": "DBE-PS12-MI-C20",
       "front": "### State the impulse–momentum theorem",
       "back": "Impulse is equal to the change in momentum:\n\n$$J = \\Delta p$$"
     },
     {
       "id": "DBE-PS12-MI-FC16",
-      "conceptId": "DBE-PS12-MI-C22",
+      "concept_id": "DBE-PS12-MI-C22",
       "front": "### Why do airbags and seatbelts reduce injury?",
       "back": "They increase the time over which momentum changes, reducing the force experienced by the body."
     }
