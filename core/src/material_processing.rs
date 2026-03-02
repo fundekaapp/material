@@ -11,7 +11,7 @@ pub async fn refine_concepts(raw_concepts: String) -> Result<String, Box<dyn Err
         let response = client
             .generate_content()
             .with_user_message(prompt)
-            .with_system_instruction("You will receive concepts for a topic written raw, you should return these concepets in json formated with an id,title and body for the concept the first part of the id is provided at the top therefore for the concepts add the last part starting with C and increment the numbers DBE-PS12-MI-C01, just give the raw json without markdown formating and just start off with the object containing the concepts array ")
+            .with_system_instruction("You will receive concepts for a topic written raw, you should return these concepets in json formated with an id,title and body for the concept the first part of the id is provided at the top therefore for the concepts add the last part starting with C and increment the numbers DBE-PS12-MI-C01, and a a children array where you will add child concepts to the current concept if they are related in that order, just give the raw json without markdown formating and just start off with the object containing the concepts array ")
             .execute()
             .await?;
     
