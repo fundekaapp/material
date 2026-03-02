@@ -1,0 +1,44 @@
+{"flashcards": [
+    {
+        "id": "DBE-PS12-MI-FC01",
+        "concept_id": "DBE-PS12-MI-C01",
+        "front": "How are derived units expressed in terms of base units?",
+        "back": "Derived units are expressed as products or quotients of the base units, utilizing the named units listed in the appendix."
+    },
+    {
+        "id": "DBE-PS12-MI-FC02",
+        "concept_id": "DBE-PS12-MI-C02",
+        "front": "What method is used to check the homogeneity of physical equations?",
+        "back": "Base units are used to check the homogeneity of physical equations."
+    },
+    {
+        "id": "DBE-PS12-MI-FC03",
+        "concept_id": "DBE-PS12-MI-C03",
+        "front": "How can physical equations be derived using base units?",
+        "back": "Physical equations can be derived using base units."
+    },
+    {
+        "id": "DBE-PS12-MI-FC04",
+        "concept_id": "DBE-PS12-MI-C04",
+        "front": "What conventions should be understood and used for labelling graph axes and table columns?",
+        "back": "Conventions for labelling graph axes and table columns should be understood and used."
+    },
+    {
+        "id": "DBE-PS12-MI-FC05",
+        "concept_id": "DBE-PS12-MI-C05",
+        "front": "List the prefixes and their symbols used for decimal sub-multiples or multiples of units.",
+        "back": "The prefixes and their symbols are: pico (p), nano (n), micro (μ), milli (m), centi (c), deci (d), kilo (k), mega (M), giga (G), tera (T)."
+    },
+    {
+        "id": "DBE-PS12-MI-FC06",
+        "concept_id": "DBE-PS12-MI-C06",
+        "front": "How is the resultant of two or more coplanar vectors determined?",
+        "back": "The resultant of two or more coplanar vectors is determined by applying vector addition principles."
+    },
+    {
+        "id": "DBE-PS12-MI-FC07",
+        "concept_id": "DBE-PS12-MI-C07",
+        "front": "How can a vector be represented in terms of components?",
+        "back": "A vector can be represented as two perpendicular components."
+    }
+]}

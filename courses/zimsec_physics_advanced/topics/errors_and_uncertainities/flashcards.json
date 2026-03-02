@@ -1,0 +1,20 @@
+{"flashcards": [
+    {
+      "id": "DBE-PS12-MI-FC01",
+      "concept_id": "DBE-PS12-MI-C01",
+      "front": "What is the key difference between systematic and random errors in measurements?",
+      "back": "Systematic errors consistently affect measurements in one direction, leading to a consistent deviation from the true value. Random errors cause unpredictable variations around the true value, due to unpredictable fluctuations."
+    },
+    {
+      "id": "DBE-PS12-MI-FC02",
+      "concept_id": "DBE-PS12-MI-C02",
+      "front": "How do you differentiate between precision and accuracy in measurements?",
+      "back": "Precision refers to the closeness of agreement among independent measurements under the same conditions (reproducibility). Accuracy refers to the closeness of agreement between a measured value and a true value (correctness)."
+    },
+    {
+      "id": "DBE-PS12-MI-FC03",
+      "concept_id": "DBE-PS12-MI-C03",
+      "front": "How is uncertainty assessed in a quantity calculated from other measurements, without requiring rigorous statistical treatment?",
+      "back": "Uncertainty in a derived quantity is assessed by using simple methods involving the addition of actual, fractional, or percentage uncertainties from the original measurements."
+    }
+  ]}
