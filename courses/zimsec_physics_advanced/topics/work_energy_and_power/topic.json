@@ -1,0 +1,8 @@
+    {
+        "id": "WEP",
+        "title": "Work Energy and Power",
+				"icon": "⚡",
+        "description": "How energy is transferred, stored, and transformed — and how fast work is done.",
+        "order": 6
+    }
+

@@ -1,0 +1,120 @@
+```json
+{
+  "flashcards": [
+    {
+      "id": "DBE-PS12-MI-FC01",
+      "concept_id": "DBE-PS12-MI-C01",
+      "front": "What are the key principles covered in energy conversion and conservation, and what should learners be able to describe and explain regarding energy conversion systems?",
+      "back": "This concept covers the principles of energy conversion and conservation, including understanding energy losses in practical devices and the concept of efficiency. Learners should be able to describe and explain everyday examples of energy conversion systems (e.g., hydro, thermal, solar, wind, chemical electric power) and their environmental concerns."
+    },
+    {
+      "id": "DBE-PS12-MI-FC02",
+      "concept_id": "DBE-PS12-MI-C02",
+      "front": "Explain the concept of energy losses in practical devices and how efficiency is used.",
+      "back": "In practical devices, there are always energy losses. The concept of efficiency is used to quantify how much useful energy is produced compared to the total energy input, accounting for these losses."
+    },
+    {
+      "id": "DBE-PS12-MI-FC03",
+      "concept_id": "DBE-PS12-MI-C03",
+      "front": "Describe and explain everyday examples of energy conversion systems, including associated environmental concerns.",
+      "back": "Everyday examples of energy conversion include hydro, thermal, solar, wind, and chemical electric power. For instance, hydroelectric power converts kinetic energy of water into electrical energy. Solar panels convert sunlight into heat or electricity. Each system has associated environmental concerns, such as habitat disruption for hydro or greenhouse gas emissions for thermal power."
+    },
+    {
+      "id": "DBE-PS12-MI-FC04",
+      "concept_id": "DBE-PS12-MI-C04",
+      "front": "What is the definition of work in physics, and what skills are required regarding its calculation?",
+      "back": "Work is defined as the product of a force and displacement in the direction of the force. Learners must be able to calculate the work done in various situations."
+    },
+    {
+      "id": "DBE-PS12-MI-FC05",
+      "concept_id": "DBE-PS12-MI-C05",
+      "front": "Define work in terms of force and displacement.",
+      "back": "Work is defined as the product of a force and displacement in the direction of the force."
+    },
+    {
+      "id": "DBE-PS12-MI-FC06",
+      "concept_id": "DBE-PS12-MI-C06",
+      "front": "How do you calculate work done in various situations, including by an expanding gas?",
+      "back": "Work done can be calculated in various situations, including by a gas expanding against a constant external pressure. It generally involves considering the force applied and the displacement in the direction of that force."
+    },
+    {
+      "id": "DBE-PS12-MI-FC07",
+      "concept_id": "DBE-PS12-MI-C07",
+      "front": "How is the work done by a gas expanding against a constant external pressure calculated?",
+      "back": "The work done by a gas expanding against a constant external pressure is calculated using the formula: W = pΔV, where W is work done, p is constant external pressure, and ΔV is the change in volume."
+    },
+    {
+      "id": "DBE-PS12-MI-FC08",
+      "concept_id": "DBE-PS12-MI-C08",
+      "front": "What fundamental energy concepts are covered in potential energy, kinetic energy, and internal energy, and what aspects are focused on?",
+      "back": "This unit covers potential energy, kinetic energy, and internal energy. The focus is on their definitions, derivations, applications, and the ability to distinguish between different forms of energy."
+    },
+    {
+      "id": "DBE-PS12-MI-FC09",
+      "concept_id": "DBE-PS12-MI-C09",
+      "front": "What should learners be able to do with the formula for kinetic energy (Ek = ½mv²)?",
+      "back": "Learners should be able to derive, recall, and apply the formula for kinetic energy, Ek = ½mv²."
+    },
+    {
+      "id": "DBE-PS12-MI-FC10",
+      "concept_id": "DBE-PS12-MI-C10",
+      "front": "Derive the formula for kinetic energy (Ek = ½mv²) from the equations of motion.",
+      "back": "The formula for kinetic energy, Ek = ½mv², can be derived from the equations of motion. Starting from the work-energy theorem (Work Done = Change in Kinetic Energy) and Newton's second law (F=ma), along with kinematic equations (v² = u² + 2aΔs), one can show that for an object accelerating from rest (u=0) over a distance Δs, the work done is ½mv², which is equal to its final kinetic energy."
+    },
+    {
+      "id": "DBE-PS12-MI-FC11",
+      "concept_id": "DBE-PS12-MI-C11",
+      "front": "State and explain how to apply the formula for kinetic energy.",
+      "back": "The formula for kinetic energy is Ek = ½mv². To apply it, one needs the object's mass (m) and its speed (v). You can use it to calculate the kinetic energy of an object in motion or estimate it for various objects."
+    },
+    {
+      "id": "DBE-PS12-MI-FC12",
+      "concept_id": "DBE-PS12-MI-C12",
+      "front": "What are the key aspects learners should understand about potential energy?",
+      "back": "Learners should distinguish between different forms of potential energy and be able to derive and use the formula Ep = mgh for gravitational potential energy changes near the Earth's surface."
+    },
+    {
+      "id": "DBE-PS12-MI-FC13",
+      "concept_id": "DBE-PS12-MI-C13",
+      "front": "Distinguish between gravitational potential energy, electric potential energy, and elastic potential energy.",
+      "back": "Gravitational potential energy is stored due to an object's position in a gravitational field. Electric potential energy is stored due to an object's position in an electric field. Elastic potential energy is stored in a deformable object (like a spring) when it is stretched or compressed."
+    },
+    {
+      "id": "DBE-PS12-MI-FC14",
+      "concept_id": "DBE-PS12-MI-C14",
+      "front": "Derive the formula for gravitational potential energy (Ep = mgh) from the defining equation W = FΔs.",
+      "back": "To derive Ep = mgh from W = FΔs: Work done against gravity (F=mg) to lift an object vertically by height h (Δs=h) is W = (mg)(h) = mgh. This work done is stored as gravitational potential energy, so Ep = mgh."
+    },
+    {
+      "id": "DBE-PS12-MI-FC15",
+      "concept_id": "DBE-PS12-MI-C15",
+      "front": "How is the formula Ep = mgh used for potential energy changes near the Earth's surface?",
+      "back": "The formula Ep = mgh is used to calculate the change in gravitational potential energy of an object of mass 'm' when its height 'h' changes near the Earth's surface, where 'g' is the acceleration due to gravity. It's applied to scenarios like lifting objects or analyzing falling objects' energy transformations."
+    },
+    {
+      "id": "DBE-PS12-MI-FC16",
+      "concept_id": "DBE-PS12-MI-C16",
+      "front": "Explain the concept of internal energy.",
+      "back": "Internal energy is the total energy contained within a thermodynamic system. It is the sum of the kinetic and potential energies of the molecules or atoms composing the system."
+    },
+    {
+      "id": "DBE-PS12-MI-FC17",
+      "concept_id": "DBE-PS12-MI-C17",
+      "front": "What should learners understand about power, and what formula should they be able to derive and use?",
+      "back": "Learners should understand the relationship between power, work done, and time taken. They should also be able to derive and use power as the product of force and velocity."
+    },
+    {
+      "id": "DBE-PS12-MI-FC18",
+      "concept_id": "DBE-PS12-MI-C18",
+      "front": "How are power, work done, and time taken related?",
+      "back": "Power is defined as the rate at which work is done or energy is transferred. Mathematically, Power (P) = Work Done (W) / Time Taken (Δt). For example, a powerful engine can do a large amount of work in a short amount of time."
+    },
+    {
+      "id": "DBE-PS12-MI-FC19",
+      "concept_id": "DBE-PS12-MI-C19",
+      "front": "Derive and state the formula for power as the product of force and velocity.",
+      "back": "Power can be derived as the product of force and velocity (P = Fv). Since P = W/Δt and W = FΔs, then P = (FΔs)/Δt. As Δs/Δt = v (velocity), it follows that P = Fv."
+    }
+  ]
+}
+```

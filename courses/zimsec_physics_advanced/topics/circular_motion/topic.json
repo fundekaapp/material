@@ -1,0 +1,7 @@
+    {
+        "id": "CM",
+        "title": "Cicular Motion",
+				"icon": "🔄",
+        "description": "Motion along a curved path, driven by inward (centripetal) forces.",
+        "order": 7
+    }
