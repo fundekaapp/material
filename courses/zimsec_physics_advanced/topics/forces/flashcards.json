@@ -1,0 +1,54 @@
+```json
+{
+  "flashcards": [
+    {
+      "id": "DBE-PS12-MI-FC01",
+      "concept_id": "DBE-PS12-MI-C01",
+      "front": "What fundamental understanding of forces should learners acquire?",
+      "back": "Learners should be able to describe the forces acting on a mass, whether it is in motion or at rest. This includes various types of forces such as upthrust and friction."
+    },
+    {
+      "id": "DBE-PS12-MI-FC02",
+      "concept_id": "DBE-PS12-MI-C02",
+      "front": "State and explain the origin of upthrust acting on a body in a fluid, and how it is calculated using Archimedes' Principle.",
+      "back": "Upthrust is the upward buoyant force exerted by a fluid on an immersed or floating object. It originates from the pressure difference between the top and bottom surfaces of the submerged part of the object. According to Archimedes' Principle, the upthrust is equal to the weight of the fluid displaced by the body."
+    },
+    {
+      "id": "DBE-PS12-MI-FC03",
+      "concept_id": "DBE-PS12-MI-C03",
+      "front": "Describe friction as a force and what knowledge is required to understand its characteristics.",
+      "back": "Friction is a force which opposes motion between surfaces in contact or through a fluid. Knowledge of the coefficient of friction and viscosity is required to understand its characteristics."
+    },
+    {
+      "id": "DBE-PS12-MI-FC04",
+      "concept_id": "DBE-PS12-MI-C04",
+      "front": "Using Stoke's law, explain how a body falling through a viscous fluid under laminar conditions attains a terminal velocity.",
+      "back": "A body falling through a viscous fluid under laminar conditions attains a terminal velocity when the net force acting on it becomes zero. This occurs when the gravitational force (weight) is balanced by the upward buoyant force (upthrust) and the upward viscous drag force (friction) described quantitatively by Stoke's law."
+    },
+    {
+      "id": "DBE-PS12-MI-FC05",
+      "concept_id": "DBE-PS12-MI-C05",
+      "front": "Describe an experiment to determine the viscosity of a liquid using the measurement of terminal velocity.",
+      "back": "An experiment to determine the viscosity of a liquid involves dropping small spheres of known radius and density through the liquid. By measuring the terminal velocity of these spheres and applying Stoke's law, which relates viscous drag to viscosity, radius, and velocity, the liquid's viscosity can be calculated."
+    },
+    {
+      "id": "DBE-PS12-MI-FC06",
+      "concept_id": "DBE-PS12-MI-C06",
+      "front": "Define a couple and explain the concepts of the moment of a force and the torque of a couple.",
+      "back": "A couple is a pair of forces, equal in magnitude, opposite in direction, and not acting along the same line, which produces a pure rotational effect. The moment of a force (or torque) about a point is the product of the force and the perpendicular distance from the point to the line of action of the force. The torque of a couple is the product of one of the forces and the perpendicular distance between their lines of action."
+    },
+    {
+      "id": "DBE-PS12-MI-FC07",
+      "concept_id": "DBE-PS12-MI-C07",
+      "front": "What are the conditions for a system to be in equilibrium?",
+      "back": "For a system to be in equilibrium, two conditions must be met: 1) The net external force acting on the system must be zero (translational equilibrium). 2) The net external torque acting on the system must be zero (rotational equilibrium)."
+    },
+    {
+      "id": "DBE-PS12-MI-FC08",
+      "concept_id": "DBE-PS12-MI-C08",
+      "front": "What is the centre of gravity of an object?",
+      "back": "The centre of gravity of an object is the single imaginary point where the entire weight of the object appears to act. Understanding this point is crucial for analyzing stability and equilibrium."
+    }
+  ]
+}
+```

@@ -1,0 +1,7 @@
+    {
+        "id": "K",
+        "title": "Kinematics",
+				"icon": "🚗",
+        "description": "Describing motion — position, velocity, acceleration — without considering the forces that cause it.",
+        "order": 3
+    }
