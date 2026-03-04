@@ -1,7 +1,9 @@
 mod material_assistant;
 mod material_processing;
+mod pdf_parser;
 mod upload_database;
 use crate::material_processing::{create_flashcards, create_lessons, refine_concepts};
+use crate::pdf_parser::parse_pdf;
 use crate::upload_database::{
     Course, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
 };
@@ -11,6 +13,12 @@ use std::{error::Error, fs, path::Path};
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
     let dir_path = Path::new("../courses");
+
+    if let Some(arg) = env::args().nth(1) {
+        if arg == "parse_pdf" {
+            parse_pdf();
+        }
+    }
 
     for entry in fs::read_dir(dir_path)? {
         let entry = entry?;
@@ -52,23 +60,22 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 }
 
                 // renamed to topics to break this part for now
-               // let topic_file = lesson_path.join("topic.json");
+                // let topic_file = lesson_path.join("topic.json");
 
                 // if topic_file.exists() {
-                   // let topic_string = fs::read_to_string(&topic_file)?;
-                   // let topic: TopicMeta = serde_json::from_str(&topic_string)?;
-                   // println!("Sending Concept : {}", topic_string);
-                    // send_flashcards(&lesson_path, topic.id(), course.id()).await?;
+                // let topic_string = fs::read_to_string(&topic_file)?;
+                // let topic: TopicMeta = serde_json::from_str(&topic_string)?;
+                // println!("Sending Concept : {}", topic_string);
+                // send_flashcards(&lesson_path, topic.id(), course.id()).await?;
 
-                    // changed the name to jsons just too break it for now
-                  //  if lesson_path.join("concepts.jsons").exists() {
-                       // send_concept(&lesson_path, topic.id(), course.id()).await?;
-                  //  } else {
+                // changed the name to jsons just too break it for now
+                //  if lesson_path.join("concepts.jsons").exists() {
+                // send_concept(&lesson_path, topic.id(), course.id()).await?;
+                //  } else {
                 //        println!("concepts file does not exist {}", lesson_path.display())
-                 //   }
-                    // send_lesson(&lesson_path, course.id()).await?;
-               // }
-
+                //   }
+                // send_lesson(&lesson_path, course.id()).await?;
+                // }
             }
         }
     }
