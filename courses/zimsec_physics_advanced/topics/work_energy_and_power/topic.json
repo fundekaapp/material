@@ -1,8 +1,7 @@
-    {
-        "id": "WEP",
-        "title": "Work Energy and Power",
-				"icon": "⚡",
-        "description": "How energy is transferred, stored, and transformed — and how fast work is done.",
-        "order": 6
-    }
-
+{
+  "id": "WEP",
+  "title": "Work Energy and Power",
+  "icon": "⚡️",
+  "description": "This unit covers the definitions and calculations of work, kinetic energy, potential energy, and power, including energy conversions, internal energy, and efficiency.",
+  "order": 6
+}

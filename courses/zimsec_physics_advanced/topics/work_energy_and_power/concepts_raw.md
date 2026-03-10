@@ -1,3 +1,7 @@
+id: WEP
+title: Work Energy and Power 
+Order: 6
+
 WEP
 Objectives
 Learners should be able to: 

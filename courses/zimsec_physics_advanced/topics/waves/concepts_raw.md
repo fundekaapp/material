@@ -1,4 +1,7 @@
-W
+id: W 
+title: Waves
+Order: 10
+
 OBJECTIVES 
 Learners should be able to: 
  define critical angle, c 

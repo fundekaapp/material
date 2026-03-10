@@ -1,7 +1,7 @@
-    {
-        "id": "CM",
-        "title": "Cicular Motion",
-				"icon": "🔄",
-        "description": "Motion along a curved path, driven by inward (centripetal) forces.",
-        "order": 7
-    }
+{
+  "id": "CM",
+  "title": "Circular Motion",
+  "icon": "🔄",
+  "description": "This topic explores the kinematics of uniform circular motion, defining angular displacement, velocity, centripetal force, and acceleration, deriving their equations, and examining real-world applications.",
+  "order": 7
+}

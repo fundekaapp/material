@@ -1,8 +1,7 @@
-    {
-        "id": "CM",
-        "title": "Cicular Motion",
-				"icon": "🔄",
-        "description": "Motion along a curved path, driven by inward (centripetal) forces.",
-        "order": 7
-    }
-
+{
+  "id": "S",
+  "title": "Superposition",
+  "icon": "〰️",
+  "description": "Explains the principle of superposition, identifies nodes and antinodes, details two-source interference (Young's experiment), defines coherence, outlines conditions for observable fringes, and applies equations for fringe spacing and diffraction.",
+  "order": 11
+}
