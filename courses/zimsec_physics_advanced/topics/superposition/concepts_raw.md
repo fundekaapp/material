@@ -1,3 +1,7 @@
+id: S 
+title: Superposition 
+Order: 11
+
 SP
 OBJECTIVES 
 Learners should be able to:

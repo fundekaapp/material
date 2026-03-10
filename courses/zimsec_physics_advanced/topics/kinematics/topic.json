@@ -1,7 +1,7 @@
-    {
-        "id": "K",
-        "title": "Kinematics",
-				"icon": "🚗",
-        "description": "Describing motion — position, velocity, acceleration — without considering the forces that cause it.",
-        "order": 3
-    }
+{
+  "id": "K",
+  "title": "Kinematics",
+  "icon": "🏃",
+  "description": "Focuses on deriving and applying equations for uniformly accelerated rectilinear motion and analyzing projectile motion, including problem-solving.",
+  "order": 3
+}

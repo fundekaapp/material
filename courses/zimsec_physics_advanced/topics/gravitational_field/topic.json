@@ -1,7 +1,7 @@
-    {
-        "id": "GF",
-        "title": "Gravitational Field",
-				"icon": "🪐",
-        "description": "The invisible influence of mass that attracts other masses and governs planetary motion.",
-        "order": 8
-    }
+{
+  "id": "G",
+  "title": "Gravitational Field",
+  "icon": "🌍",
+  "description": "Explores gravitational fields, strength, Newton's law of gravitation, circular orbits, gravitational potential, and their applications, including the acceleration of free fall.",
+  "order": 8
+}

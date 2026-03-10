@@ -2,12 +2,15 @@ mod material_assistant;
 mod material_processing;
 mod pdf_parser;
 mod upload_database;
-use crate::material_processing::{create_flashcards, create_lessons, refine_concepts};
+use crate::material_processing::{
+    create_flashcards, create_lessons, create_topic, refine_concepts,
+};
 use crate::pdf_parser::parse_pdf;
 use crate::upload_database::{
     Course, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
 };
-use std::env;
+use std::time::Duration;
+use std::{env, thread};
 use std::{error::Error, fs, path::Path};
 
 #[tokio::main]
@@ -53,6 +56,10 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
                             let created_lesson = create_lessons(&refined_concepts).await?;
                             fs::write(lesson_path.join("lesson.md"), created_lesson);
+                        } else if arg == "create_topics" {
+                            let created_topic = create_topic(raw_concepts).await?;
+                            thread::sleep(Duration::from_secs(55));
+                            fs::write(lesson_path.join("topic.json"), &created_topic)?;
                         }
                     }
                 } else {

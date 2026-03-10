@@ -1,7 +1,7 @@
-    {
-        "id": "D",
-        "title": "Dynamics",
-				"icon": "⚙️",
-        "description": "Understanding how forces produce motion and how objects respond to them.",
-        "order": 4
-    }
+{
+  "id": "DY",
+  "title": "Dynamics",
+  "icon": "🚀",
+  "description": "This unit covers linear momentum, impulse, Newton's laws of motion, and the principle of conservation of momentum, applying these concepts to analyze forces, acceleration, and collisions, and interpreting force-time graphs.",
+  "order": 4
+}

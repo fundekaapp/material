@@ -1,4 +1,7 @@
-O
+id: O
+title: Oscillations 
+Order: 9
+
 Objectives
 Learners should be able to: 
  describe simple 
