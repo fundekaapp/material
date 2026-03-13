@@ -1,4 +1,4 @@
-use gemini_rust::Gemini;
+use gemini_rust::{Gemini, ContentBuilder};
 use std::{env, error::Error, fs, path::Path};
 
 pub async fn refine_concepts(raw_concepts: String) -> Result<String, Box<dyn Error>> {
@@ -74,3 +74,31 @@ pub async fn create_lessons(concepts: &String) -> Result<String, Box<dyn Error>>
     Ok(response.text())
 }
 
+pub async fn list_topics_from_pdf(pdf_path: &Path) -> Result<String, Box<dyn Error>> {
+    // 1. Use tokio::fs::read for async, or remove .await if using std::fs
+    let pdf_bytes = fs::read(pdf_path)?;
+
+    let api_key = env::var("GEMINI_API_KEY")?;
+    let client = Gemini::new(api_key)?;
+
+    let file_handle = client
+        .create_file(pdf_bytes)
+        .display_name(pdf_path.file_name().unwrap().to_string_lossy())
+        .with_mime_type("application/pdf".parse().unwrap())
+        .upload()
+        .await?;
+
+    // 2. Added '?' after with_user_message_and_file to handle the Result
+    let response = client
+        .generate_content()
+        .with_user_message_and_file(
+            "Extract the main topics from this PDF. Output strictly in JSON format: { \"topics\": [\"topic1\", \"topic2\"] }", 
+            &file_handle
+        )? // <--- This '?' is the key fix!
+        .execute()
+        .await?;
+
+    let _ = file_handle.delete().await;
+
+    Ok(response.text())
+}

@@ -3,7 +3,7 @@ mod material_processing;
 mod pdf_parser;
 mod upload_database;
 use crate::material_processing::{
-    create_flashcards, create_lessons, create_topic, refine_concepts,
+    create_flashcards, create_lessons, create_topic, list_topics_from_pdf, refine_concepts
 };
 use crate::pdf_parser::parse_pdf;
 use crate::upload_database::{
@@ -28,6 +28,14 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let path = entry.path();
 
         println!("Reading Course {}", path.display());
+        let syllabus_pdf = path.join("syllabus.pdf");
+        println!("syllabust pdf {}", syllabus_pdf.display());
+        if syllabus_pdf.exists() {
+            println!("yatzee");
+            let topics_list = list_topics_from_pdf(&syllabus_pdf).await?;
+            fs::write(path.join("topics.json"), &topics_list);
+        }
+
         let syllabus = format!("{}/syllabus.json", path.display());
         let contents = fs::read_to_string(&syllabus)?;
         let course: Course = serde_json::from_str(&contents)?;
