@@ -1,0 +1,129 @@
+{
+  "id": "ZIMSEC_Physics_AL_F6",
+  "title": "Physics",
+  "examination_body": "Zimbabwe School Examinations Council",
+  "level": "Advanced Level",
+  "description": "ZIMSEC Advanced Level Physics for Form 6 continues to build on fundamental principles, deepening students' understanding of the physical world. This syllabus focuses on advanced topics such as electromagnetism, electronics, thermodynamics, and modern physics. It aims to develop strong analytical and problem-solving skills, preparing learners for tertiary education and careers in STEM fields by emphasizing critical thinking and practical application of physics concepts.",
+  "icon": "⚛️",
+  "topics": [
+    {
+      "id": "ZIMSEC_AL_P6_EM",
+      "title": "Electromagnetism",
+      "icon": "🧲",
+      "description": "This topic explores the forces experienced by current-carrying conductors and moving charges within magnetic fields, introducing concepts like magnetic flux density and Fleming's left-hand rule.",
+      "order": 1
+    },
+    {
+      "id": "ZIMSEC_AL_P6_EI",
+      "title": "Electromagnetic Induction",
+      "icon": "⚡",
+      "description": "Focuses on Faraday's and Lenz's laws, explaining how changing magnetic flux induces electromotive force and current, and defining magnetic flux and its units.",
+      "order": 2
+    },
+    {
+      "id": "ZIMSEC_AL_P6_AC",
+      "title": "Alternating Currents",
+      "icon": "🔌",
+      "description": "Covers the characteristics of alternating currents, including r.m.s. values, transformer principles, and the generation, transmission, and rectification of AC electricity.",
+      "order": 3
+    },
+    {
+      "id": "ZIMSEC_AL_P6_AE",
+      "title": "Analogue Electronics",
+      "icon": "🎛️",
+      "description": "Explores the properties and applications of ideal operational amplifiers, including inverting and non-inverting configurations, feedback mechanisms, and their use as comparators, summing amplifiers, and voltage followers.",
+      "order": 4
+    },
+    {
+      "id": "ZIMSEC_AL_P6_DE",
+      "title": "Digital Electronics",
+      "icon": "💻",
+      "description": "Covers the fundamental logic gates (NOT, AND, NAND, OR, NOR) and their combinations, analyzing their use in control functions and appreciating their societal impact.",
+      "order": 5
+    },
+    {
+      "id": "ZIMSEC_AL_P6_PM",
+      "title": "Phases of Matter",
+      "icon": "🧊",
+      "description": "Explores the kinetic model of matter, relating molecular arrangement to the properties of solids, liquids, and gases, and investigates pressure in fluids.",
+      "order": 6
+    },
+    {
+      "id": "ZIMSEC_AL_P6_DS",
+      "title": "Deformation of Solids",
+      "icon": "🔨",
+      "description": "This topic examines how solids respond to forces, introducing concepts of stress, strain, Young's modulus, and distinguishing between elastic and plastic deformation, as well as material failure mechanisms like fatigue and creep.",
+      "order": 7
+    },
+    {
+      "id": "ZIMSEC_AL_P6_TE",
+      "title": "Temperature",
+      "icon": "🌡️",
+      "description": "Focuses on the principles of thermometry, exploring how physical properties are used to measure temperature and describing the operation and advantages of various thermometer types.",
+      "order": 8
+    },
+    {
+      "id": "ZIMSEC_AL_P6_TPM",
+      "title": "Thermal Properties of Materials",
+      "icon": "🔥",
+      "description": "Covers specific heat capacity, specific latent heat, internal energy, and the first law of thermodynamics, explaining how these concepts relate to temperature changes and energy transfer in materials.",
+      "order": 9
+    },
+    {
+      "id": "ZIMSEC_AL_P6_IG",
+      "title": "Ideal Gases",
+      "icon": "💨",
+      "description": "Introduces the kinetic theory of gases, explaining the relationship between molecular motion and macroscopic properties like pressure and temperature, and applies the ideal gas equation of state.",
+      "order": 10
+    },
+    {
+      "id": "ZIMSEC_AL_P6_NVFF",
+      "title": "Non-Viscous Fluid Flow",
+      "icon": "🌊",
+      "description": "Explores the principles of ideal fluid dynamics, including streamlines, the equation of continuity, and the Bernoulli effect, and applies these concepts to various real-world phenomena.",
+      "order": 11
+    },
+    {
+      "id": "ZIMSEC_AL_P6_TTE",
+      "title": "Transfer of Thermal Energy",
+      "icon": "☀️",
+      "description": "Examines the fundamental modes of thermal energy transfer: conduction, convection, and radiation, and explores concepts such as thermal equilibrium and the Zeroth law of thermodynamics.",
+      "order": 12
+    },
+    {
+      "id": "ZIMSEC_AL_P6_CP",
+      "title": "Charged Particles",
+      "icon": "⚡️",
+      "description": "Investigates the behavior of charged particles in electric and magnetic fields, covering charge quantization, Millikan's experiment, velocity selection, and mass spectrometry.",
+      "order": 13
+    },
+    {
+      "id": "ZIMSEC_AL_P6_QP",
+      "title": "Quantum Physics",
+      "icon": "⚛️",
+      "description": "Explores the quantum nature of light and matter, including the photoelectric effect, wave-particle duality, atomic energy levels, and the production of line spectra.",
+      "order": 14
+    },
+    {
+      "id": "ZIMSEC_AL_P6_AS",
+      "title": "Atomic Structure",
+      "icon": "🔬",
+      "description": "Delves into the structure of the atomic nucleus, covering alpha particle scattering, nuclide notation, mass-energy equivalence, nuclear binding energy, and the principles of nuclear fusion and fission.",
+      "order": 15
+    },
+    {
+      "id": "ZIMSEC_AL_P6_RA",
+      "title": "Radioactivity",
+      "icon": "☢️",
+      "description": "Covers the spontaneous and random nature of nuclear decay, including ionizing radiation types, background radiation, safety precautions, decay laws, and the various applications of radioisotopes.",
+      "order": 16
+    },
+    {
+      "id": "ZIMSEC_AL_P6_CO",
+      "title": "Communication",
+      "icon": "📡",
+      "description": "Explores various communication channels and methods, including analog and digital modulation techniques like AM and FM, discussing their relative merits, signal attenuation, and the impact of sampling rates on digital data transmission.",
+      "order": 17
+    }
+  ]
+}

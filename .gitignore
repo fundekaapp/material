@@ -2,3 +2,4 @@ core/target/
 parser/venv
 multimedia/venv
 multimedia/venvwin
+multimedia/template-skia/node_modules

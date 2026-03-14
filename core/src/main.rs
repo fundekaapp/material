@@ -28,12 +28,12 @@ async fn main() -> Result<(), Box<dyn Error>> {
         let path = entry.path();
 
         println!("Reading Course {}", path.display());
+
+       // Parse PDF and get topics 
         let syllabus_pdf = path.join("syllabus.pdf");
-        println!("syllabust pdf {}", syllabus_pdf.display());
         if syllabus_pdf.exists() {
-            println!("yatzee");
-            let topics_list = list_topics_from_pdf(&syllabus_pdf).await?;
-            fs::write(path.join("topics.json"), &topics_list);
+            let topics_list = list_topics_from_pdf(&syllabus_pdf, &path.display().to_string()).await?;
+            fs::write(path.join("syllabus.json"), &topics_list);
         }
 
         let syllabus = format!("{}/syllabus.json", path.display());

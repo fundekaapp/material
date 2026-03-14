@@ -1,0 +1,206 @@
+{
+  "id": "DBE_PhysicalSciences_FET_G10",
+  "title": "Physical Sciences",
+  "examination_body": "Department of Basic Education",
+  "level": "Further Education and Training",
+  "description": "The DBE Physical Sciences curriculum for Grade 10 provides a foundational understanding of physical and chemical phenomena through scientific inquiry. It equips learners with analytical skills to explore the physical environment and apply scientific models, theories, and laws to explain and predict events. The subject emphasizes problem-solving and critical thinking, integrating Indigenous Knowledge Systems to address societal challenges. This course prepares students for advanced studies and careers in science and technology, contributing to socio-economic development.",
+  "icon": "⚛️",
+  "topics": [
+    {
+      "id": "DBE_FET_PS10_MATCLS",
+      "title": "Matter and Classification",
+      "icon": "🔬",
+      "description": "Revises fundamental concepts of matter, its particulate nature, and methods of classification into heterogeneous mixtures, homogeneous mixtures, elements, and compounds, along with their defining properties.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_PS10_NFS",
+      "title": "Names and Formulae of Substances",
+      "icon": "📝",
+      "description": "Covers the revision of chemical nomenclature, including writing names and formulae for compounds using cation and anion tables, and understanding common prefixes and suffixes.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_PS10_MMNM",
+      "title": "Metals, Metalloids and Non-metals",
+      "icon": "💎",
+      "description": "Explores the classification and properties of metals, metalloids, and non-metals based on their physical and chemical characteristics, including their positions on the periodic table.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_PS10_EPM",
+      "title": "Electrical Properties of Materials",
+      "icon": "⚡",
+      "description": "Classifies materials as electrical conductors, semiconductors, and insulators, providing examples and discussing their applications based on electrical properties.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_PS10_TPM",
+      "title": "Thermal Properties of Materials",
+      "icon": "🌡️",
+      "description": "Revises methods for testing and classifying materials as thermal conductors and insulators, providing relevant examples.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_PS10_MPM",
+      "title": "Magnetic Properties of Materials",
+      "icon": "🧲",
+      "description": "Explores how to test and classify materials as magnetic or non-magnetic, providing examples of each and their practical applications in daily life.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_PS10_SMKT",
+      "title": "States of Matter and Kinetic Molecular Theory",
+      "icon": "🧊",
+      "description": "Introduces the three states of matter and explains their properties based on the Kinetic Molecular Theory, including phase changes and the microscopic behavior of particles.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_PS10_ATS",
+      "title": "Atomic Structure",
+      "icon": "⚛️",
+      "description": "Explores the fundamental structure of the atom, including historical models, subatomic particles (protons, neutrons, electrons), and concepts like atomic mass and isotopes.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_PS10_ISO",
+      "title": "Isotopes",
+      "icon": "☢️",
+      "description": "Defines isotopes, teaches how to calculate relative atomic mass from isotopic abundances, and how to represent nuclides using standard notation.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_PS10_ELEC",
+      "title": "Electron Configuration",
+      "icon": "🛰️",
+      "description": "Covers the electronic arrangement of atoms using orbital diagrams and spectroscopic notation, and introduces the principles of Aufbau, Hund's rule, and Pauli's exclusion principle.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_PS10_PTTR",
+      "title": "Periodic Table and Trends",
+      "icon": "📅",
+      "description": "Explores the organization of the periodic table, correlating element position with electronic structure and periodic trends in properties like atomic radius, ionization energy, and electronegativity.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_PS10_CHEMB",
+      "title": "Chemical Bonding",
+      "icon": "🔗",
+      "description": "Introduces the main types of chemical bonds—covalent, ionic, and metallic—explaining their formation using Lewis dot diagrams and relating them to molecular and ionic structures.",
+      "order": 12
+    },
+    {
+      "id": "DBE_FET_PS10_TPSS",
+      "title": "Transverse Pulses and Superposition",
+      "icon": "〰️",
+      "description": "Defines transverse pulses, amplitude, and superposition, explaining how constructive and destructive interference occur when pulses meet and then continue in their original direction.",
+      "order": 13
+    },
+    {
+      "id": "DBE_FET_PS10_PTW",
+      "title": "Properties of Transverse Waves",
+      "icon": "🌊",
+      "description": "Introduces key properties of transverse waves including wavelength, frequency, amplitude, period, and wave speed, and applies relationships to solve related problems.",
+      "order": 14
+    },
+    {
+      "id": "DBE_FET_PS10_PLW",
+      "title": "Properties of Longitudinal Waves",
+      "icon": "👂",
+      "description": "Explores longitudinal waves, demonstrating their generation and representing the motion of particles relative to wave propagation through diagrams.",
+      "order": 15
+    },
+    {
+      "id": "DBE_FET_PS10_SNDPR",
+      "title": "Sound and Its Properties",
+      "icon": "🔊",
+      "description": "Covers the generation and propagation of sound waves as longitudinal waves, their properties in different media, phenomena like reflection and echoes, and applications of ultrasound.",
+      "order": 16
+    },
+    {
+      "id": "DBE_FET_PS10_EMRD",
+      "title": "Electromagnetic Radiation",
+      "icon": "☀️",
+      "description": "Explores the dual wave-particle nature of electromagnetic radiation, its source, propagation, spectrum, and the energy of photons, linking these concepts to real-world applications and phenomena.",
+      "order": 17
+    },
+    {
+      "id": "DBE_FET_PS10_PBSD",
+      "title": "Particles and Bonding in Substances",
+      "icon": "🔬",
+      "description": "Examines the particulate nature of matter, detailing how atoms form covalent, ionic, and metallic bonds to create molecular, ionic, and network structures, and how to represent these with various chemical formulae and diagrams.",
+      "order": 18
+    },
+    {
+      "id": "DBE_FET_PS10_PCCH",
+      "title": "Physical and Chemical Changes",
+      "icon": "🔄",
+      "description": "Distinguishes between physical and chemical changes, emphasizing the conservation of atoms and mass during chemical reactions, and introduces balanced chemical equations as a representation of these changes.",
+      "order": 19
+    },
+    {
+      "id": "DBE_FET_PS10_MEMF",
+      "title": "Magnetism and Earth's Magnetic Field",
+      "icon": "🧲",
+      "description": "Introduces the concept of magnetic fields from permanent magnets and the Earth, explaining attraction/repulsion, magnetic field lines, and the Earth's magnetic field's properties and protective role.",
+      "order": 20
+    },
+    {
+      "id": "DBE_FET_PS10_ELSF",
+      "title": "Electrostatics Fundamentals",
+      "icon": "🔋",
+      "description": "Covers the two types of electric charge, the principles of charge conservation and quantization, and describes forces between charges and the attraction between charged and uncharged objects through polarization.",
+      "order": 21
+    },
+    {
+      "id": "DBE_FET_PS10_BEC",
+      "title": "Basic Electric Circuits",
+      "icon": "🔌",
+      "description": "Introduces fundamental concepts of electric circuits, including electromotive force (emf), potential difference, current, resistance, and the calculation of equivalent resistance for series and parallel resistor networks.",
+      "order": 22
+    },
+    {
+      "id": "DBE_FET_PS10_RAS",
+      "title": "Reactions in Aqueous Solutions",
+      "icon": "💧",
+      "description": "Explores chemical reactions occurring in aqueous solutions, covering the dissolution of ions, conductivity of electrolytes, precipitation reactions, and other reaction types like gas-forming, acid-base, and redox reactions.",
+      "order": 23
+    },
+    {
+      "id": "DBE_FET_PS10_SMOL",
+      "title": "Stoichiometry and Mole Concept",
+      "icon": "⚖️",
+      "description": "Introduces the mole concept as the SI unit for substance amount, detailing calculations involving atomic mass, molar mass, empirical formulae, concentration, molar volume of gases, and theoretical yield in chemical reactions.",
+      "order": 24
+    },
+    {
+      "id": "DBE_FET_PS10_VSIN",
+      "title": "Vectors and Scalars Introduction",
+      "icon": "↗️",
+      "description": "Introduces vectors and scalars, differentiating between them, explaining graphical representation of vectors, and teaching how to find resultant vectors in one dimension using graphical and mathematical methods.",
+      "order": 25
+    },
+    {
+      "id": "DBE_FET_PS10_KONE",
+      "title": "Kinematics in One Dimension",
+      "icon": "➡️",
+      "description": "Covers the concepts of motion in one dimension, including reference frames, position, distance, displacement, speed, velocity, and acceleration, utilizing kinematic equations and graphical representations to solve problems and understand safety implications.",
+      "order": 26
+    },
+    {
+      "id": "DBE_FET_PS10_ECONS",
+      "title": "Energy and its Conservation",
+      "icon": "🔋",
+      "description": "Explores gravitational potential energy, kinetic energy, and mechanical energy, detailing their definitions, calculations, and the principle of conservation of mechanical energy in ideal scenarios.",
+      "order": 27
+    },
+    {
+      "id": "DBE_FET_PS10_HYDR",
+      "title": "The Hydrosphere",
+      "icon": "🌍💧",
+      "description": "Examines the Earth's hydrosphere, its composition, and interactions with other global systems, including the movement of water and the environmental impact of human activities like dam building.",
+      "order": 28
+    }
+  ]
+}

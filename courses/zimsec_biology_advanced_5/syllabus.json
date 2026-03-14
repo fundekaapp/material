@@ -1,0 +1,66 @@
+{
+  "id": "ZIMSEC_Biology_AL_F5",
+  "title": "Biology",
+  "examination_body": "Zimbabwe School Examinations Council",
+  "level": "Advanced Level",
+  "description": "ZIMSEC Advanced Level Biology provides learners with theoretical, practical, research, and problem-solving skills, fostering an appreciation for local flora and fauna and their sustainable utilization. The curriculum emphasizes the application of biological skills to real-life problems, highlighting the intricate link between human activities and the environment. It promotes inquiry-based learning, enabling students to critically examine issues, contribute to informed debates on health and well-being, and develop innovative, enterprising, and self-reliant aptitudes essential for socio-economic development.",
+  "icon": "🧬",
+  "topics": [
+    {
+      "id": "ZIMSEC_AL_B_F5_CSF",
+      "title": "Cell Structure and Function",
+      "icon": "🔬",
+      "description": "This topic introduces learners to microscopy, the characteristics of plant and animal cells, the functions of various organelles, and the key differences between eukaryotic and prokaryotic cells, alongside understanding the movement of substances across cell membranes.",
+      "order": 1
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_BMW",
+      "title": "Biological Molecules and Water",
+      "icon": "🧪",
+      "description": "Learners will explore the structure, properties, and biological roles of essential macromolecules including carbohydrates, lipids, and proteins, and understand the critical functions of water within living organisms and as an environmental component.",
+      "order": 2
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_CND",
+      "title": "Cell and Nuclear Division",
+      "icon": "🦠",
+      "description": "This section covers the cell cycle, detailing the processes of mitosis and meiosis, explaining their significance in growth, repair, and reproduction, and identifying factors associated with cancerous growth.",
+      "order": 3
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_GEC",
+      "title": "Genetic Control",
+      "icon": "🧬",
+      "description": "Students will learn about the structure of nucleic acids (DNA and RNA), the process of DNA replication, and the mechanisms of protein synthesis, gaining insight into how genetic information is stored and expressed.",
+      "order": 4
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_ICE",
+      "title": "Inherited Change and Evolution",
+      "icon": "🌿",
+      "description": "This topic examines the fundamental concept of the gene as a unit of inheritance and explores the principles of monohybrid and dihybrid crosses, including the application of the chi-squared test.",
+      "order": 5
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_ENE",
+      "title": "Energetics",
+      "icon": "⚡",
+      "description": "Learners will study the structure and synthesis of ATP, delve into the intricacies of photosynthesis and respiration, and understand the factors influencing these vital energy conversion processes in living systems.",
+      "order": 6
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_TRS",
+      "title": "Transport Systems",
+      "icon": "🌱",
+      "description": "This module focuses on the structure and mechanisms of transport systems in plants, including the role of xylem and phloem in water and assimilate translocation, and the various pathways and forces involved.",
+      "order": 7
+    },
+    {
+      "id": "ZIMSEC_AL_B_F5_HHD",
+      "title": "Human Health and Disease",
+      "icon": "❤️‍🩹",
+      "description": "This topic introduces the global distribution of various diseases, including malaria, tuberculosis, HIV/AIDS, and coronary heart disease, and explores aspects of drug and substance abuse and the human immune system.",
+      "order": 8
+    }
+  ]
+}

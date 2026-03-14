@@ -1,0 +1,70 @@
+{
+  "concepts": [
+    {
+      "id": "DBE-PS12-MI-C01",
+      "title": "Kinematics",
+      "body": "Kinematics is the branch of classical mechanics that describes the motion of points, bodies (objects), and systems of bodies without considering the forces that cause the motion. This unit focuses on describing and analysing various types of motion, including rectilinear and non-linear motion.",
+      "children": [
+        "DBE-PS12-MI-C02",
+        "DBE-PS12-MI-C05",
+        "DBE-PS12-MI-C07"
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C02",
+      "title": "Rectilinear Motion",
+      "body": "Rectilinear motion refers to motion that occurs along a straight line. This type of motion involves objects moving with uniform velocity or uniform acceleration in a single dimension.",
+      "children": [
+        "DBE-PS12-MI-C03",
+        "DBE-PS12-MI-C04"
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C03",
+      "title": "Deriving Equations for Uniformly Accelerated Rectilinear Motion",
+      "body": "Learners should be able to derive the standard equations of motion for uniformly accelerated motion in a straight line, based on the definitions of velocity and acceleration. (Suggested learning activity: Deriving equations of motion).",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C04",
+      "title": "Solving Problems on Uniformly Accelerated Rectilinear Motion",
+      "body": "Learners should be able to apply and solve problems using the equations which represent uniformly accelerated motion in a straight line. This includes scenarios involving the motion of bodies falling in a uniform gravitational field without air resistance. (Suggested learning activity: Solving problems using equations of linear motion).",
+      "children": [
+        "DBE-PS12-MI-C08"
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C05",
+      "title": "Non-linear Motion (Projectiles)",
+      "body": "Non-linear motion refers to motion that occurs along a curved path. A key example is projectile motion, where an object moves with a combination of uniform velocity in one direction and uniform acceleration in a perpendicular direction.",
+      "children": [
+        "DBE-PS12-MI-C06",
+        "DBE-PS12-MI-C09"
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C06",
+      "title": "Describing Projectile Motion",
+      "body": "Learners should be able to describe and explain motion due to a uniform velocity in one direction (e.g., horizontal) and a uniform acceleration in a perpendicular direction (e.g., vertical, due to gravity), which characterizes projectile motion. (Suggested learning activity: Analysing projectile motion).",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C07",
+      "title": "Everyday Examples of Rectilinear and Non-linear Motion",
+      "body": "Learners should be able to identify and explain some everyday examples of both rectilinear motion (straight-line movement, such as a car driving on a straight road) and non-linear motion (curved path movement, such as throwing a ball or a rollercoaster going through a loop).",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C08",
+      "title": "Standard Equations for Uniformly Accelerated Rectilinear Motion",
+      "body": "The key equations used to describe uniformly accelerated motion in a straight line are:\nv = u + at (final velocity = initial velocity + acceleration × time)\nv² = u² + 2as (final velocity² = initial velocity² + 2 × acceleration × displacement)\ns = ut + ½at² (displacement = initial velocity × time + ½ × acceleration × time²)",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C09",
+      "title": "Solving Problems on Projectile Motion",
+      "body": "Learners should be able to solve problems using standard equations and principles specifically applicable to projectile motion. (Suggested learning activity: Solving projectile motion problems).",
+      "children": []
+    }
+  ]
+}

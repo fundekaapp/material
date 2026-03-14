@@ -1,0 +1,57 @@
+{"concepts": [
+  {
+    "id": "DBE-PS12-OM-C01",
+    "title": "Introduction to Organic Molecules and Carbon Properties",
+    "body": "• Define organic molecules as molecules containing carbon atoms.\n• Describe carbon as the basic building block of organic compounds that recycles through the earth’s air, water, soil, and living organisms including human beings.\n• Discuss the special properties of carbon that makes it possible to form a variety of bonds."
+  },
+  {
+    "id": "DBE-PS12-OM-C02",
+    "title": "Organic Molecular Structures and Isomerism",
+    "body": "• Discuss organic molecular structures, including functional groups, saturated and unsaturated structures, and isomers.\n• Give condensed structural, structural, and molecular formulae for alkanes and compounds containing the following functional groups: double carbon-carbon bonds, triple carbon-carbon bonds, alkyl halides, alcohols, carboxylic acids, esters, aldehydes, and ketones (up to 8 carbon atoms).\n• Explain the terms functional group, hydrocarbon, and homologous series.\n• Explain the terms saturated, unsaturated, and isomer.\n• Identify compounds that are saturated, unsaturated, and are isomers (up to 8 carbon atoms).\n• Isomers are restricted to structural isomers: (1) chain isomers (different chain); (2) positional isomers (different position of the same functional group); and (3) functional isomers (different functional group). Remember ALL possible isomers have the SAME molecular formula."
+  },
+  {
+    "id": "DBE-PS12-OM-C03",
+    "title": "IUPAC Naming Conventions for Organic Compounds",
+    "body": "• Give the IUPAC name when given the formula.\n• Give the formula when given the IUPAC name.\n• Naming is restricted to compounds with the functional groups alkanes, alkenes, alkynes, alkyl halides, aldehydes, ketones, alcohols, carboxylic acids, and esters, up to a maximum of 8 carbon atoms in the parent chain (i.e., the longest chain).\n• Organic compounds are restricted to one type of functional group per compound and to a maximum of two functional groups of the same type per compound.\n• The only substituent chains that are allowed in naming and reactions are: methyl- and ethyl- groups.\n• A maximum of THREE substituent chains (alkyl substituents) are allowed on the parent chain."
+  },
+  {
+    "id": "DBE-PS12-OM-C04",
+    "title": "Relating Structure to Physical Properties",
+    "body": "• Recognize and apply to given examples the relationship between:\n  - Physical properties and intermolecular forces (examples: ethanol, dimethyl ether, ethanoic acid, ethane, chloro-ethane).\n  - Physical properties and number and type of functional groups (examples: ethanol, dimethyl ether, ethanoic acid, ethane, chloro-ethane).\n  - Physical properties and chain length (examples: methane, ethane, propane, butane, hexane, octane).\n  - Physical properties and branched chains (examples: pentane, 2-methylbutane; 2,2-dimethylpropane)."
+  },
+  {
+    "id": "DBE-PS12-OM-C05",
+    "title": "Applications: Alkanes as Fuels and Ester Formation",
+    "body": "• Alkanes are our most important (fossil) fuels. The combustion of alkanes (oxidation) is highly exothermic and carbon dioxide and water are produced: alkane + O2 → H2O + CO2 with ∆H<0.\n• An ester is a product of an acid-catalyzed condensation between an alcohol and a carboxylic acid.\n• Identify the alcohol and carboxylic acid used to prepare a given ester and vice versa, and write an equation to present this preparation."
+  },
+  {
+    "id": "DBE-PS12-OM-C06",
+    "title": "Classification of Organic Reactions: Substitution, Addition, Elimination",
+    "body": "• Describe criteria to use to classify elimination, substitution or addition reactions according to structural change.\n• Reactions are limited to alkanes, alkenes, alkynes, alcohols, haloalkanes, carboxylic acids, and esters."
+  },
+  {
+    "id": "DBE-PS12-OM-C07",
+    "title": "Addition Reactions: Types and Conditions",
+    "body": "• Addition reactions: Unsaturated compounds (alkenes, cycloalkenes) undergo addition reactions:\n  - Hydrohalogenation: Addition of HX to an alkene (e.g., CH2=CH2 + HCℓ → CH3-CH2Cℓ). Reaction conditions: HX (X = Cℓ, Br, I) added to alkene; no water must be present. During addition of HX to unsaturated hydrocarbons, the H atom attaches to the C atom already having the greater number of H atoms. The X atom attaches to the more substituted C atom.\n  - Halogenation: Addition of X2 (X = Cℓ, Br) to alkenes (e.g., CH2=CH2 + Cℓ2 → CH2Cℓ-CH2Cℓ). Reaction conditions: X2 (X = Cℓ, Br) added to alkene.\n  - Hydration: Addition of H2O to alkenes (e.g., CH2=CH2 + H2O → CH3-CH2OH). Reaction conditions: H2O in excess and a small amount of HX or other strong acid (H3PO4) as catalyst. During addition of H2O to unsaturated hydrocarbons, the H atom attaches to the C atom already having the greater number of H atoms. The OH group attaches to the more substituted C-atom.\n  - Hydrogenation: Addition of H2 to alkenes (e.g., CH2=CH2 + H2 → CH3-CH3). Reaction conditions: alkene dissolved in a non-polar solvent with the catalyst (Pt, Pd or Ni) in a H2 atmosphere."
+  },
+  {
+    "id": "DBE-PS12-OM-C08",
+    "title": "Elimination Reactions: Types and Conditions",
+    "body": "• Elimination reactions: Saturated compounds (haloalkanes, alcohols, alkanes) undergo elimination reactions:\n  - Dehydrohalogenation: Elimination of HX from a haloalkane (e.g., CH2Cℓ-CH2Cℓ → CH2=CHCℓ + HCℓ). Reaction conditions: heat under reflux in a concentrated solution of NaOH or KOH in pure ethanol as the solvent (i.e., hot ethanolic NaOH/KOH). If more than one elimination product is possible, the major product is the one where the H atom is removed from the C atom with the least number of H atoms.\n  - Dehydration of alcohols: Elimination of H2O from an alcohol (e.g., CH3-CH2OH → CH2=CH2 + H2O). Reaction conditions: Acid-catalyzed dehydration - heating of alcohol with an excess of concentrated H2SO4 (or H3PO4). If more than one elimination product is possible, the major product is the one where the H atom is removed from the C atom with the least number of H atoms.\n  - Cracking of hydrocarbons: Breaking up large hydrocarbon molecules into smaller and more useful bits. Reaction conditions: high pressures and temperatures without a catalyst (thermal cracking), or lower temperatures and pressures in the presence of a catalyst (catalytic cracking)."
+  },
+  {
+    "id": "DBE-PS12-OM-C09",
+    "title": "Substitution Reactions: Types and Conditions",
+    "body": "• Substitution reactions:\n  - Interconversion between alcohols and haloalkanes: Reactions of HX (X = Cℓ, Br) with alcohols to produce haloalkanes. Reaction conditions: Tertiary alcohols are converted into haloalkanes using HBr or HCℓ at room temperature (e.g., C(CH3)3OH + HBr → C(CH3)3Br + H2O). The reaction works best with tertiary alcohols. Primary and secondary alcohols react slowly and at high temperatures.\n  - Reactions of bases with haloalkanes (Hydrolysis) to produce alcohols (e.g., C(CH3)3X + KOH → C(CH3)3OH + KBr). Reaction conditions: Haloalkane dissolved in ethanol before treatment with aqueous sodium hydroxide and warming the mixture; the same hydrolysis reaction occurs more slowly without alkali (i.e., H2O added to the haloalkane dissolved in ethanol). (Strong bases will cause elimination).\n  - Haloalkanes from alkanes. Reaction conditions: X2 (X = Br, Cℓ) added to alkane in the presence of light or heat."
+  },
+  {
+    "id": "DBE-PS12-OM-C10",
+    "title": "Addition Polymerization and Polyethene",
+    "body": "• Describe addition reactions that are important in industry, e.g., addition polymerization reactions to produce polyethylene, polypropylene, and PVC.\n• Describe the terms polymer; macromolecule, chain, monomer, functional groups.\n• Illustrate the reaction to produce a polymer by an addition reaction using the polymerization of ONLY ethene to produce polythene: [nCH2=CH2 → (-CH2-CH2-)n].\n• What is the industrial use of polythene? (Make squeeze bottles, plastic bags, films, toys and molded objects, electric insulation. Polythene has the recycling number 4)."
+  },
+  {
+    "id": "DBE-PS12-OM-C11",
+    "title": "Condensation Polymerization and Polymer Identification",
+    "body": "• Illustrate the reaction to produce a polymer by condensation reaction with the reaction to produce a polyester. Polylactic acid (PLA) is an interesting polymer because the monomer used for this polymer comes from the biological fermentation of plant materials (as opposed to monomers coming from petroleum) and the polymer is biodegradable. This polymer (PLA) is mostly used for packaging material and because it is biodegradable it has the potential to alleviate land-fill disposal problems.\n  n HOC(=O)R-COH + nHOCH2CH2OH → [-C(=O)R-C(=O)OCH2CH2O-]n + 2nH2O\n• Identify the monomer used to produce a polymer from the structural formula of a section of a chain. Use only the following polymers to identify monomers: Polyvinyl chloride (PVC); polystyrene; polythene, and polyvinyl acetate (PVA). (Limited to identification of monomers).\n• Identify a polymer as the product of an addition or condensation polymerization reaction, from its structural formula (use only polythene and Polylactic acid)."
+  }
+]}

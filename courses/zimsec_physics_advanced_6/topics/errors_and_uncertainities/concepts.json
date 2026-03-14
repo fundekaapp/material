@@ -1,0 +1,20 @@
+{"concepts": [
+    {
+      "id": "DBE-PS12-MI-C01",
+      "title": "Distinguishing between Systematic and Random Errors",
+      "body": "Understand how to differentiate between systematic errors, which consistently affect measurements in one direction, and random errors, which cause unpredictable variations around the true value. Learning activities include directly differentiating between these types of errors.",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C02",
+      "title": "Differentiating between Precision and Accuracy",
+      "body": "Learn to distinguish between precision, which refers to the closeness of agreement among independent measurements under the same conditions, and accuracy, which refers to the closeness of agreement between a measured value and a true value. Demonstrating precision and accuracy is a key learning activity.",
+      "children": []
+    },
+    {
+      "id": "DBE-PS12-MI-C03",
+      "title": "Assessing Uncertainty in Derived Quantities",
+      "body": "Assess the uncertainty in a quantity calculated from other measurements by using simple methods involving the addition of actual, fractional, or percentage uncertainties. A rigorous statistical treatment for error propagation is not required. Activities include combining errors from different sources.",
+      "children": []
+    }
+  ]}

@@ -1,0 +1,7 @@
+    {
+        "id": "VPM1D",
+        "title": "Vertical Projectile Motion in One Dimension",
+				"icon": "⚽",
+        "description": "The movement of projectiles in one dimension",
+        "order": 2
+    }

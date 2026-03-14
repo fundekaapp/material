@@ -1,0 +1,132 @@
+```json
+{
+  "flashcards": [
+    {
+      "id": "DBE-PS12-MI-FC01",
+      "concept_id": "DBE-PS12-MI-C01",
+      "front": "What fundamental concepts, kinematics, forces, and applications does the 'Circular Motion Overview' section introduce?",
+      "back": "This section introduces the fundamental concepts, kinematics, forces, and applications related to objects moving in a circular path."
+    },
+    {
+      "id": "DBE-PS12-MI-FC02",
+      "concept_id": "DBE-PS12-MI-C02",
+      "front": "What is the main purpose of the 'Learning Objectives for Circular Motion' section?",
+      "back": "Learners should be able to achieve the following specific outcomes related to the study of circular motion."
+    },
+    {
+      "id": "DBE-PS12-MI-FC03",
+      "concept_id": "DBE-PS12-MI-C03",
+      "front": "How should learners express angular displacement quantitatively?",
+      "back": "Learners should be able to quantitatively express angular displacement using the unit of radians."
+    },
+    {
+      "id": "DBE-PS12-MI-FC04",
+      "concept_id": "DBE-PS12-MI-C04",
+      "front": "What key terms are learners expected to define precisely regarding circular motion?",
+      "back": "Learners should be able to provide precise definitions for the key terms: angular velocity, centripetal force, and centripetal acceleration."
+    },
+    {
+      "id": "DBE-PS12-MI-FC05",
+      "concept_id": "DBE-PS12-MI-C05",
+      "front": "What should learners comprehend about the practical applications and significance of angular velocity?",
+      "back": "Learners should comprehend the practical applications and significance of the concept of angular velocity in describing rotational motion."
+    },
+    {
+      "id": "DBE-PS12-MI-FC06",
+      "concept_id": "DBE-PS12-MI-C06",
+      "front": "What equation relates linear velocity, radius, and angular velocity in circular motion, and what should learners be able to do with it?",
+      "back": "Learners should be able to derive and apply the equation v = rω, which relates linear velocity (v) to the radius (r) and angular velocity (ω) in circular motion."
+    },
+    {
+      "id": "DBE-PS12-MI-FC07",
+      "concept_id": "DBE-PS12-MI-C07",
+      "front": "How should learners describe an object's motion in a curved path due to a force perpendicular to its velocity, without using equations?",
+      "back": "Learners should be able to describe, without necessarily using equations, how an object moves in a curved path due to a force perpendicular to its velocity."
+    },
+    {
+      "id": "DBE-PS12-MI-FC08",
+      "concept_id": "DBE-PS12-MI-C08",
+      "front": "What should learners be able to explain about the nature and direction of centripetal acceleration in uniform circular motion?",
+      "back": "Learners should be able to explain the nature and direction of centripetal acceleration in the context of an object undergoing uniform motion in a circle."
+    },
+    {
+      "id": "DBE-PS12-MI-FC09",
+      "concept_id": "DBE-PS12-MI-C09",
+      "front": "What are the formulas for centripetal acceleration, and what should learners be able to do with them?",
+      "back": "Learners should be able to derive and apply the formulas for centripetal acceleration: a = v²/r and a = rω²."
+    },
+    {
+      "id": "DBE-PS12-MI-FC10",
+      "concept_id": "DBE-PS12-MI-C10",
+      "front": "What are the formulas for centripetal force, and how should learners utilize them?",
+      "back": "Learners should be able to utilize the formulas for centripetal force: F = mv²/r and F = mrω², to solve related problems."
+    },
+    {
+      "id": "DBE-PS12-MI-FC11",
+      "concept_id": "DBE-PS12-MI-C11",
+      "front": "What real-world examples of circular motion, including banked roads and geostationary orbits, should learners be able to describe and explain?",
+      "back": "Learners should be able to describe and explain real-world instances of circular motion, including banked roads, geostationary orbits, and their practical applications."
+    },
+    {
+      "id": "DBE-PS12-MI-FC12",
+      "concept_id": "DBE-PS12-MI-C12",
+      "front": "What does the 'Unit Content: Core Concepts' section outline for the circular motion unit?",
+      "back": "This section outlines the essential skills, attitudes, and knowledge components of the circular motion unit."
+    },
+    {
+      "id": "DBE-PS12-MI-FC13",
+      "concept_id": "DBE-PS12-MI-C13",
+      "front": "Define the kinematics of uniform circular motion.",
+      "back": "The study of motion for objects moving with constant speed in a circular path, focusing on displacement, velocity, and acceleration."
+    },
+    {
+      "id": "DBE-PS12-MI-FC14",
+      "concept_id": "DBE-PS12-MI-C14",
+      "front": "What is centripetal acceleration in circular motion?",
+      "back": "A key concept in circular motion, describing the acceleration component directed towards the center of the circular path."
+    },
+    {
+      "id": "DBE-PS12-MI-FC15",
+      "concept_id": "DBE-PS12-MI-C15",
+      "front": "Define centripetal force.",
+      "back": "The force required to keep an object moving in a circular path, always directed towards the center of the circle."
+    },
+    {
+      "id": "DBE-PS12-MI-FC16",
+      "concept_id": "DBE-PS12-MI-C16",
+      "front": "What does the 'Suggested Learning Activities and Notes' section provide for circular motion concepts?",
+      "back": "Recommended pedagogical approaches and activities to enhance understanding and engagement with the concepts of circular motion."
+    },
+    {
+      "id": "DBE-PS12-MI-FC17",
+      "concept_id": "DBE-PS12-MI-C17",
+      "front": "What is the focus of the 'Deriving Equations of Circular Motion' activity?",
+      "back": "An activity focused on the derivation of mathematical equations used to describe various aspects of circular motion."
+    },
+    {
+      "id": "DBE-PS12-MI-FC18",
+      "concept_id": "DBE-PS12-MI-C18",
+      "front": "What does the 'Demonstrating Circular Motion' activity involve?",
+      "back": "Practical demonstrations of circular motion using everyday items like buckets with water, in both vertical and horizontal planes."
+    },
+    {
+      "id": "DBE-PS12-MI-FC19",
+      "concept_id": "DBE-PS12-MI-C19",
+      "front": "What kind of experiential learning is suggested by the 'Visiting Centres Utilizing Circular Motion' activity?",
+      "back": "An experiential learning activity involving visits to locations or facilities where principles of circular motion are practically applied."
+    },
+    {
+      "id": "DBE-PS12-MI-FC20",
+      "concept_id": "DBE-PS12-MI-C20",
+      "front": "What real-world activity is suggested to understand circular motion in context?",
+      "back": "Observational and experiential activity of riding bicycles at a roundabout to understand circular motion in a real-world context."
+    },
+    {
+      "id": "DBE-PS12-MI-FC21",
+      "concept_id": "DBE-PS12-MI-C21",
+      "front": "What is the main goal of the 'Problem Solving: Deriving and Using Equations' activity?",
+      "back": "An activity focused on the application of derived equations to solve quantitative problems related to circular motion."
+    }
+  ]
+}
+```

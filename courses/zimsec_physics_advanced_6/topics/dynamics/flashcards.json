@@ -1,0 +1,74 @@
+{"flashcards": [
+    {
+      "id": "DBE-PS12-MI-FC01",
+      "concept_id": "DBE-PS12-MI-C01",
+      "front": "What are the learning objectives for 'Linear Momentum'?",
+      "back": "Define linear momentum and apply its principles, including the conservation of momentum in various scenarios."
+    },
+    {
+      "id": "DBE-PS12-MI-FC02",
+      "concept_id": "DBE-PS12-MI-C02",
+      "front": "Define linear momentum.",
+      "back": "Linear momentum is defined as the product of mass and velocity."
+    },
+    {
+      "id": "DBE-PS12-MI-FC03",
+      "concept_id": "DBE-PS12-MI-C03",
+      "front": "Explain the application of Force, Mass, and Acceleration (F=ma) and the relationship between acceleration and force.",
+      "back": "Problems can be solved using the relationship F=ma, appreciating that acceleration and force are always in the same direction."
+    },
+    {
+      "id": "DBE-PS12-MI-FC04",
+      "concept_id": "DBE-PS12-MI-C04",
+      "front": "State the Principle of Conservation of Momentum.",
+      "back": "The Principle of Conservation of Momentum states that in an isolated system, the total momentum remains constant, provided no external forces act on it."
+    },
+    {
+      "id": "DBE-PS12-MI-FC05",
+      "concept_id": "DBE-PS12-MI-C05",
+      "front": "How is the principle of conservation of momentum applied in collisions?",
+      "back": "The principle of conservation of momentum is used in simple applications, including elastic and inelastic collisions between two bodies in one dimension."
+    },
+    {
+      "id": "DBE-PS12-MI-FC06",
+      "concept_id": "DBE-PS12-MI-C06",
+      "front": "What characteristic defines a perfectly elastic collision in terms of relative speeds?",
+      "back": "For a perfectly elastic collision, the relative speed of approach is equal to the relative speed of separation."
+    },
+    {
+      "id": "DBE-PS12-MI-FC07",
+      "concept_id": "DBE-PS12-MI-C07",
+      "front": "What are the learning objectives for 'Impulse'?",
+      "back": "Define impulse and understand its relationship with momentum and force-time graphs."
+    },
+    {
+      "id": "DBE-PS12-MI-FC08",
+      "concept_id": "DBE-PS12-MI-C08",
+      "front": "Define impulse.",
+      "back": "Impulse is defined as 'change in momentum'."
+    },
+    {
+      "id": "DBE-PS12-MI-FC09",
+      "concept_id": "DBE-PS12-MI-C09",
+      "front": "Explain the significance of the area under a force-time graph.",
+      "back": "The area under a force-time graph represents the impulse, which is equivalent to the change in momentum."
+    },
+    {
+      "id": "DBE-PS12-MI-FC10",
+      "concept_id": "DBE-PS12-MI-C10",
+      "front": "What are the learning objectives for 'Applications of Newton's Laws and Conservation of Linear Momentum'?",
+      "back": "Describe various applications of Newton's laws of motion and the principle of conservation of linear momentum."
+    },
+    {
+      "id": "DBE-PS12-MI-FC11",
+      "concept_id": "DBE-PS12-MI-C11",
+      "front": "Describe applications of Newton's laws of motion.",
+      "back": "Applications of Newton's laws of motion are diverse and fundamental to understanding motion and forces in physics. (Specific examples would be needed for a more detailed answer, but the concept body does not provide them)."
+    },
+    {
+      "id": "DBE-PS12-MI-FC12",
+      "concept_id": "DBE-PS12-MI-C12",
+      "front": "Describe applications of the conservation of linear momentum.",
+      "back": "Applications of the conservation of linear momentum include analyzing collisions, rocket propulsion, and recoil of firearms. (Specific examples would be needed for a more detailed answer, but the concept body does not provide them)."
+    }
+  ]}

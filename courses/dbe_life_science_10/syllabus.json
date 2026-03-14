@@ -1,0 +1,108 @@
+{
+  "id": "DBE_LifeSciences_FET_G10",
+  "title": "Life Sciences",
+  "examination_body": "Department of Basic Education",
+  "level": "Further Education and Training (FET) Phase",
+  "description": "ZIMSEC Advanced Level Physics develops a deep understanding of the fundamental principles that govern the physical universe. The syllabus builds strong analytical and problem-solving skills through topics such as mechanics, electricity and magnetism, and quantum physics. Learners explore the scientific study of living things, from the molecular level to their interactions with the environment, fostering critical thinking and an appreciation for life's diversity.",
+  "icon": "🌱",
+  "topics": [
+    {
+      "id": "DBE_FET_LSG10_SO",
+      "title": "Subject Orientation: Introduction to Life Sciences",
+      "icon": "🧭",
+      "description": "This introductory topic establishes links between natural and life sciences, defines life's scope and continuity, and outlines scientific inquiry methods and skills essential for the FET phase.",
+      "order": 0
+    },
+    {
+      "id": "DBE_FET_LSG10_COL",
+      "title": "The Chemistry of Life",
+      "icon": "🧪",
+      "description": "Explores the fundamental organic and inorganic molecules essential for life, including their basic structures, functions, and the importance of minerals and water.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells",
+      "title": "Cells: The Basic Units of Life",
+      "icon": "🔬",
+      "description": "Examines the history of microscopy, delves into the structure and specialized functions of various cell organelles, and compares plant and animal cells.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM",
+      "title": "Cell Division: Mitosis and Cancer",
+      "icon": "🧬",
+      "description": "Covers the cell cycle, the stages and significance of mitosis for growth and repair, the role of chromosomes, and briefly discusses cancer as uncontrolled cell division.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI",
+      "title": "Introduction to Tissues",
+      "icon": "🌿",
+      "description": "Introduces the concept of tissues as specialized cell groups, exploring the basic structure and function of various plant tissues like xylem and phloem.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB",
+      "title": "Animal Tissues, Indigenous Knowledge and Biotechnology",
+      "icon": "🧬",
+      "description": "Examines the four basic types of animal tissues and their functions, alongside applications of indigenous knowledge systems and biotechnology in life sciences.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs",
+      "title": "Organs: Leaf Structure",
+      "icon": "🍃",
+      "description": "Introduces organs as groups of tissues performing specific functions, using the dicotyledonous leaf as an example to illustrate its structure and functions like photosynthesis and transport.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS",
+      "title": "Plant Support and Transport Systems",
+      "icon": "🌱",
+      "description": "Investigates the anatomy of dicotyledonous plants, including root and stem tissues, secondary growth, and processes like transpiration, water/mineral intake, and translocation of manufactured food.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL",
+      "title": "Animal Support Systems and Locomotion",
+      "icon": "🦴",
+      "description": "Compares different types of skeletons, details the human skeleton's structure and functions, describes various joints and their roles in locomotion, and outlines related diseases.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS",
+      "title": "Human Transport Systems: Circulatory and Lymphatic Systems",
+      "icon": "❤️",
+      "description": "Examines the human circulatory system, including heart structure, blood flow, and its control, along with the lymphatic system and common related diseases.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF",
+      "title": "Biosphere to Ecosystems and Energy Flow",
+      "icon": "🌍",
+      "description": "Introduces the biosphere and its components, explores South African biomes, examines environmental interactions through abiotic and biotic factors, and analyzes energy flow and nutrient cycling within ecosystems.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP",
+      "title": "Environmental Interactions and Human Population Dynamics",
+      "icon": "👥",
+      "description": "Investigates various environmental interactions including predation and competition, explores symbiotic relationships and social organization, and analyzes community succession and human population growth and its implications.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC",
+      "title": "Biodiversity and Biological Classification",
+      "icon": "🦠",
+      "description": "Explores the vast biodiversity on Earth, introduces classification schemes, binomial nomenclature, the five-kingdom system, and distinguishes between prokaryotic and eukaryotic organisms.",
+      "order": 12
+    },
+    {
+      "id": "DBE_FET_LSG10_HLFE",
+      "title": "History of Life, Fossils, and Earth's Changes",
+      "icon": "🌎",
+      "description": "Traces the history of life on Earth, covering major geological and climatic changes, examines fossil evidence and formation methods, highlights key events in South African palaeontology, and discusses mass extinctions and human impact on biodiversity.",
+      "order": 13
+    }
+  ]
+}

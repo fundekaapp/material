@@ -1,0 +1,94 @@
+{
+  "id": "DBE_PhysicalSciences_FET_G12",
+  "title": "Physical Sciences",
+  "examination_body": "Department of Basic Education",
+  "level": "Grade 12",
+  "description": "DBE Physical Sciences for Grade 12 develops a comprehensive understanding of physical and chemical phenomena through rigorous scientific inquiry. The curriculum emphasizes analytical and problem-solving skills, preparing students for advanced studies and diverse career paths in science and technology. It integrates theoretical knowledge with practical applications across core areas like mechanics, electricity, chemistry, and materials science.",
+  "icon": "⚛️",
+  "topics": [
+    {
+      "id": "DBE_FET_PS12_MI",
+      "title": "Momentum and Impulse",
+      "icon": "💥",
+      "description": "Defines momentum and impulse as vector quantities, applying the impulse-momentum theorem to analyze changes in motion and related safety considerations.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_PS12_VPM",
+      "title": "Vertical Projectile Motion in One Dimension (1D)",
+      "icon": "🚀",
+      "description": "Explains the kinematics of free-fall projectiles under constant gravitational acceleration, using equations and graphs to describe position, velocity, and displacement over time.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_PS12_WEP",
+      "title": "Work, Energy & Power",
+      "icon": "💪",
+      "description": "Defines work and power, applies the work-energy theorem to calculate net work, and utilizes the principle of conservation of mechanical energy, including situations with non-conservative forces.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_PS12_DE",
+      "title": "Doppler Effect (Sound and Light)",
+      "icon": "🔊",
+      "description": "States and explains the Doppler Effect for sound and light, applies the relevant equation to calculate frequency changes due to relative motion, and describes its practical applications.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_PS12_ECEM",
+      "title": "Electric Circuits and Electrodynamics",
+      "icon": "⚡",
+      "description": "Solves problems for series-parallel networks with internal resistance, and explains the fundamental principles of AC generators, motors, and alternating current.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_PS12_OPPM",
+      "title": "Optical Phenomena and Properties of Materials (Photoelectric Effect, Emission and Absorption Spectra)",
+      "icon": "💡",
+      "description": "Describes the photoelectric effect, defines related concepts like cut-off frequency and work function, applies the photoelectric equation, and explains atomic emission and absorption spectra.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_PS12_OC",
+      "title": "Organic Chemistry and Macromolecules",
+      "icon": "🧪",
+      "description": "Defines organic molecules, describes carbon's bonding, identifies functional groups, isomers, and saturated/unsaturated structures, names compounds using IUPAC, and explains addition, substitution, elimination reactions, and polymerization.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_PS12_CI",
+      "title": "Chemical Industry (Fertilizer Industry)",
+      "icon": "🌾",
+      "description": "Explores essential plant nutrients and their sources, and details the industrial manufacture of fertilizers, considering stoichiometry and environmental impacts.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_PS12_RRCE",
+      "title": "Reaction Rate and Chemical Equilibrium",
+      "icon": "⏱️",
+      "description": "Explains reaction rate and influencing factors using collision theory, describes chemical equilibrium and Le Chatelier’s principle, and applies these concepts to industrial processes and calculations involving equilibrium constants.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_PS12_AB",
+      "title": "Acids and Bases",
+      "icon": "⚖️",
+      "description": "Covers acid-base theories, identification of conjugate pairs, pH calculations, titration procedures, and differentiation between strong, weak, concentrated, and dilute acids and bases.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_PS12_ECR",
+      "title": "Electrochemical Reactions (Galvanic and Electrolytic Cells)",
+      "icon": "🔋",
+      "description": "Defines galvanic and electrolytic cells, explains oxidation/reduction via electron transfer, utilizes standard electrode potentials to calculate cell emf, and applies these principles to industrial electrochemistry.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_PS12_SPI",
+      "title": "Skills for Practical Investigations",
+      "icon": "🔬",
+      "description": "Focuses on developing comprehensive scientific inquiry skills, including hypothesis formulation, experimental design, accurate data collection and analysis, and effective communication of results and conclusions in physics and chemistry.",
+      "order": 12
+    }
+  ]
+}

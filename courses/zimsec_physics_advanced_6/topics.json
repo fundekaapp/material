@@ -1,0 +1,119 @@
+[
+  {
+    "course_info": {
+      "id": "ZIMSEC_Physics_AL_F5",
+      "title": "Physics",
+      "examination_body": "Zimbabwe School Examinations Council",
+      "level": "Advanced Level",
+      "description": "ZIMSEC Advanced Level Physics for Form 5 develops a deep understanding of the fundamental principles that govern the physical universe. This syllabus focuses on building strong analytical and problem-solving skills through topics such as General Physics, Newtonian Mechanics, Oscillations and Waves, and Electricity and Magnetism, preparing learners for further scientific studies.",
+      "icon": "⚛️"
+    },
+    "topics": [
+      {
+        "id": "ZIMSEC_AL_P5_PQU",
+        "title": "Physical Quantities and Units",
+        "icon": "📏",
+        "description": "Learners define and use base and derived units, check equation homogeneity, understand prefixes, and represent vectors with perpendicular components.",
+        "order": 1
+      },
+      {
+        "id": "ZIMSEC_AL_P5_EU",
+        "title": "Errors and Uncertainties",
+        "icon": "📊",
+        "description": "Learners distinguish between systematic and random errors, differentiate precision and accuracy, and assess uncertainty in derived quantities.",
+        "order": 2
+      },
+      {
+        "id": "ZIMSEC_AL_P5_KIN",
+        "title": "Kinematics",
+        "icon": "🏃",
+        "description": "Learners derive and apply equations for uniformly accelerated linear motion, analyze projectile motion, and identify everyday examples of rectilinear and non-linear motion.",
+        "order": 3
+      },
+      {
+        "id": "ZIMSEC_AL_P5_DYN",
+        "title": "Dynamics",
+        "icon": "💥",
+        "description": "Learners define linear momentum, apply conservation of momentum to collisions, understand impulse, and describe applications of Newton's laws.",
+        "order": 4
+      },
+      {
+        "id": "ZIMSEC_AL_P5_FOR",
+        "title": "Forces",
+        "icon": "💪",
+        "description": "Learners describe forces on objects, calculate upthrust using Archimedes' Principle, explain friction and terminal velocity, and define moments and torque.",
+        "order": 5
+      },
+      {
+        "id": "ZIMSEC_AL_P5_WEP",
+        "title": "Work, Energy and Power",
+        "icon": "⚡",
+        "description": "Learners define work, kinetic energy, and potential energy, differentiate energy types, explain internal energy and efficiency, and relate power to energy conversion.",
+        "order": 6
+      },
+      {
+        "id": "ZIMSEC_AL_P5_CM",
+        "title": "Circular Motion",
+        "icon": "🔄",
+        "description": "Learners express angular displacement, define angular velocity and centripetal force, and apply equations to describe circular motion examples.",
+        "order": 7
+      },
+      {
+        "id": "ZIMSEC_AL_P5_GF",
+        "title": "Gravitational Field",
+        "icon": "🌍",
+        "description": "Learners understand gravitational fields, define field strength, apply Newton's law of gravitation, and analyze circular orbits and gravitational potential.",
+        "order": 8
+      },
+      {
+        "id": "ZIMSEC_AL_P5_OSC",
+        "title": "Oscillations",
+        "icon": "〰️",
+        "description": "Learners describe simple harmonic motion, define oscillatory terms, graphically represent displacement, velocity, and acceleration, and explain damped and forced oscillations including resonance.",
+        "order": 9
+      },
+      {
+        "id": "ZIMSEC_AL_P5_WAV",
+        "title": "Waves",
+        "icon": "🌊",
+        "description": "Learners define critical angle and total internal reflection, apply wave terminology, understand polarization, describe the electromagnetic spectrum, and explain X-ray production and uses.",
+        "order": 10
+      },
+      {
+        "id": "ZIMSEC_AL_P5_SUP",
+        "title": "Superposition",
+        "icon": "➕",
+        "description": "Learners explain the principle of superposition, distinguish stationary and progressive waves, identify nodes and antinodes, and understand two-source interference and diffraction.",
+        "order": 11
+      },
+      {
+        "id": "ZIMSEC_AL_P5_ELE",
+        "title": "Electricity",
+        "icon": "💡",
+        "description": "Learners describe electrostatic phenomena, define charge, potential difference, resistance, and e.m.f., and solve problems involving electrical circuits and internal resistance.",
+        "order": 12
+      },
+      {
+        "id": "ZIMSEC_AL_P5_DCC",
+        "title": "D.C. Circuits",
+        "icon": "🔌",
+        "description": "Learners apply Kirchhoff's laws to solve circuit problems, use potential dividers, and explain the principle of the potentiometer.",
+        "order": 13
+      },
+      {
+        "id": "ZIMSEC_AL_P5_EF",
+        "title": "Electric Fields",
+        "icon": "⚡",
+        "description": "Learners describe electric fields and field strength, apply Coulomb's law, analyze charged particle motion, and define electric potential and potential gradient.",
+        "order": 14
+      },
+      {
+        "id": "ZIMSEC_AL_P5_CAP",
+        "title": "Capacitances",
+        "icon": "🔋",
+        "description": "Learners describe capacitor function, define capacitance, solve problems with series and parallel capacitors, deduce energy stored, and describe charging and discharging of capacitors in RC circuits.",
+        "order": 15
+      }
+    ]
+  }
+]

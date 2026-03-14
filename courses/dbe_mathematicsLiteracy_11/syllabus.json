@@ -1,0 +1,171 @@
+{
+  "id": "DBE_MathematicsLiteracy_FET_G11",
+  "title": "Mathematical Literacy",
+  "examination_body": "Department of Basic Education, Republic of South Africa",
+  "level": "Further Education and Training (FET) Phase - Grade 11",
+  "description": "Mathematical Literacy at the FET phase equips learners with the ability to use mathematical concepts and processes to make sense of real-life situations. The subject focuses on applying mathematical techniques to solve problems within authentic contexts, promoting critical thinking and informed decision-making. It integrates mathematical skills with non-mathematical considerations to understand complex scenarios from everyday life, preparing learners for active participation in society.",
+  "icon": "🧮",
+  "topics": [
+    {
+      "id": "DBE_FET_MLG11_PRR_RR",
+      "title": "Representing Relationships",
+      "icon": "📊",
+      "description": "Learners develop skills in representing various relationships using tables, graphs, and equations to model real-world scenarios.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_MLG11_PRR_CR",
+      "title": "Comparing Relationships",
+      "icon": "⚖️",
+      "description": "Learners compare and analyze multiple relationships, often involving different systems or options, to make informed decisions.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_MLG11_PRR_TS",
+      "title": "Tariff Systems",
+      "icon": "💰",
+      "description": "Learners investigate and interpret various tariff systems to understand cost structures and make optimal choices.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_MLG11_FIN_BEA",
+      "title": "Break-even Analysis",
+      "icon": "📈",
+      "description": "Explains the concept of break-even point and applies it to business contexts to determine profitability.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_MLG11_FIN_INT",
+      "title": "Interest",
+      "icon": "🏦",
+      "description": "Investigates simple and compound interest calculations, modelling their impact on loans and investments over time.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_MLG11_FIN_BLI",
+      "title": "Banking, Loans, and Investments",
+      "icon": "💳",
+      "description": "Explores various banking products, loan scenarios, and investment options, evaluating their costs and benefits in real-world contexts.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_MLG11_FIN_INF",
+      "title": "Inflation",
+      "icon": "💸",
+      "description": "Examines the concept of inflation and calculates its effect on the price of goods and services over time.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_MLG11_FIN_TAX",
+      "title": "Taxation",
+      "icon": "🧾",
+      "description": "Covers personal income tax calculations, understanding pay slips, tax brackets, and the impact of salary changes on tax payments.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_MLG11_MEA_CON",
+      "title": "Conversions",
+      "icon": "📏",
+      "description": "Performs conversions within and between different measurement systems (length, mass, volume, temperature) using given formulae and tables.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_MLG11_MEA_LWT",
+      "title": "Length, Weight, Volume, and Temperature",
+      "icon": "🌡️",
+      "description": "Applies accurate measurement techniques for length, weight, volume, and temperature, using appropriate instruments and interpreting values in context.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_MLG11_MEA_PAV",
+      "title": "Perimeter, Area, and Volume",
+      "icon": "📐",
+      "description": "Calculates perimeter, area, and volume for various shapes and objects, applying formulae and interpreting plans in multi-step problems.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_MLG11_MEA_TIM",
+      "title": "Time",
+      "icon": "⏰",
+      "description": "Interprets and calculates time values, including using timetables and planning travel itineraries that consider various time-related factors.",
+      "order": 12
+    },
+    {
+      "id": "DBE_FET_MLG11_MPR_SCL",
+      "title": "Scale",
+      "icon": "🔍",
+      "description": "Explains and applies the concept of scale to determine actual measurements from maps and plans, and to create scaled representations.",
+      "order": 13
+    },
+    {
+      "id": "DBE_FET_MLG11_MPR_MPS",
+      "title": "Maps",
+      "icon": "🗺️",
+      "description": "Interprets maps, identifies locations and routes, uses distance charts, and estimates travel distances and times for trip planning.",
+      "order": 14
+    },
+    {
+      "id": "DBE_FET_MLG11_MPR_PLN",
+      "title": "Plans",
+      "icon": "🏠",
+      "description": "Interprets various types of plans (floor, elevation) to extract dimensions, identify features, and apply them in practical projects.",
+      "order": 15
+    },
+    {
+      "id": "DBE_FET_MLG11_MPR_MOD",
+      "title": "Models",
+      "icon": "🏗️",
+      "description": "Constructs and analyses models and 2D drawings, applying scale and evaluating designs for practical purposes like packaging and space utilization.",
+      "order": 16
+    },
+    {
+      "id": "DBE_FET_MLG11_DTA_DQC",
+      "title": "Developing Questions and Collecting Data",
+      "icon": "📝",
+      "description": "Learners develop effective survey questions and apply various methods to collect data from real-world contexts.",
+      "order": 17
+    },
+    {
+      "id": "DBE_FET_MLG11_DTA_COD",
+      "title": "Classifying and Organising Data",
+      "icon": "🗃️",
+      "description": "Organises raw data into categories, frequency tables, and appropriate intervals to prepare for analysis and representation.",
+      "order": 18
+    },
+    {
+      "id": "DBE_FET_MLG11_DTA_MDA",
+      "title": "Measuring Data",
+      "icon": "📉",
+      "description": "Calculates measures of central tendency (mean, median, mode) and spread (range) to describe and interpret data sets effectively.",
+      "order": 19
+    },
+    {
+      "id": "DBE_FET_MLG11_DTA_RDA",
+      "title": "Representing Data",
+      "icon": "📊",
+      "description": "Creates and interprets various graphs from given data, making estimations, deductions, and predictions about trends.",
+      "order": 20
+    },
+    {
+      "id": "DBE_FET_MLG11_PRO_EOP",
+      "title": "Expressions of Probability",
+      "icon": "🎲",
+      "description": "Expresses probability in various forms (fraction, percentage, decimal) and understands related terminology like event and outcome.",
+      "order": 21
+    },
+    {
+      "id": "DBE_FET_MLG11_PRO_EPS",
+      "title": "Evaluating Probabilistic Scenarios",
+      "icon": "🍀",
+      "description": "Conducts experiments to compare experimental and theoretical probabilities and applies probability concepts to analyse real-world data like motor vehicle fatalities.",
+      "order": 22
+    },
+    {
+      "id": "DBE_FET_MLG11_PRO_PDM",
+      "title": "Probability and Decision Making",
+      "icon": "🤔",
+      "description": "Applies probability to analyse risk assessment profiles, evaluate the fairness of games, and critique probabilistic statements in media.",
+      "order": 23
+    }
+  ]
+}
