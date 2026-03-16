@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS11_ELS",
+  "title": "Electrostatics",
+  "description": "Focuses on calculating electrostatic forces using Coulomb's Law and understanding electric fields and how to represent them with field lines.",
+  "order": 11,
+  "icon": "⚡"
+}

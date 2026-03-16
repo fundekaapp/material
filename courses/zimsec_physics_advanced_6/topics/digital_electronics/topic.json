@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_DE",
+  "title": "Digital Electronics",
+  "description": "Covers the fundamental logic gates (NOT, AND, NAND, OR, NOR) and their combinations, analyzing their use in control functions and appreciating their societal impact.",
+  "order": 5,
+  "icon": "💻"
+}

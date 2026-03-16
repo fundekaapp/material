@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P5_DC",
+  "title": "D.C. Circuits",
+  "description": "Learners will apply Kirchhoff's laws to solve circuit problems, use potential dividers, and understand the principle and application of the potentiometer for comparing potential differences.",
+  "order": 13,
+  "icon": "🔌"
+}

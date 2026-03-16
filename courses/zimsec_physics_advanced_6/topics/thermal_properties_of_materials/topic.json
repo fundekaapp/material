@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_TPM",
+  "title": "Thermal Properties of Materials",
+  "description": "Covers specific heat capacity, specific latent heat, internal energy, and the first law of thermodynamics, explaining how these concepts relate to temperature changes and energy transfer in materials.",
+  "order": 9,
+  "icon": "🔥"
+}

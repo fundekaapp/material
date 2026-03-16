@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS10_ISO",
+  "title": "Isotopes",
+  "description": "Defines isotopes, teaches how to calculate relative atomic mass from isotopic abundances, and how to represent nuclides using standard notation.",
+  "order": 9,
+  "icon": "☢️"
+}

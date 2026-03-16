@@ -2,13 +2,15 @@ mod material_assistant;
 mod material_processing;
 mod pdf_parser;
 mod upload_database;
+mod utils;
 use crate::material_processing::{
-    create_flashcards, create_lessons, create_topic, list_topics_from_pdf, refine_concepts
+    create_flashcards, create_lessons, create_topic, list_topics_from_pdf, refine_concepts,
 };
 use crate::pdf_parser::parse_pdf;
 use crate::upload_database::{
-    Course, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
+    Course, CourseMeta, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
 };
+use crate::utils::to_snake_case;
 use std::time::Duration;
 use std::{env, thread};
 use std::{error::Error, fs, path::Path};
@@ -29,12 +31,38 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
         println!("Reading Course {}", path.display());
 
-       // Parse PDF and get topics 
-        let syllabus_pdf = path.join("syllabus.pdf");
+        // Parse PDF and get topics
+        let syllabus_pdf = path.join("syllabuss.pdf");
         if syllabus_pdf.exists() {
-            let topics_list = list_topics_from_pdf(&syllabus_pdf, &path.display().to_string()).await?;
+            let topics_list =
+                list_topics_from_pdf(&syllabus_pdf, &path.display().to_string()).await?;
             fs::write(path.join("syllabus.json"), &topics_list);
         }
+
+        // Create folders for topics
+        let syllabus_file_path = path.join("syllabus.json");
+        if syllabus_file_path.exists() {
+            println!("Got the syllabus");
+            let course_string = fs::read_to_string(syllabus_file_path)?;
+            let course: CourseMeta = serde_json::from_str(&course_string)?;
+
+            for topic in course.topics {
+                let topics_dir = path.join("topics");
+                let topic_snake_case = to_snake_case(&topic.title);
+                let topic_dir_path = topics_dir.join(&topic_snake_case);
+                if !topic_dir_path.exists() {
+                println!("Creating dir {}", &topic_snake_case);
+                    fs::create_dir(topics_dir.join(&topic_snake_case));
+                }
+
+                let topic_json_path = topic_dir_path.join("topic.json");
+                let topic_json = serde_json::to_string_pretty(&topic)?;
+                if !topic_json_path.exists() {
+                    fs::write(topic_json_path, topic_json)?;
+                }
+            }
+        }
+        // Create topic.json file
 
         let syllabus = format!("{}/syllabus.json", path.display());
         let contents = fs::read_to_string(&syllabus)?;
@@ -50,7 +78,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
             if lesson_path.is_dir() {
                 println!("Lesson path {}", lesson_path.display());
                 let raw_concept_file = lesson_path.join("concepts_raw.md");
-                println!("the raw concept path{}", raw_concept_file.display());
 
                 if raw_concept_file.exists() {
                     let raw_concepts = fs::read_to_string(&raw_concept_file)?;

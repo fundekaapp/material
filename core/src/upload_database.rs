@@ -11,6 +11,25 @@ pub struct Course {
     examination_body: String,
 }
 
+#[derive(Serialize, Deserialize)]
+pub struct TopicMeta {
+    id: String,
+    pub title: String,
+    description: String,
+    order: i32,
+    icon: String,
+}
+
+#[derive(Deserialize)]
+pub struct CourseMeta {
+    id: String,
+    title: String,
+    icon: String,
+    level: String,
+    examination_body: String,
+    pub topics: Vec<TopicMeta>,
+}
+
 impl Course {
     pub fn id(&self) -> String {
         self.id.clone()
@@ -28,16 +47,6 @@ pub struct Lesson {
     order: i32,
     course: i32,
 }
-
-#[derive(Deserialize)]
-pub struct TopicMeta {
-    id: String,
-    title: String,
-    description: String,
-    order: i32,
-    icon: String,
-}
-
 impl TopicMeta {
     pub fn id(&self) -> String {
         self.id.clone()

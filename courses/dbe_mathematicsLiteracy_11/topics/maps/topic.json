@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_MPR_MPS",
+  "title": "Maps",
+  "description": "Interprets maps, identifies locations and routes, uses distance charts, and estimates travel distances and times for trip planning.",
+  "order": 14,
+  "icon": "🗺️"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_DS",
+  "title": "Deformation of Solids",
+  "description": "This topic examines how solids respond to forces, introducing concepts of stress, strain, Young's modulus, and distinguishing between elastic and plastic deformation, as well as material failure mechanisms like fatigue and creep.",
+  "order": 7,
+  "icon": "🔨"
+}

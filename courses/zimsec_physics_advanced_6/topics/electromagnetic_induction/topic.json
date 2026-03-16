@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_EI",
+  "title": "Electromagnetic Induction",
+  "description": "Focuses on Faraday's and Lenz's laws, explaining how changing magnetic flux induces electromotive force and current, and defining magnetic flux and its units.",
+  "order": 2,
+  "icon": "⚡"
+}

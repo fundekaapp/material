@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_CO",
+  "title": "Communication",
+  "description": "Explores various communication channels and methods, including analog and digital modulation techniques like AM and FM, discussing their relative merits, signal attenuation, and the impact of sampling rates on digital data transmission.",
+  "order": 17,
+  "icon": "📡"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_MEA_TIM",
+  "title": "Time",
+  "description": "Interprets and calculates time values, including using timetables and planning travel itineraries that consider various time-related factors.",
+  "order": 12,
+  "icon": "⏰"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_DTA_MDA",
+  "title": "Measuring Data",
+  "description": "Calculates measures of central tendency (mean, median, mode) and spread (range) to describe and interpret data sets effectively.",
+  "order": 19,
+  "icon": "📉"
+}

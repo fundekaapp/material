@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS10_BEC",
+  "title": "Basic Electric Circuits",
+  "description": "Introduces fundamental concepts of electric circuits, including electromotive force (emf), potential difference, current, resistance, and the calculation of equivalent resistance for series and parallel resistor networks.",
+  "order": 22,
+  "icon": "🔌"
+}

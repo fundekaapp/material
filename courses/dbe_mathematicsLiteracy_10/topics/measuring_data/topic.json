@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_ML10_DHA_MED",
+  "title": "Measuring Data",
+  "description": "Involves identifying maximum and minimum values within a dataset to understand its range and characteristics.",
+  "order": 16,
+  "icon": "📊"
+}

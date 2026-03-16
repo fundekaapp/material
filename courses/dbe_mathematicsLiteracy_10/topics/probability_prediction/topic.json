@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_ML10_PRO_PRD",
+  "title": "Probability Prediction",
+  "description": "Involves making and evaluating predictions based on probability, such as rainfall forecasts or other real-world likelihoods.",
+  "order": 19,
+  "icon": "🔮"
+}

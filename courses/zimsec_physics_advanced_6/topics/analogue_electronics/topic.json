@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_AE",
+  "title": "Analogue Electronics",
+  "description": "Explores the properties and applications of ideal operational amplifiers, including inverting and non-inverting configurations, feedback mechanisms, and their use as comparators, summing amplifiers, and voltage followers.",
+  "order": 4,
+  "icon": "🎛️"
+}

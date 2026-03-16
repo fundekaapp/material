@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS11_STO",
+  "title": "Stoichiometry",
+  "description": "Deals with quantitative chemical calculations involving molar volume of gases, concentration, limiting reagents, percent yield, and determining chemical formulas from composition.",
+  "order": 10,
+  "icon": "⚖️"
+}

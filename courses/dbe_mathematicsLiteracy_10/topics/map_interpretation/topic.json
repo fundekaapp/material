@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_ML10_MPS",
+  "title": "Map Interpretation",
+  "description": "Focuses on interpreting maps to find locations and determine routes, as demonstrated in tasks like \"Finding your way.\"",
+  "order": 12,
+  "icon": "📍"
+}
