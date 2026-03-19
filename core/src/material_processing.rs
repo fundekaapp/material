@@ -101,3 +101,35 @@ pub async fn list_topics_from_pdf(
 
     Ok(response.text())
 }
+
+pub async fn create_topic_concepts_from_pdf(
+    pdf_path: &Path,
+    topic_info: &String,
+) -> Result<String, Box<dyn Error>> {
+    let pdf_bytes = fs::read(pdf_path)?;
+
+    let api_key = env::var("GEMINI_API_KEY")?;
+    let client = Gemini::new(api_key)?;
+
+    let instructions_path = Path::new("../instructions/create_topic_concepts_from_pdf.md");
+    let instructions = fs::read_to_string(instructions_path)?;
+
+    let file_handle = client
+        .create_file(pdf_bytes)
+        .display_name(pdf_path.file_name().unwrap().to_string_lossy())
+        .with_mime_type("application/pdf".parse().unwrap())
+        .upload()
+        .await?;
+
+    let response = client
+        .generate_content()
+        .with_system_instruction(instructions)
+        .with_response_mime_type("application/json")
+        .with_user_message_and_file(topic_info, &file_handle)?
+        .execute()
+        .await?;
+
+    let _ = file_handle.delete().await;
+
+    Ok(response.text())
+}

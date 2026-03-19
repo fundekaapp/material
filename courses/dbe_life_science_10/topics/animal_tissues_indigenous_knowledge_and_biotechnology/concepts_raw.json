@@ -1,0 +1,99 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C01",
+      "title": "Overview of Animal Tissues, Indigenous Knowledge and Biotechnology",
+      "body": "This section provides an introduction to the fundamental types of animal tissues and their functions, as well as an exploration of the applications of indigenous knowledge systems and biotechnology in life sciences, as prescribed for Grade 10 Term 2.",
+      "children": [
+        "DBE_FET_LSG10_ATIKB-C02",
+        "DBE_FET_LSG10_ATIKB-C09"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C02",
+      "title": "Animal Tissues Content",
+      "body": "Detailed study of the four basic types of animal tissues: epithelial, connective, muscle, and nerve, focusing on the relationship between their structure and function. This section also includes practical investigations.",
+      "children": [
+        "DBE_FET_LSG10_ATIKB-C03",
+        "DBE_FET_LSG10_ATIKB-C08"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C03",
+      "title": "Four Basic Types of Animal Tissues",
+      "body": "Understanding the characteristics and roles of the four fundamental animal tissue types, including epithelial, connective, muscle, and nerve tissues.",
+      "children": [
+        "DBE_FET_LSG10_ATIKB-C04",
+        "DBE_FET_LSG10_ATIKB-C05",
+        "DBE_FET_LSG10_ATIKB-C06",
+        "DBE_FET_LSG10_ATIKB-C07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C04",
+      "title": "Epithelial Tissue",
+      "body": "Study of epithelial tissue, its characteristics, and functions, including examples as one of the basic animal tissue types.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C05",
+      "title": "Connective Tissue",
+      "body": "Study of connective tissue, its characteristics, and functions, including examples as one of the basic animal tissue types.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C06",
+      "title": "Muscle Tissue",
+      "body": "Study of muscle tissue, its characteristics, and functions, including examples as one of the basic animal tissue types.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C07",
+      "title": "Nerve Tissue",
+      "body": "Study of nerve tissue, its characteristics, and functions, including examples as one of the basic animal tissue types.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C08",
+      "title": "Animal Tissue Microscopic Investigation",
+      "body": "Practical activity to examine and identify various animal tissues using microscopes, biostrips, micrographs, or posters. Learners are required to draw cells, illustrating their specialised structure and the link between structure and function.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C09",
+      "title": "Applications of Indigenous Knowledge Systems and Biotechnology",
+      "body": "Exploration of the practical uses of indigenous knowledge systems and modern biotechnology in life sciences, covering traditional practices and advanced scientific techniques.",
+      "children": [
+        "DBE_FET_LSG10_ATIKB-C10",
+        "DBE_FET_LSG10_ATIKB-C11",
+        "DBE_FET_LSG10_ATIKB-C12"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C10",
+      "title": "Traditional Technology and Healers",
+      "body": "Learning about traditional technologies, such as traditional medicines and the role of healers, as examples of indigenous knowledge systems.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C11",
+      "title": "Medical Biotechnology Applications",
+      "body": "Understanding applications of medical biotechnology, including immunity, vaccines, antibiotics, and blood transfusions.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C12",
+      "title": "Cloning, Stem Cell Research and Ethics",
+      "body": "Study of the cloning of plant and animal tissues, stem cell research, and the associated ethical and legislative aspects.",
+      "children": [
+        "DBE_FET_LSG10_ATIKB-C13"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ATIKB-C13",
+      "title": "Biotechnology Field Research",
+      "body": "An investigation where learners collect information on a chosen field of biotechnology related to plant or animal tissues, such as cloning, stem cell research, or in vitro fertilisation.",
+      "children": []
+    }
+  ]
+}

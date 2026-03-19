@@ -1,0 +1,127 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_PATI-C00",
+      "title": "Introduction to Tissues",
+      "body": "Introduces the concept of tissues as specialized cell groups, exploring the basic structure and function of various plant tissues like xylem and phloem, as covered in the Grade 10 Life Sciences curriculum.",
+      "children": [
+        "DBE_FET_LSG10_PATI-C01",
+        "DBE_FET_LSG10_PATI-C02",
+        "DBE_FET_LSG10_PATI-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C01",
+      "title": "Concept of a Tissue",
+      "body": "Understanding tissues as groups of similar cells adapted for particular functions, including the process of cell differentiation and the relationship between basic structure and function.",
+      "children": [
+        "DBE_FET_LSG10_PATI-C01-C01",
+        "DBE_FET_LSG10_PATI-C01-C02",
+        "DBE_FET_LSG10_PATI-C01-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C01-C01",
+      "title": "Definition of Tissue",
+      "body": "Define a tissue as a group of similar cells working together to perform a specific function.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C01-C02",
+      "title": "Cell Differentiation",
+      "body": "Understand the process by which cells become specialized to perform particular functions, leading to the formation of different tissue types.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C01-C03",
+      "title": "Structure-Function Relationship of Tissues",
+      "body": "Emphasize how the basic structure of a tissue is adapted to its specific function within an organism.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02",
+      "title": "Plant Tissues",
+      "body": "An overview of various types of plant tissues, focusing on their specialized structures and functions.",
+      "children": [
+        "DBE_FET_LSG10_PATI-C02-C01"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01",
+      "title": "Types of Plant Tissues",
+      "body": "Identification and basic understanding of key plant tissues.",
+      "children": [
+        "DBE_FET_LSG10_PATI-C02-C01-C01",
+        "DBE_FET_LSG10_PATI-C02-C01-C02",
+        "DBE_FET_LSG10_PATI-C02-C01-C03",
+        "DBE_FET_LSG10_PATI-C02-C01-C04",
+        "DBE_FET_LSG10_PATI-C02-C01-C05",
+        "DBE_FET_LSG10_PATI-C02-C01-C06",
+        "DBE_FET_LSG10_PATI-C02-C01-C07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C01",
+      "title": "Xylem",
+      "body": "Identify and describe the basic structure and function of xylem tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C02",
+      "title": "Phloem",
+      "body": "Identify and describe the basic structure and function of phloem tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C03",
+      "title": "Parenchyma",
+      "body": "Identify and describe the basic structure and function of parenchyma tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C04",
+      "title": "Collenchyma",
+      "body": "Identify and describe the basic structure and function of collenchyma tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C05",
+      "title": "Sclerenchyma",
+      "body": "Identify and describe the basic structure and function of sclerenchyma tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C06",
+      "title": "Epidermis",
+      "body": "Identify and describe the basic structure and function of epidermis tissue in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C02-C01-C07",
+      "title": "Meristematic Tissues",
+      "body": "Identify and describe the basic structure and function of meristematic tissues in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C03",
+      "title": "Practical Activities for Tissues",
+      "body": "Hands-on activities to observe and record the specialized structures of plant tissues.",
+      "children": [
+        "DBE_FET_LSG10_PATI-C03-C01",
+        "DBE_FET_LSG10_PATI-C03-C02"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C03-C01",
+      "title": "Examine and Identify Plant Tissues",
+      "body": "Learners will examine and identify various plant tissues using resources such as microscopes, biostrips, micrographs, or posters. Relevant equipment includes textbooks, charts, microscope slides, micrographs, and microscopes.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PATI-C03-C02",
+      "title": "Drawing Specialised Tissue Structures",
+      "body": "Learners will draw cells that compose these plant tissues to illustrate their specialized structures, based on observations.",
+      "children": []
+    }
+  ]
+}

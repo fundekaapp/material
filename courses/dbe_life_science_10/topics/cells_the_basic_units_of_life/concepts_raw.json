@@ -1,0 +1,196 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_Cells-C01",
+      "title": "Cells: The Basic Units of Life",
+      "body": "This foundational unit explores cells as the fundamental units of life, covering their molecular composition, historical discovery through microscopy, detailed organelle structures and functions, and the key differences between plant and animal cells. It also includes practical investigations to observe and analyze cellular phenomena.",
+      "children": [
+        "DBE_FET_LSG10_Cells-C02",
+        "DBE_FET_LSG10_Cells-C03",
+        "DBE_FET_LSG10_Cells-C04",
+        "DBE_FET_LSG10_Cells-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C02",
+      "title": "Topic Overview",
+      "body": "An introduction to the scope and significance of 'Cells: The Basic Units of Life', emphasizing their role as fundamental building blocks for all living organisms and the essential processes they perform.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C03",
+      "title": "Unit Content: Cell Theory and Structure",
+      "body": "This section covers the theoretical understanding of cells, including their molecular composition, the historical development of microscopy, and the detailed examination of various cellular organelles with their specialized roles and the distinguishing features between plant and animal cells.",
+      "children": [
+        "DBE_FET_LSG10_Cells-C06",
+        "DBE_FET_LSG10_Cells-C07",
+        "DBE_FET_LSG10_Cells-C08",
+        "DBE_FET_LSG10_Cells-C18",
+        "DBE_FET_LSG10_Cells-C19",
+        "DBE_FET_LSG10_Cells-C20"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C04",
+      "title": "Practical Activities: Cell Observation and Processes",
+      "body": "This section outlines hands-on investigations and experiments designed to develop microscopy skills, observe diverse cell structures, and analyze fundamental cellular processes such as diffusion and osmosis.",
+      "children": [
+        "DBE_FET_LSG10_Cells-C21",
+        "DBE_FET_LSG10_Cells-C22",
+        "DBE_FET_LSG10_Cells-C23",
+        "DBE_FET_LSG10_Cells-C24",
+        "DBE_FET_LSG10_Cells-C25",
+        "DBE_FET_LSG10_Cells-C26",
+        "DBE_FET_LSG10_Cells-C27"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C05",
+      "title": "Associated Resources",
+      "body": "A list of recommended resources for this unit, including textbooks, charts, micrographs, microscope slides, chemicals, light microscopes, bioviewers, biostrips, beakers, salt, potatoes, and eggs, to facilitate both theoretical learning and practical investigations.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C06",
+      "title": "Molecular Make-Up of Cells",
+      "body": "Detailed study of the fundamental organic molecules (proteins, carbohydrates, lipids, nucleic acids) and water that constitute cells, highlighting their roles as essential building blocks and functional components.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C07",
+      "title": "History of Microscopy and Cell Theory Development",
+      "body": "An examination of the historical advancements in microscopy, from early lens and light microscopes to electron microscopes, and how these innovations enabled the discovery of cells and their structures, contributing to the formulation of cell theory.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C08",
+      "title": "Cell Structure and Organelle Functions",
+      "body": "A comprehensive study of the various organelles within cells, detailing their specific morphological characteristics and their vital physiological roles in carrying out essential life processes like support, transport, control, energy metabolism, and protein synthesis.",
+      "children": [
+        "DBE_FET_LSG10_Cells-C09",
+        "DBE_FET_LSG10_Cells-C10",
+        "DBE_FET_LSG10_Cells-C11",
+        "DBE_FET_LSG10_Cells-C12",
+        "DBE_FET_LSG10_Cells-C13",
+        "DBE_FET_LSG10_Cells-C14",
+        "DBE_FET_LSG10_Cells-C15",
+        "DBE_FET_LSG10_Cells-C16",
+        "DBE_FET_LSG10_Cells-C17"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C09",
+      "title": "Cell Wall",
+      "body": "Description of the cell wall as a rigid outermost layer found exclusively in plant cells, providing structural support, protection, and maintaining turgor pressure.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C10",
+      "title": "Cell Membrane (Fluid Mosaic Model)",
+      "body": "Explanation of the cell membrane, its composition as described by the fluid mosaic model, and its role as a selective barrier regulating the passage of substances via diffusion, osmosis, and active transport.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C11",
+      "title": "Nucleus (Control Centre)",
+      "body": "Analysis of the nucleus as the cell's control center, containing chromatin material, enclosed by a nuclear membrane with nucleopores, and housing the nucleolus. Its functions include genetic control and regulation of cellular activities.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C12",
+      "title": "Cytoplasm (Storage and Circulation)",
+      "body": "Description of the cytoplasm as the jelly-like substance filling the cell, where organelles are suspended, and many vital biochemical reactions, material storage, and internal circulation processes occur.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C13",
+      "title": "Mitochondria (Energy Release)",
+      "body": "Study of mitochondria as the 'powerhouses' of the cell, responsible for cellular respiration and the efficient release of energy from organic molecules to synthesize ATP.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C14",
+      "title": "Ribosomes (Protein Synthesis)",
+      "body": "Explanation of ribosomes as small organelles crucial for protein synthesis, translating genetic information into functional proteins.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C15",
+      "title": "Endoplasmic Reticulum (ER) (Transport Systems)",
+      "body": "Examination of the endoplasmic reticulum (rough and smooth) as an extensive network of membranes involved in the synthesis, folding, modification, and transport of proteins and lipids throughout the cell.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C16",
+      "title": "Golgi Body (Assembles Secretions)",
+      "body": "Description of the Golgi apparatus as an organelle that further modifies, sorts, and packages proteins and lipids into vesicles for secretion or delivery to other cellular destinations.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C17",
+      "title": "Plastids, Vacuoles, Lysosomes, and Vesicles (Storage and Regulation)",
+      "body": "Exploration of specialized organelles including plastids (e.g., chloroplasts for photosynthesis, pigment storage), vacuoles (for storage, turgor), lysosomes (for digestion), and vesicles (for transport and osmoregulation).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C18",
+      "title": "Relating Organelle Structure to Function",
+      "body": "Learning objective to establish and explain the direct relationship between the specific structural characteristics of each cell organelle and its specialized functional role within the cell.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C19",
+      "title": "Cell Specialization and Tissue Formation",
+      "body": "Investigation into how cells differentiate in size, shape, and internal organization to perform specific functions, linking this specialization to the formation and function of various tissues.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C20",
+      "title": "Comparing Plant and Animal Cells",
+      "body": "A comparative analysis of the distinct structural features (e.g., cell wall, chloroplasts, large central vacuole in plants; centrioles, lysosomes in animals) that differentiate plant and animal cells, building on foundational knowledge.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C21",
+      "title": "Demonstrating Light Microscope Usage",
+      "body": "A practical activity to explain the principles and demonstrate the proper operation of a light microscope, including setting up, focusing, and manipulating specimens safely.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C22",
+      "title": "Observing and Drawing Plant Cells",
+      "body": "A practical task involving the use of a light microscope to observe and create accurate scientific drawings of plant cell structures, typically using a wet mount of onion epidermis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C23",
+      "title": "Observing and Drawing Animal Cells",
+      "body": "A practical task involving the use of a light microscope to observe and create accurate scientific drawings of animal cell structures, such as cheek cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C24",
+      "title": "Using Micrographs for Cell Study",
+      "body": "Instruction on how to effectively use micrographs (photographic images of microscopic structures) to identify and study cell structures and features, especially when direct access to microscopes is limited.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C25",
+      "title": "Calculating Magnification and Specimen Size",
+      "body": "A practical exercise to apply mathematical skills in determining the magnification of cell drawings and calculating the actual size of microscopic specimens using provided scale lines on micrographs or observed fields of view.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C26",
+      "title": "Investigating Diffusion",
+      "body": "A laboratory investigation designed to demonstrate and explore the process of diffusion, understanding the passive movement of molecules from an area of higher concentration to lower concentration.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Cells-C27",
+      "title": "Investigating Osmosis",
+      "body": "A laboratory investigation designed to demonstrate and explore the process of osmosis, understanding the passive movement of water across a selectively permeable membrane.",
+      "children": []
+    }
+  ]
+}
