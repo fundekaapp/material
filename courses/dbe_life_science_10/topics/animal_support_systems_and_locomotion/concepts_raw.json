@@ -1,0 +1,134 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_ASSL-C01",
+      "title": "Animal Support Systems and Locomotion Overview",
+      "body": "Learners must be able to **describe** the different types of support systems in animals, **explain** the structure and function of the human skeleton and joints, and **identify** common diseases related to the skeletal system, as per the Grade 10 CAPS curriculum for Animal Support Systems and Locomotion.",
+      "children": [
+        "DBE_FET_LSG10_ASSL-C02",
+        "DBE_FET_LSG10_ASSL-C06",
+        "DBE_FET_LSG10_ASSL-C11",
+        "DBE_FET_LSG10_ASSL-C15",
+        "DBE_FET_LSG10_ASSL-C18"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C02",
+      "title": "Types of Skeletons",
+      "body": "Learners must be able to **describe** and **give examples** of animals possessing a hydrostatic skeleton, an endoskeleton, and an exoskeleton. They must **compare** the **advantages and disadvantages** of each type and **explain** their developmental progression, relating it to the need for support in a terrestrial lifestyle.",
+      "children": [
+        "DBE_FET_LSG10_ASSL-C03",
+        "DBE_FET_LSG10_ASSL-C04",
+        "DBE_FET_LSG10_ASSL-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C03",
+      "title": "Hydrostatic Skeleton",
+      "body": "Learners must be able to **describe** the characteristics of a hydrostatic skeleton, **provide examples** of organisms possessing it, and **explain** its advantages and disadvantages.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C04",
+      "title": "Exoskeleton",
+      "body": "Learners must be able to **describe** the characteristics of an exoskeleton, **provide examples** of organisms possessing it, and **explain** its advantages and disadvantages. Visual identification may be required through observation of models or photographs.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C05",
+      "title": "Endoskeleton",
+      "body": "Learners must be able to **describe** the characteristics of an endoskeleton, **provide examples** of organisms possessing it, and **explain** its advantages and disadvantages.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C06",
+      "title": "Human Skeleton: Structure and Function",
+      "body": "Learners must be able to **identify** and **describe** the components of the human skeleton, differentiating between the axial and appendicular skeletons. They must also **describe** the main **functions** of the skeleton including movement, protection, support, mineral storage, and hearing. Visual identification/drawing required for a typical long bone and its longitudinal section, and observation of models or photographs.",
+      "children": [
+        "DBE_FET_LSG10_ASSL-C07",
+        "DBE_FET_LSG10_ASSL-C08",
+        "DBE_FET_LSG10_ASSL-C09",
+        "DBE_FET_LSG10_ASSL-C10"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C07",
+      "title": "Axial Skeleton",
+      "body": "Learners must be able to **identify** and **mention** the components of the axial skeleton, including facial bones, cranium, foramen magnum, palate, and jaws, linking its structure to human evolution (Grade 12). Visual identification/drawing required through observation of models or photographs.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C08",
+      "title": "Appendicular Skeleton",
+      "body": "Learners must be able to **identify** and **describe** the components of the appendicular skeleton. Visual identification/drawing required through observation of models or photographs.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C09",
+      "title": "Functions of the Human Skeleton",
+      "body": "Learners must be able to **explain** and **list** the key functions of the human skeleton, including its roles in movement, protection, support, storage of minerals, and hearing.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C10",
+      "title": "Structure of a Long Bone",
+      "body": "Learners must be able to **describe** the structure of a typical long bone and **explain** the relationship between the structure and function of its associated tissues: bone, cartilage, tendons, and ligaments. They must be able to **observe** and **draw** a typical long bone showing a longitudinal section, and **observe** these tissues using fresh material (e.g., from a butcher).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C11",
+      "title": "Types of Joints and Locomotion",
+      "body": "Learners must be able to **classify** and **describe** the different types of joints in the human body: fixed, partly movable, and freely movable (synovial). They should **explain** the structure of various synovial joints (ball and socket, hinge, pivot, gliding) and **describe** the specific movements that occur at each type of joint. If possible, learners must **observe** an X-ray of ball and socket and hinge joints.",
+      "children": [
+        "DBE_FET_LSG10_ASSL-C12",
+        "DBE_FET_LSG10_ASSL-C13",
+        "DBE_FET_LSG10_ASSL-C14"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C12",
+      "title": "Fixed Joints",
+      "body": "Learners must be able to **define** fixed joints and **provide examples** of their location in the human skeleton, such as those found in the skull.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C13",
+      "title": "Partly Movable Joints",
+      "body": "Learners must be able to **define** partly movable joints and **provide examples** of their location in the human skeleton, such as those between vertebrae.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C14",
+      "title": "Freely Movable (Synovial) Joints",
+      "body": "Learners must be able to **describe** the detailed structure of synovial joints, including ball and socket, hinge, pivot, and gliding joints. They must also **explain** the specific types of movement (e.g., flexion, extension, rotation) permitted by each of these freely movable joints. If possible, learners should **observe** X-rays or models of these joints.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C15",
+      "title": "Roles of Bones, Joints, and Muscles in Locomotion",
+      "body": "Learners must be able to **explain** the coordinated roles of bones, joints, ligaments, tendons, and antagonistic muscles (e.g., biceps/triceps) in facilitating human locomotion. They should also **describe** the structure of voluntary skeletal muscles, including myofibrils, and **outline** the basic mechanism of muscle contraction.",
+      "children": [
+        "DBE_FET_LSG10_ASSL-C16",
+        "DBE_FET_LSG10_ASSL-C17"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C16",
+      "title": "Components of Locomotion: Bones, Ligaments, Tendons",
+      "body": "Learners must be able to **describe** the specific roles of bones, ligaments, and tendons in providing support and enabling movement in human locomotion.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C17",
+      "title": "Voluntary Skeletal Muscles and Contraction",
+      "body": "Learners must be able to **describe** the structure of voluntary skeletal muscles, including myofibrils, and **explain** the basic mechanism of muscle contraction, particularly how antagonistic muscles (e.g., biceps and triceps) facilitate movement at joints.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_ASSL-C18",
+      "title": "Diseases Affecting the Skeletal System",
+      "body": "Learners must be able to **identify** and **describe** common diseases and abnormalities that affect the human skeletal system, including rickets in children, osteoporosis, and arthritis, stating their causes, symptoms, and potential treatments.",
+      "children": []
+    }
+  ]
+}

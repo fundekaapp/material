@@ -1,0 +1,83 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_BEEF-C01",
+      "title": "Biosphere to Ecosystems and Energy Flow: Overview",
+      "body": "Learners must be able to **describe** the fundamental concepts of the biosphere, ecosystems, environmental interactions, and energy flow as introduced in Grade 10 Environmental Studies. This includes understanding the interconnectedness of living organisms with their physical environment and the impact of human activities.",
+      "children": [
+        "DBE_FET_LSG10_BEEF-C02",
+        "DBE_FET_LSG10_BEEF-C03",
+        "DBE_FET_LSG10_BEEF-C04",
+        "DBE_FET_LSG10_BEEF-C07",
+        "DBE_FET_LSG10_BEEF-C10",
+        "DBE_FET_LSG10_BEEF-C11"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C02",
+      "title": "The Biosphere Concept",
+      "body": "Learners must be able to **define** the concept of the biosphere and **explain** its interconnectedness. **Identify** and **describe** the components of the global ecosystem, including the hydrosphere, lithosphere, and atmosphere, linking to prior knowledge from Grade 8.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C03",
+      "title": "South African Biomes",
+      "body": "Learners must be able to **identify** and **describe** the terrestrial and aquatic biomes of Southern Africa. **Explain** how climate, soils, and vegetation influence the organisms found in each biome. **Locate** and **label** the different biomes in South Africa on a map.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C04",
+      "title": "Environmental Interactions & Factors",
+      "body": "Learners must be able to **explain** the concept of the environment, focusing on human activities and interactions with the natural environment. **Differentiate** between and **describe** the effects of abiotic and biotic factors on ecological communities.",
+      "children": [
+        "DBE_FET_LSG10_BEEF-C05",
+        "DBE_FET_LSG10_BEEF-C06"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C05",
+      "title": "Abiotic Factors in Ecosystems",
+      "body": "Learners must be able to **identify** and **explain** the influence of various abiotic factors on ecosystems. This includes: **describing** physiographic factors (aspect, slope, altitude); **analyzing** soil characteristics (pH, humus content, texture, water retention capacity, air content); **explaining** the impact of light (day length, seasonal changes) and temperature (day/night, seasons); and **discussing** the role of water (water cycle, importance of wetlands). Learners should also be able to **measure** appropriate abiotic factors during fieldwork. Visual identification/drawing of environmental features may be required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C06",
+      "title": "Biotic Factors in Ecosystems",
+      "body": "Learners must be able to **identify** and **describe** the biotic factors within ecosystems, including producers, consumers, and decomposers, linking to prior knowledge from Grade 8. Visual identification of organisms using field guides may be required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C07",
+      "title": "Ecosystem Structure & Functioning",
+      "body": "Learners must be able to **define** and **explain** the concept of an ecosystem, its overall structure, and how it functions. **Describe** the relationships and interactions between abiotic and biotic components.",
+      "children": [
+        "DBE_FET_LSG10_BEEF-C08",
+        "DBE_FET_LSG10_BEEF-C09"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C08",
+      "title": "Energy Flow and Trophic Structure",
+      "body": "Learners must be able to **explain** energy flow through ecosystems and its relationship to trophic structure. **Illustrate** trophic structure using food pyramids, **identifying** and **describing** producers, primary consumers (herbivores), secondary consumers (carnivores), tertiary consumers (omnivores), and decomposers, linking this to Grade 9 nutrition concepts. **Analyze** trophic relationships within an ecosystem.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C09",
+      "title": "Nutrient Cycling",
+      "body": "Learners must be able to **construct** and **explain** flow charts illustrating the nutrient cycles for water, oxygen, carbon, and nitrogen. **Name** key elements like nitrates, understanding their role without requiring detailed chemical structures.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C10",
+      "title": "Ecotourism: Economic, Ethical, and Opportunities",
+      "body": "Learners must be able to **discuss** the economic benefits, ethical considerations, and opportunities associated with ecotourism within the context of environmental studies.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BEEF-C11",
+      "title": "Ecosystem Fieldwork and Investigation Skills",
+      "body": "Learners must be able to **plan**, **collect**, **record**, **present**, **analyse**, and **evaluate** data from an investigation of a chosen local ecosystem. This includes: **identifying** and **describing** abiotic and biotic factors and their interactions; **analyzing** trophic relationships; **observing** and **recording** seasonal changes; **identifying** biodiversity using field guides and keys; and **assessing** positive and/or negative human impacts on the ecosystem. (Visual identification/drawing required for organisms and features, and appropriate instruments for measuring abiotic factors should be used).",
+      "children": []
+    }
+  ]
+}

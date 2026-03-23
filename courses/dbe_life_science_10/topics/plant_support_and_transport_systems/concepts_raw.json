@@ -1,0 +1,185 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_PSTS-C01",
+      "title": "Plant Support and Transport Systems - Overview",
+      "body": "Learners must be able to **describe** the fundamental concepts of plant support and transport, including the anatomy of dicotyledonous plants, their specialized tissues, and the processes that facilitate water, mineral, and food movement. This overview links to Grade 7 knowledge and prepares for detailed study.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C02",
+        "DBE_FET_LSG10_PSTS-C03",
+        "DBE_FET_LSG10_PSTS-C04",
+        "DBE_FET_LSG10_PSTS-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02",
+      "title": "Plant Tissues for Support and Transport",
+      "body": "Learners must be able to **examine** and **identify** the basic plant tissues (xylem, phloem, parenchyma, collenchyma, sclerenchyma, epidermis, meristematic tissues) using suitable resources like microscopes, biostrips, micrographs or posters. They should also be able to **draw** cells making up these tissues, showing their specialised structure, and **explain** their roles in support and transport. Visual identification/drawing required.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C02.01",
+        "DBE_FET_LSG10_PSTS-C02.02",
+        "DBE_FET_LSG10_PSTS-C02.03",
+        "DBE_FET_LSG10_PSTS-C02.04",
+        "DBE_FET_LSG10_PSTS-C02.05",
+        "DBE_FET_LSG10_PSTS-C02.06",
+        "DBE_FET_LSG10_PSTS-C02.07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.01",
+      "title": "Xylem Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of xylem tissue in water and mineral transport in plants. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.02",
+      "title": "Phloem Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of phloem tissue in the translocation of manufactured food in plants. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.03",
+      "title": "Parenchyma Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of parenchyma tissue, noting its role in storage and other plant processes. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.04",
+      "title": "Collenchyma Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of collenchyma tissue, focusing on its role in providing flexible support in young plants. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.05",
+      "title": "Sclerenchyma Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of sclerenchyma tissue, noting its role in providing rigid support and protection. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.06",
+      "title": "Epidermis Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the structure and **explain** the function of epidermis tissue, including its protective role and adaptations like stomata. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C02.07",
+      "title": "Meristematic Tissue Structure and Function",
+      "body": "Learners must be able to **describe** the characteristics and **explain** the function of meristematic tissues (apical and lateral), noting their role in plant growth. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C03",
+      "title": "Anatomy of Dicotyledonous Plant Organs",
+      "body": "Learners must be able to **use** a microscope or micrographs to **observe** and **draw** cross sections of dicotyledonous roots, stems, and leaves. They must **identify** and **describe** the distribution of different tissues (epidermis, cortex, vascular bundles, pith) within these structures and **relate** their structure to their specific functions in support, transport, photosynthesis, and gas exchange. Visual identification/drawing required.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C03.01",
+        "DBE_FET_LSG10_PSTS-C03.02",
+        "DBE_FET_LSG10_PSTS-C03.03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C03.01",
+      "title": "Dicotyledonous Leaf Structure and Function",
+      "body": "Learners must be able to **observe** and **draw** a cross-section of a dicotyledonous leaf. They should be able to **identify** and **explain** its structure in terms of its functions, including photosynthesis, gas exchange, and transport, linking it with plant tissues, appropriate cell organelles, and movement across membranes. Visual identification/drawing required. This section serves as an example of an organ.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C03.02",
+      "title": "Dicotyledonous Root Anatomy and Function",
+      "body": "Learners must be able to **observe**, **identify**, and **draw** a cross-section of a dicotyledonous root. They must **describe** the distribution of its tissues (epidermis, cortex, vascular cylinder with xylem and phloem) and **explain** their specific functions in water/mineral absorption and anchorage. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C03.03",
+      "title": "Dicotyledonous Stem Anatomy and Function",
+      "body": "Learners must be able to **observe**, **identify**, and **draw** a cross-section of a dicotyledonous stem. They must **describe** the distribution of its tissues (epidermis, cortex, vascular bundles with cambium, pith) and **explain** their specific functions in support and transport. Learners should also be able to **make** mounts of whole xylem vessels from celery or pumpkin stalks and **draw** them to show secondary thickening patterns. Visual identification/drawing required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C04",
+      "title": "Secondary Growth and Annual Rings in Plants",
+      "body": "Learners must be able to **describe** the process of secondary growth in dicotyledonous plants and **explain** how it contributes to increased stem girth and support. They must be able to **observe** annual rings in a cut tree trunk, **assess** the tree's age, and **infer** past climatic conditions based on the ring patterns.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C04.01",
+        "DBE_FET_LSG10_PSTS-C04.02"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C04.01",
+      "title": "Mechanism of Secondary Growth",
+      "body": "Learners must be able to **explain** the role of the vascular cambium and cork cambium in secondary growth, **identifying** the secondary tissues produced (secondary xylem, secondary phloem, cork) and their contribution to plant support and transport.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C04.02",
+      "title": "Interpretation of Annual Rings",
+      "body": "Learners must be able to **interpret** annual rings in tree trunks to **determine** the age of a tree and **deduce** historical climatic variations (e.g., wet vs. dry seasons) based on the thickness and appearance of the rings.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05",
+      "title": "Plant Transport Systems",
+      "body": "Learners must be able to **describe** and **explain** the various processes involved in the transport of water, minerals, and manufactured food throughout the plant. This includes transpiration, water and mineral uptake, and translocation.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C05.01",
+        "DBE_FET_LSG10_PSTS-C05.02",
+        "DBE_FET_LSG10_PSTS-C05.03",
+        "DBE_FET_LSG10_PSTS-C05.04"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.01",
+      "title": "Transpiration and its Regulation",
+      "body": "Learners must be able to **define** transpiration and **explain** the relationship between water loss from leaves and leaf structure. They must be able to **identify** and **describe** the environmental factors that affect the rate of transpiration (temperature, light intensity, wind, humidity).",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C05.01.01",
+        "DBE_FET_LSG10_PSTS-C05.01.02"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.01.01",
+      "title": "Factors Affecting Transpiration Rate",
+      "body": "Learners must be able to **identify** and **describe** the influence of environmental factors such as temperature, light intensity, wind, and humidity on the rate of transpiration in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.01.02",
+      "title": "Investigating Transpiration Rate",
+      "body": "Learners must be able to **design** a simple investigation using a potometer to **determine** the effect of various factors (temperature, light intensity, humidity, wind) on the rate of transpiration. They must **identify** dependent and independent variables, **suggest** appropriate control variables, and **record** and **interpret** the results.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.02",
+      "title": "Water and Mineral Absorption and Xylem Transport",
+      "body": "Learners must be able to **describe** the intake of water and minerals into the roots and their subsequent transport to the leaves via the xylem. They should be able to **investigate** water uptake through the roots and water movement through xylem using a soft plant (e.g., Impatiens) and a colored solution.",
+      "children": [
+        "DBE_FET_LSG10_PSTS-C05.02.01",
+        "DBE_FET_LSG10_PSTS-C05.02.02"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.02.01",
+      "title": "Water and Mineral Uptake by Roots",
+      "body": "Learners must be able to **explain** the mechanisms of water absorption by root hairs (osmosis) and mineral uptake (active transport, diffusion) into the xylem of roots.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.02.02",
+      "title": "Xylem Transport to Leaves",
+      "body": "Learners must be able to **describe** the pathway of water and minerals through the xylem from the roots to the leaves and **explain** the role of transpiration pull and cohesion-tension theory in this process. They should be able to **investigate** water movement through xylem (using Impatiens if possible).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.03",
+      "title": "Translocation of Manufactured Food (Sugars)",
+      "body": "Learners must be able to **define** translocation and **explain** the process by which manufactured food (sugars from photosynthesis) is transported from leaves to other parts of the plant (storage organs, growing regions) via the phloem.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_PSTS-C05.04",
+      "title": "Wilting and Guttation Phenomena",
+      "body": "Learners must be able to **define** and **describe** the phenomena of wilting and guttation. They should **explain** the physiological causes of wilting (loss of turgor due to excessive water loss) and guttation (exudation of xylem sap due to root pressure) and **discuss** their significance in plant water relations.",
+      "children": []
+    }
+  ]
+}

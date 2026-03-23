@@ -1,0 +1,447 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_EIHP-C01",
+      "title": "Environmental Interactions and Human Population Dynamics (Overview)",
+      "body": "Learners must be able to **describe** and **explain** the fundamental concepts of environmental interactions, population dynamics, and human impact on the environment across Grades 10-12. This includes understanding the biosphere, ecosystems, population ecology, and current environmental crises.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C02",
+        "DBE_FET_LSG10_EIHP-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02",
+      "title": "Grade 10: Environmental Studies (Biosphere to Ecosystems)",
+      "body": "Learners must **analyse** and **interpret** the basic concepts of environmental studies, progressing from the global biosphere to local ecosystems, as per the Grade 10 CAPS curriculum. This section lays the foundational knowledge for more complex environmental topics.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C02-C01",
+        "DBE_FET_LSG10_EIHP-C02-C02",
+        "DBE_FET_LSG10_EIHP-C02-C03",
+        "DBE_FET_LSG10_EIHP-C02-C04",
+        "DBE_FET_LSG10_EIHP-C02-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C01",
+      "title": "Concept of the Biosphere",
+      "body": "Learners must be able to **define** the biosphere and **explain** its interconnectedness with the hydrosphere, lithosphere, and atmosphere, building on Grade 8 knowledge. Visual identification of Earth's spheres may be required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C02",
+      "title": "Southern African Biomes",
+      "body": "Learners must **describe** the terrestrial and aquatic biomes of Southern Africa. They should **analyse** how climate, soils, and vegetation influence the organisms found in each biome and **identify** the location of different biomes in South Africa.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C03",
+      "title": "The Environment: Human Interactions",
+      "body": "Learners must **explain** the concept of the environment in terms of human activities and interactions. They should also **describe** the effects of abiotic and biotic factors on a community.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04",
+      "title": "Ecosystems: Structure and Functioning",
+      "body": "Learners must be able to **define** an ecosystem and **describe** its structure and functioning, differentiating between abiotic and biotic components. They should also **explain** energy flow and nutrient cycling within ecosystems.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C02-C04-C01",
+        "DBE_FET_LSG10_EIHP-C02-C04-C02",
+        "DBE_FET_LSG10_EIHP-C02-C04-C03",
+        "DBE_FET_LSG10_EIHP-C02-C04-C04",
+        "DBE_FET_LSG10_EIHP-C02-C04-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04-C01",
+      "title": "Abiotic Factors",
+      "body": "Learners must **list** and **describe** the influence of various abiotic factors on ecosystems, including physiographic factors (aspect, slope, altitude), soil characteristics (pH, humus content, texture, water retention capacity, air content), light (day length, seasonal changes), temperature (day/night, seasons), and water (water cycle, importance of wetlands).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04-C02",
+      "title": "Biotic Factors",
+      "body": "Learners must **identify** and **explain** the roles of biotic factors in an ecosystem, including producers, consumers, and decomposers, linking this to prior Grade 8 knowledge.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04-C03",
+      "title": "Energy Flow & Trophic Structure",
+      "body": "Learners must **describe** energy flow through ecosystems and its relationship to trophic structure. They should **identify** and **differentiate** between trophic levels, including producers, consumers (herbivores, carnivores, omnivores), and decomposers, linking to Grade 9 nutrition content.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04-C04",
+      "title": "Nutrient Cycles",
+      "body": "Learners must **illustrate** and **explain** the flow charts of nutrient cycles for water, oxygen, carbon, and nitrogen. They should **name** key components (e.g., nitrates) but are not required to detail the chemistry.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C04-C05",
+      "title": "Ecotourism",
+      "body": "Learners must **discuss** ecotourism in terms of its economic, ethical, and environmental opportunities, fostering an appreciation for sustainable practices.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C02-C05",
+      "title": "Ecosystem Investigations (Procedural)",
+      "body": "Learners must be able to **plan**, **collect**, **record**, **present**, **analyse**, and **evaluate** data from fieldwork on a chosen local ecosystem. This includes dealing with abiotic/biotic factors and their interactions, trophic relationships, seasonal changes, biodiversity (using field guides/keys), and human impact. Groups should investigate different factors and present findings.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03",
+      "title": "Grade 11: Population Ecology and Human Impact",
+      "body": "Learners must **investigate** and **analyse** the principles of population ecology, including factors influencing population size and inter-species interactions. Furthermore, they must **evaluate** the significant human impacts on the environment, identifying current crises and suggesting solutions, as per the Grade 11 CAPS curriculum. This content is taught and assessed in Grade 11 for the Grade 12 National Senior Certificate examination.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C01",
+        "DBE_FET_LSG10_EIHP-C03-C02",
+        "DBE_FET_LSG10_EIHP-C03-C03",
+        "DBE_FET_LSG10_EIHP-C03-C04",
+        "DBE_FET_LSG10_EIHP-C03-C05"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C01",
+      "title": "Population Dynamics",
+      "body": "Learners must **analyse** the factors affecting population size and **interpret** various population growth patterns within ecosystems. They should **apply** scientific investigation skills to determine population size.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C01-C01",
+        "DBE_FET_LSG10_EIHP-C03-C01-C02",
+        "DBE_FET_LSG10_EIHP-C03-C01-C03",
+        "DBE_FET_LSG10_EIHP-C03-C01-C04"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C01-C01",
+      "title": "Population Size Factors",
+      "body": "Learners must **identify** and **explain** factors that influence population size, including immigration, emigration, mortality, and births. They should also **describe** how limiting factors and carrying capacity regulate population fluctuations.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C01-C02",
+      "title": "Population Growth Curves",
+      "body": "Learners must **draw** and **interpret** logistic and geometric population growth curves, **identifying** and **describing** their distinct phases.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C01-C03",
+      "title": "Population Investigations (Procedural)",
+      "body": "Learners must be able to **determine**, **collect**, **record**, **interpret**, and **calculate/estimate** the size of a population using methods such as quadrant or simple sampling (e.g., simulated mark/recapture).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C01-C04",
+      "title": "Population Culling (Case Study)",
+      "body": "Learners must **analyse** a case study on the rationale for culling (e.g., elephants in Kruger National Park) as an application of population size estimation. They should **draw** a public survey form to test public opinion, **show** results in a pie graph, and **discuss** the ethical implications.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02",
+      "title": "Environmental Interactions",
+      "body": "Learners must **identify** and **explain** various types of environmental interactions, including predation, competition, symbiosis, and social organisation, providing South African examples where applicable.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C02-C01",
+        "DBE_FET_LSG10_EIHP-C03-C02-C02",
+        "DBE_FET_LSG10_EIHP-C03-C02-C03",
+        "DBE_FET_LSG10_EIHP-C03-C02-C04"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C01",
+      "title": "Predation",
+      "body": "Learners must **describe** predator-prey relationships, providing two South African examples. They should be able to **interpret** graphs illustrating these relationships.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C02-C01-C01"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C01-C01",
+      "title": "Predation Investigations (Procedural)",
+      "body": "Learners must be able to **collect**, **record**, and **interpret** data from studies or experiments on predator-prey relationships, potentially involving graphs.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C02",
+      "title": "Competition",
+      "body": "Learners must **differentiate** between interspecific and intraspecific competition, **explaining** the resources for which organisms compete and how survival is determined by access to these resources. They should also **discuss** competitive exclusion and resource partitioning.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C02-C02-C01",
+        "DBE_FET_LSG10_EIHP-C03-C02-C02-C02",
+        "DBE_FET_LSG10_EIHP-C03-C02-C02-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C02-C01",
+      "title": "Interspecific Competition",
+      "body": "Learners must **explain** interspecific competition for resources such as light, space, water, shelter, and food, and **describe** how it affects different species.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C02-C02",
+      "title": "Intraspecific Competition",
+      "body": "Learners must **explain** intraspecific competition for food, access to mates, water, space, and shelter. They should **describe** how survival is determined by access to these resources and ecological niches.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C02-C03",
+      "title": "Competitive Exclusion & Resource Partitioning",
+      "body": "Learners must **describe** competitive exclusion and resource partitioning, **discussing** one example of coexistence in animals and one example in plants.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C03",
+      "title": "Symbiotic Relationships",
+      "body": "Learners must **identify** and **explain** different symbiotic relationships, providing two South African examples for each type where applicable.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C02-C03-C01",
+        "DBE_FET_LSG10_EIHP-C03-C02-C03-C02",
+        "DBE_FET_LSG10_EIHP-C03-C02-C03-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C03-C01",
+      "title": "Parasitism",
+      "body": "Learners must **describe** parasitism, providing two South African examples where one species benefits at the expense of another. They should also be able to **draw** a simplified life cycle of a parasite like bilharzia or tapeworm.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C03-C02",
+      "title": "Mutualism",
+      "body": "Learners must **describe** mutualism, providing two South African examples where both species benefit from the interaction.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C03-C03",
+      "title": "Commensalism",
+      "body": "Learners must **describe** commensalism, providing two South African examples where one species benefits without significantly affecting the other.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C02-C04",
+      "title": "Social Organisation",
+      "body": "Learners must **explain** the benefits of social organisation in animal groups, such as herds/flocks (avoidance of predators), packs (hunting), dominance hierarchies, and division of tasks (castes).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C03",
+      "title": "Community Change: Succession",
+      "body": "Learners must **describe** the process of community change over time, known as ecological succession. They should **identify** and **differentiate** between primary and secondary succession.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C03-C01",
+        "DBE_FET_LSG10_EIHP-C03-C03-C02"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C03-C01",
+      "title": "Primary & Secondary Succession",
+      "body": "Learners must **define** and **compare** primary and secondary succession, **explaining** the possible endpoints of succession depending on environmental fluctuations.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C03-C02",
+      "title": "Succession Investigations (Procedural)",
+      "body": "Learners must be able to **identify** and **describe** an area (e.g., sports field or roadside) where ecological succession is taking or has taken place, noting observations of community changes.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C04",
+      "title": "Human Population Dynamics",
+      "body": "Learners must **analyse** the dynamics of human population growth, including the reasons for exponential growth and its future implications for South Africa.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C04-C01",
+        "DBE_FET_LSG10_EIHP-C03-C04-C02",
+        "DBE_FET_LSG10_EIHP-C03-C04-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C04-C01",
+      "title": "Exponential Growth Factors",
+      "body": "Learners must **explain** the reasons for exponential human population growth, linking historical trends to current rates.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C04-C02",
+      "title": "Age & Gender Distribution",
+      "body": "Learners must be able to **analyse** and **interpret** age and gender distributions for different countries, including South Africa, using population pyramids or similar graphical representations.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C04-C03",
+      "title": "Future Population Growth & Consequences",
+      "body": "Learners must **forecast** South Africa's population growth over the next twenty years and **predict** the possible consequences for the environment and society.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05",
+      "title": "Human Impact on the Environment (Current Crises)",
+      "body": "Learners must **investigate** and **evaluate** the causes and consequences of current environmental crises resulting from human impact, relating them to conditions in South Africa. They should also **propose** solutions to these problems.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C03",
+        "DBE_FET_LSG10_EIHP-C03-C05-C04",
+        "DBE_FET_LSG10_EIHP-C03-C05-C05",
+        "DBE_FET_LSG10_EIHP-C03-C05-C06"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C01",
+      "title": "Atmosphere and Climate Change",
+      "body": "Learners must **explain** the causes and consequences of atmospheric changes and climate change.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C01-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C01-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C01-C03",
+        "DBE_FET_LSG10_EIHP-C03-C05-C01-C04"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C01-C01",
+      "title": "Carbon Emissions & Footprint",
+      "body": "Learners must **describe** carbon dioxide emissions and the concept of a 'carbon footprint'. They should **discuss** the need to reduce carbon footprints to mitigate climate change.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C01-C02",
+      "title": "Deforestation",
+      "body": "Learners must **explain** deforestation as a cause of atmospheric and climate change, outlining its environmental consequences.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C01-C03",
+      "title": "Greenhouse Effect & Global Warming",
+      "body": "Learners must **define** the greenhouse effect and **explain** its role in global warming, leading to desertification, drought, and floods.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C01-C04",
+      "title": "Methane Emissions & Ozone Depletion",
+      "body": "Learners must **describe** methane emissions and the process of ozone depletion, **identifying** their causes and consequences as atmospheric crises.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C02",
+      "title": "Water Resources",
+      "body": "Learners must **analyse** issues related to water availability and quality, identifying human impacts and suggesting solutions.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C02-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C02-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C02-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C02-C01",
+      "title": "Water Availability Issues",
+      "body": "Learners must **explain** how human activities impact water availability, including the construction of dams, destruction of wetlands, poor farming practices, droughts and floods, exotic plantations, depletion of water tables (boreholes), wastage, and the cost of water.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C02-C02",
+      "title": "Water Quality Issues",
+      "body": "Learners must **describe** how water quality is affected by domestic, industrial, agricultural, and mining pollution, leading to diseases, eutrophication, algal blooms, and thermal pollution.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C02-C03",
+      "title": "Water Management & Alien Plants",
+      "body": "Learners must **discuss** the need for water purification and recycling. They should also **identify** alien plants, such as Eichornia, and **explain** their impact on water resources.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C03",
+      "title": "Food Security",
+      "body": "Learners must **analyse** the challenges to food security in the context of human population growth and environmental issues, identifying causes and consequences.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C03-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C03-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C03-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C03-C01",
+      "title": "Population Growth & Food Demand",
+      "body": "Learners must **explain** how human exponential population growth contributes to food security challenges and **analyse** the impact of droughts and floods on food production.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C03-C02",
+      "title": "Farming Practices & Land Use",
+      "body": "Learners must **describe** how poor farming practices like monoculture, pest control issues, and loss of topsoil affect food security. They should also **explain** the need for fertilisers and the impact of alien plants on agricultural land.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C03-C03",
+      "title": "Genetic Engineering & Wastage",
+      "body": "Learners must **discuss** genetically engineered foods in the context of food security and **explain** the problem of wastage in the food chain.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C04",
+      "title": "Loss of Biodiversity (Sixth Extinction)",
+      "body": "Learners must **explain** the causes and consequences of biodiversity loss, often referred to as the 'sixth extinction', with specific reference to South African contexts. They should **identify** control methods and the role of indigenous knowledge systems.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C04-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C04-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C04-C03",
+        "DBE_FET_LSG10_EIHP-C03-C05-C04-C04"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C04-C01",
+      "title": "Habitat Destruction",
+      "body": "Learners must **describe** how habitat destruction through farming methods (overgrazing, monoculture), golf estates, mining, urbanisation, deforestation, and loss of wetlands and grasslands contributes to biodiversity loss.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C04-C02",
+      "title": "Poaching",
+      "body": "Learners must **explain** how poaching, for rhino horn, ivory, and 'bush meat', directly causes a loss of biodiversity. They should also **research** articles on rhino poaching in South Africa and **suggest** prevention strategies.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C04-C03",
+      "title": "Alien Plant Invasions",
+      "body": "Learners must **identify** alien plant invasions as a cause of biodiversity loss and **describe** control methods, including mechanical, chemical, and biological approaches.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C04-C04",
+      "title": "Indigenous Knowledge & Sustainable Use",
+      "body": "Learners must **discuss** indigenous knowledge systems and their role in the sustainable use of the environment, providing examples such as devil's claw, rooibos, fynbos, the African potato (Hypoxis), and Hoodia.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C05",
+      "title": "Solid Waste Disposal",
+      "body": "Learners must **analyse** the challenges of solid waste disposal and **propose** solutions for effective waste management.",
+      "children": [
+        "DBE_FET_LSG10_EIHP-C03-C05-C05-C01",
+        "DBE_FET_LSG10_EIHP-C03-C05-C05-C02",
+        "DBE_FET_LSG10_EIHP-C03-C05-C05-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C05-C01",
+      "title": "Dumpsite Management",
+      "body": "Learners must **explain** strategies for managing dumpsites, focusing on rehabilitation and the prevention of soil and water pollution.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C05-C02",
+      "title": "Recycling & Methane Use",
+      "body": "Learners must **discuss** the importance of recycling and the use of methane gas from dumpsites for domestic purposes like heating and lighting.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C05-C03",
+      "title": "Nuclear Waste Disposal",
+      "body": "Learners must **describe** methods for the safe disposal of nuclear waste and **evaluate** their environmental implications.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_EIHP-C03-C05-C06",
+      "title": "Human Impact Investigations (Procedural)",
+      "body": "Learners must be able to **observe** and **report** on one example of human influence on the local environment (e.g., alien species on biodiversity). They should also **analyse** household solid waste, **estimate** recycling percentages, **visit** a landfill site to observe rehabilitation, and **assess** waste management effectiveness.",
+      "children": []
+    }
+  ]
+}
