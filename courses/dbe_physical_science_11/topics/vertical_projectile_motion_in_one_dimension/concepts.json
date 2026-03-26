@@ -1,0 +1,44 @@
+{
+  "concepts": [
+    {
+      "id": "DBE-PS12-VPM1D-C01",
+      "title": "Projectile Motion and Gravitational Acceleration",
+      "body": "Explain that projectiles fall freely with gravitational acceleration ‘g’, accelerating downwards with a constant acceleration irrespective of whether the projectile is moving upward, downward, or is at its maximum height."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C02",
+      "title": "Time Symmetry in Projectile Motion",
+      "body": "Know that projectiles take the same time to reach their greatest height from the point of upward launch as the time they take to fall back to the point of launch. This phenomenon is known as time symmetry."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C03",
+      "title": "Unified Equations for Projectile Motion",
+      "body": "Know that projectiles can have their motion described by a single set of equations that apply to both their upward and downward motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C04",
+      "title": "Applying Equations of Motion",
+      "body": "Use equations of motion to determine the position, velocity, and displacement of a projectile at any given time."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C05",
+      "title": "Graphing 1D Projectile Motion",
+      "body": "Draw position vs. time (x vs. t), velocity vs. time (v vs. t), and acceleration vs. time (a vs. t) graphs for one-dimensional projectile motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C06",
+      "title": "Equations for 1D Projectile Motion Graphs",
+      "body": "Provide the relevant equations for position versus time and velocity versus time, which correspond to the graphs of one-dimensional projectile motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C07",
+      "title": "Interpreting Graphs for Kinematic Variables",
+      "body": "Given position vs. time (x vs. t), velocity vs. time (v vs. t), or acceleration vs. time (a vs. t) graphs, determine the position, displacement, velocity, or acceleration of a projectile at any specified time t."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-C08",
+      "title": "Describing Motion from Kinematic Graphs",
+      "body": "Given position vs. time (x vs. t), velocity vs. time (v vs. t), or acceleration vs. time (a vs. t) graphs, describe the motion of the object, such as graphs showing a ball bouncing, thrown vertically upwards, or thrown vertically downward."
+    }
+  ]
+}

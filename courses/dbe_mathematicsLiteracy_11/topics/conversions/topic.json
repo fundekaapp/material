@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_MEA_CON",
+  "title": "Conversions",
+  "description": "Performs conversions within and between different measurement systems (length, mass, volume, temperature) using given formulae and tables.",
+  "order": 9,
+  "icon": "📏"
+}

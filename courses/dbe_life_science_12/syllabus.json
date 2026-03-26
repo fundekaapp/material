@@ -1,0 +1,108 @@
+{
+  "id": "DBE_LifeSciences_FET_G12",
+  "title": "Life Sciences",
+  "examination_body": "Department of Basic Education, Republic of South Africa",
+  "level": "Further Education and Training Phase",
+  "description": "The DBE Life Sciences Grade 12 syllabus offers a comprehensive exploration of key biological concepts, ranging from molecular genetics and heredity to advanced human physiology and evolution. It cultivates critical thinking and scientific inquiry skills, enabling learners to understand life at various organizational levels and its intricate interactions with the environment. The curriculum also addresses significant environmental challenges and their human impact, preparing students for higher education and responsible engagement with biological issues.",
+  "icon": "🧬",
+  "topics": [
+    {
+      "id": "DBE_FET_LS12_DNA",
+      "title": "DNA: The Code of Life",
+      "icon": "🧬",
+      "description": "Explores the structure, function, and replication of Deoxyribonucleic acid (DNA), including its role in carrying the genetic code, and examines the types, structure, transcription, and translation of Ribonucleic acid (RNA) in protein synthesis.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_LS12_MIO",
+      "title": "Meiosis",
+      "icon": "🔬",
+      "description": "Details the process and purposes of meiosis as a reduction division, its importance in gamete production and genetic variation, and examines the consequences of abnormal meiosis and distinguishes it from mitosis.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_LS12_RPV",
+      "title": "Reproduction in Vertebrates",
+      "icon": "🥚",
+      "description": "Explores the diverse reproductive strategies in the animal kingdom, including various fertilization methods, developmental patterns like ovipary and vivipary, and the role of parental care in ensuring reproductive success.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_LS12_HRP",
+      "title": "Human Reproduction",
+      "icon": "👶",
+      "description": "Covers the structure and function of human male and female reproductive systems, including puberty, gametogenesis, the menstrual cycle, fertilization, embryonic development, gestation, and the critical role of the placenta.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_LS12_GNH",
+      "title": "Genetics and Inheritance",
+      "icon": "👪",
+      "description": "Examines genetic principles including dominant and recessive genes, Mendelian inheritance, monohybrid and dihybrid crosses, sex-linked inheritance, various types of mutations, and applications of genetic engineering and forensic DNA techniques.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_LS12_HRN",
+      "title": "Human Nervous System",
+      "icon": "🧠",
+      "description": "Investigates the human nervous system, differentiating between central, peripheral, and autonomic components, explores nerve structure, reflex arcs, and synaptic transmission, and discusses neurological disorders, injuries, and the physiological effects of various drugs.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_LS12_REC",
+      "title": "Human Receptors (Eye and Ear)",
+      "icon": "👁️👂",
+      "description": "Focuses on human sensory receptors, detailing the structure and function of the eye for vision, including binocular vision and common defects, and the structure and function of the ear for hearing and balance, along with associated disorders.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_LS12_HEN",
+      "title": "Human Endocrine System",
+      "icon": "🧪",
+      "description": "Examines the human endocrine system, identifying key glands like the pituitary, thyroid, and pancreas, detailing the hormones they secrete, their specific roles in regulating bodily functions, and the mechanisms of negative feedback in maintaining hormonal balance.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_LS12_HOM",
+      "title": "Homeostasis in Humans",
+      "icon": "⚖️",
+      "description": "Explores the concept of homeostasis in humans, focusing on the negative feedback mechanisms that regulate internal conditions such as glucose, carbon dioxide, water, and salts, and details physiological adaptations for thermoregulation.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_LS12_RPP",
+      "title": "Responding to the Environment: Plants",
+      "icon": "🌱",
+      "description": "Investigates how plants respond to their environment through hormones like auxins and gibberellins, explores phenomena such as geotropism and phototropism, and examines various plant defense mechanisms against threats.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_LS12_ENS",
+      "title": "Evolution by Natural Selection",
+      "icon": "🌳",
+      "description": "Examines the origins of evolutionary ideas, presenting evidence from various fields, contrasts historical theories like Lamarckism and Darwinism, and explains Darwin's theory of natural selection, including concepts of variation, adaptation, and speciation.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_LS12_FNS",
+      "title": "Formation/Emergence of New Species (Speciation)",
+      "icon": "🌿",
+      "description": "Delves into the biological species concept, exploring how new species emerge through geographic isolation and reproductive isolation mechanisms, and examines ongoing evolution in contemporary examples like antibiotic and insecticide resistance.",
+      "order": 12
+    },
+    {
+      "id": "DBE_FET_LS12_HEV",
+      "title": "Human Evolution",
+      "icon": "🚶",
+      "description": "Explores the evidence for common ancestors of hominids, including anatomical, fossil, genetic (mitochondrial DNA), and cultural aspects, detailing key fossil sites in Africa, and discusses alternative cultural and religious explanations for the origin and development of life on Earth.",
+      "order": 13
+    },
+    {
+      "id": "DBE_FET_LS12_HIE",
+      "title": "Human Impact on the Environment: Current Crises",
+      "icon": "🌍",
+      "description": "Examines the multifaceted human impact on the environment, covering current crises such as climate change, water scarcity and pollution, food insecurity, biodiversity loss, and solid waste disposal, emphasizing their causes, consequences, and potential solutions in a South African context. (This topic is taught in Grade 11 but examined in Grade 12).",
+      "order": 14
+    }
+  ]
+}

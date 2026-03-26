@@ -1,0 +1,94 @@
+{
+  "id": "DBE_MathematicalLiteracy_G12",
+  "title": "Mathematical Literacy",
+  "examination_body": "Department of Basic Education (DBE)",
+  "level": "Grade 12",
+  "description": "Mathematical Literacy in Grade 12, according to the CAPS document, equips learners with essential skills to engage confidently with real-life situations involving numerical and spatial concepts. The curriculum focuses on applying mathematical techniques and non-mathematical considerations to understand and solve problems in diverse authentic contexts. Learners develop critical thinking, problem-solving, and communication abilities crucial for everyday living and informed decision-making.",
+  "icon": "🧮",
+  "topics": [
+    {
+      "id": "DBE_G12_ML_WMT",
+      "title": "Working with Two or More Relationships",
+      "icon": "📈",
+      "description": "Learners analyze and represent scenarios involving multiple related variables, often using graphs and equations to compare different systems like electricity costs.",
+      "order": 1
+    },
+    {
+      "id": "DBE_G12_ML_FD",
+      "title": "Financial Documents",
+      "icon": "📄",
+      "description": "Learners interpret and apply information from various financial documents, including guides related to taxation, to understand personal and business finance.",
+      "order": 2
+    },
+    {
+      "id": "DBE_G12_ML_BLI",
+      "title": "Banking, Loans and Investments",
+      "icon": "🏦",
+      "description": "This topic focuses on understanding different banking services, modeling loan scenarios, and evaluating various investment opportunities.",
+      "order": 3
+    },
+    {
+      "id": "DBE_G12_ML_TAX",
+      "title": "Taxation",
+      "icon": "💰",
+      "description": "Learners acquire skills in calculating personal income tax, understanding tax brackets, and analyzing the impact of taxation on individuals' financial situations.",
+      "order": 4
+    },
+    {
+      "id": "DBE_G12_ML_EXR",
+      "title": "Exchange Rates",
+      "icon": "💱",
+      "description": "Learners utilize exchange rates to convert currencies, plan for international transactions, and assess the financial implications of global travel.",
+      "order": 5
+    },
+    {
+      "id": "DBE_G12_ML_MMW",
+      "title": "Measuring Mass (Weight)",
+      "icon": "⚖️",
+      "description": "This topic involves investigating and interpreting mass measurements, often in health-related contexts such as assessing the weight status of children.",
+      "order": 6
+    },
+    {
+      "id": "DBE_G12_ML_PAV",
+      "title": "Perimeter, Area and Volume",
+      "icon": "📐",
+      "description": "Learners apply calculations of perimeter, area, and volume to practical problems such as tiling projects and determining housing density.",
+      "order": 7
+    },
+    {
+      "id": "DBE_G12_ML_PLTR",
+      "title": "Planning a Trip (Time, Maps, Finance)",
+      "icon": "✈️",
+      "description": "Learners integrate understanding of time management, map interpretation, and financial calculations to plan and budget for travel.",
+      "order": 8
+    },
+    {
+      "id": "DBE_G12_ML_PMPAVF",
+      "title": "Plans, Models, Perimeter, Area, Volume, Finance",
+      "icon": "🏠",
+      "description": "Learners apply concepts from plans, models, and measurements of perimeter, area, and volume, integrated with financial considerations, to projects like building a house.",
+      "order": 9
+    },
+    {
+      "id": "DBE_G12_ML_MOD",
+      "title": "Models",
+      "icon": "🏗️",
+      "description": "This topic focuses on constructing and interpreting models of structures, applying scale and spatial reasoning to understand their real-world counterparts.",
+      "order": 10
+    },
+    {
+      "id": "DBE_G12_ML_DHAS",
+      "title": "Data Handling",
+      "icon": "📈",
+      "description": "Learners develop comprehensive skills in all aspects of data handling, including collecting, organizing, representing, and analyzing data to draw conclusions and inform decisions, often in contexts such as risky behaviour.",
+      "order": 11
+    },
+    {
+      "id": "DBE_G12_ML_PAS",
+      "title": "Probability",
+      "icon": "🎲",
+      "description": "This topic enables learners to understand and apply the principles of probability to real-world situations, assessing likelihoods and making informed judgments based on chance.",
+      "order": 12
+    }
+  ]
+}

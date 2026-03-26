@@ -1,0 +1,70 @@
+{"concepts": [
+    {
+      "id": "DBE-PS12-MI-C01",
+      "title": "Linear Momentum",
+      "body": "Learners should be able to define linear momentum and apply its principles, including the conservation of momentum in various scenarios.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C02",
+          "title": "Definition of Linear Momentum",
+          "body": "Define linear momentum as the product of mass and velocity."
+        },
+        {
+          "id": "DBE-PS12-MI-C03",
+          "title": "Force, Mass, and Acceleration (F=ma)",
+          "body": "Solve problems using the relationship F=ma, appreciating that acceleration and force are always in the same direction."
+        },
+        {
+          "id": "DBE-PS12-MI-C04",
+          "title": "Principle of Conservation of Momentum",
+          "body": "State the principle of conservation of momentum.",
+          "children": [
+            {
+              "id": "DBE-PS12-MI-C05",
+              "title": "Applications of Conservation of Momentum in Collisions",
+              "body": "Use the principle of conservation of momentum on simple applications including elastic and inelastic collisions between two bodies in one dimension (calculations involving the use of coefficient of restitution are not required)."
+            },
+            {
+              "id": "DBE-PS12-MI-C06",
+              "title": "Perfectly Elastic Collisions",
+              "body": "Recognise that, for a perfectly elastic collision, the relative speed of approach is equal to the relative speed of separation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C07",
+      "title": "Impulse",
+      "body": "Learners should be able to define impulse and understand its relationship with momentum and force-time graphs.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C08",
+          "title": "Definition of Impulse",
+          "body": "Define impulse as 'change in momentum'."
+        },
+        {
+          "id": "DBE-PS12-MI-C09",
+          "title": "Significance of Area Under a Force-Time Graph",
+          "body": "Explain the significance of area under a force - time graph."
+        }
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C10",
+      "title": "Applications of Newton's Laws and Conservation of Linear Momentum",
+      "body": "Learners should be able to describe various applications of Newton's laws of motion and the principle of conservation of linear momentum.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C11",
+          "title": "Applications of Newton's Laws of Motion",
+          "body": "Describe applications of Newton's laws of motion."
+        },
+        {
+          "id": "DBE-PS12-MI-C12",
+          "title": "Applications of Conservation of Linear Momentum",
+          "body": "Describe applications of conservation of linear momentum."
+        }
+      ]
+    }
+  ]}

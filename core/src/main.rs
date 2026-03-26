@@ -2,13 +2,16 @@ mod material_assistant;
 mod material_processing;
 mod pdf_parser;
 mod upload_database;
+mod utils;
 use crate::material_processing::{
-    create_flashcards, create_lessons, create_topic, refine_concepts,
+    create_flashcards, create_lessons, create_topic, create_topic_concepts_from_pdf,
+    list_topics_from_pdf, refine_concepts,
 };
 use crate::pdf_parser::parse_pdf;
 use crate::upload_database::{
-    Course, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
+    Course, CourseMeta, TopicMeta, send_concept, send_course, send_flashcards, send_lesson,
 };
+use crate::utils::to_snake_case;
 use std::time::Duration;
 use std::{env, thread};
 use std::{error::Error, fs, path::Path};
@@ -26,8 +29,85 @@ async fn main() -> Result<(), Box<dyn Error>> {
     for entry in fs::read_dir(dir_path)? {
         let entry = entry?;
         let path = entry.path();
-
         println!("Reading Course {}", path.display());
+
+        // Parse PDF and get topics
+        let syllabus_pdf = path.join("syllabus.pdf");
+        let syllabus_file_path = path.join("syllabus.json");
+        if syllabus_pdf.exists() {
+            if !syllabus_file_path.exists() {
+                let topics_list =
+                    list_topics_from_pdf(&syllabus_pdf, &path.display().to_string()).await?;
+                fs::write(path.join("syllabus.json"), &topics_list);
+            }
+        }
+
+        // Create  and / or enter Syllabus folders 
+        if syllabus_file_path.exists() {
+            let course_string = fs::read_to_string(syllabus_file_path)?;
+            let course: CourseMeta = serde_json::from_str(&course_string)?;
+
+            for topic in course.topics {
+                let topics_dir = path.join("topics");
+                let topic_snake_case = to_snake_case(&topic.title);
+                let topic_dir_path = topics_dir.join(&topic_snake_case);
+                
+        // Create folders for topics
+                if !topic_dir_path.exists() {
+                    println!("Creating dir {}", &topic_snake_case);
+                    fs::create_dir(topics_dir.join(&topic_snake_case));
+                }
+
+                let topic_json_path = topic_dir_path.join("topic.json");
+                let topic_json = serde_json::to_string_pretty(&topic)?;
+                if !topic_json_path.exists() {
+                    fs::write(topic_json_path, &topic_json)?;
+                }
+
+         // Creating concepts is required for any of the tasks after so we can just have it out of
+         // the match case 
+                let topic_concepts_json_path = topic_dir_path.join("concepts_raw.json");
+                if !topic_concepts_json_path.exists() {
+                    println!(
+                        "Creating concepts for {}",
+                        &topic_concepts_json_path.display()
+                    );
+                    let topic_concepts =
+                        create_topic_concepts_from_pdf(&syllabus_pdf, &topic_json).await?;
+                    fs::write(&topic_concepts_json_path, topic_concepts)?;
+                }
+
+        let concepts = fs::read_to_string(&topic_concepts_json_path)?;
+        
+        // Procedures from match cases
+        let args: Vec<String> = env::args().collect();
+
+        match args.get(1).map(|s| s.as_str())
+                {
+                    Some("create_flashcards") => {
+                        println!("Creating flashcards for, {}", &topic_dir_path.display());
+                        let created_flashcards = create_flashcards(&concepts).await?;
+                        fs::write(topic_dir_path.join("flashcards.json"), created_flashcards)?;
+                    },
+                    Some("create_lesson") => {
+                        let created_lesson = create_lessons(&concepts).await?;
+                        fs::write(topic_dir_path.join("lesson.md"), created_lesson)?;
+                    },
+                    Some("create_podcast") => {
+                        let created_flashcards = create_flashcards(&concepts).await?;
+                        fs::write(topic_dir_path.join("flashcards.json"), created_flashcards)?;
+                    },
+                    Some("create_quiz") => {
+                        let created_flashcards = create_flashcards(&concepts).await?;
+                        fs::write(topic_dir_path.join("flashcards.json"), created_flashcards)?;
+                    },
+                    _ => println!("not an operation"),
+                }
+
+            }
+        }
+        // Create topic.json file
+
         let syllabus = format!("{}/syllabus.json", path.display());
         let contents = fs::read_to_string(&syllabus)?;
         let course: Course = serde_json::from_str(&contents)?;
@@ -42,7 +122,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
             if lesson_path.is_dir() {
                 println!("Lesson path {}", lesson_path.display());
                 let raw_concept_file = lesson_path.join("concepts_raw.md");
-                println!("the raw concept path{}", raw_concept_file.display());
 
                 if raw_concept_file.exists() {
                     let raw_concepts = fs::read_to_string(&raw_concept_file)?;

@@ -1,0 +1,119 @@
+[
+  {
+    "course_info": {
+      "id": "ZIMSEC_Physics_AL_F5",
+      "title": "Physics",
+      "examination_body": "Zimbabwe School Examinations Council",
+      "level": "Advanced Level",
+      "description": "The ZIMSEC Advanced Level Physics syllabus emphasizes the mastery and application of physics principles, fostering analytical and problem-solving skills for further studies in Science and Technology. It aims to develop creative and innovative learners who can apply physics concepts in industrial processes for value addition and economic growth.",
+      "icon": "⚛️"
+    },
+    "topics": [
+      {
+        "id": "ZIMSEC_AL_P5_1_1PQU",
+        "title": "Physical Quantities and Units",
+        "icon": "📐",
+        "description": "Learners will express derived units, check equation homogeneity, use standard prefixes, and perform vector operations.",
+        "order": 1
+      },
+      {
+        "id": "ZIMSEC_AL_P5_1_2EU",
+        "title": "Errors and Uncertainties",
+        "icon": "📊",
+        "description": "Learners will distinguish between systematic and random errors, differentiate precision and accuracy, and assess uncertainties in derived quantities.",
+        "order": 2
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_1K",
+        "title": "Kinematics",
+        "icon": "⏱️",
+        "description": "Learners will derive and apply equations for uniformly accelerated motion in a straight line, including free fall and projectile motion.",
+        "order": 3
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_2D",
+        "title": "Dynamics",
+        "icon": "🚀",
+        "description": "Learners will define linear momentum and impulse, apply Newton's laws of motion, and use the principle of conservation of momentum in collisions.",
+        "order": 4
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_3F",
+        "title": "Forces",
+        "icon": "💪",
+        "description": "Learners will describe various types of forces, understand equilibrium, apply Archimedes' Principle, explain viscosity and terminal velocity, and calculate moments and torques.",
+        "order": 5
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_4WEP",
+        "title": "Work, Energy and Power",
+        "icon": "⚡",
+        "description": "Learners will define and calculate work, derive and apply formulas for kinetic and potential energy, explain internal energy, and relate power to work done and efficiency.",
+        "order": 6
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_5CM",
+        "title": "Circular Motion",
+        "icon": "🔄",
+        "description": "Learners will define angular motion concepts, derive and apply centripetal force and acceleration equations, and describe everyday examples of circular motion.",
+        "order": 7
+      },
+      {
+        "id": "ZIMSEC_AL_P5_2_6GF",
+        "title": "Gravitational Field",
+        "icon": "🪐",
+        "description": "Learners will understand gravitational fields, apply Newton's law of gravitation, analyze circular orbits, and define gravitational field strength and potential.",
+        "order": 8
+      },
+      {
+        "id": "ZIMSEC_AL_P5_3_1O",
+        "title": "Oscillations",
+        "icon": "🎶",
+        "description": "Learners will describe simple harmonic motion, define related terms like amplitude and frequency, understand damped and forced oscillations, and explain resonance.",
+        "order": 9
+      },
+      {
+        "id": "ZIMSEC_AL_P5_3_2W",
+        "title": "Waves",
+        "icon": "〰️",
+        "description": "Learners will understand wave properties, critical angle and total internal reflection, polarisation, the electromagnetic spectrum, and X-ray production and applications.",
+        "order": 10
+      },
+      {
+        "id": "ZIMSEC_AL_P5_3_3S",
+        "title": "Superposition",
+        "icon": "➕",
+        "description": "Learners will explain wave superposition, stationary waves, two-source interference (Young's experiment), coherence, diffraction, and principles of CT scanning.",
+        "order": 11
+      },
+      {
+        "id": "ZIMSEC_AL_P5_4_1E",
+        "title": "Electricity",
+        "icon": "💡",
+        "description": "Learners will describe electrostatic phenomena, define charge, potential difference, resistance, EMF, power, and internal resistance, and solve related circuit problems.",
+        "order": 12
+      },
+      {
+        "id": "ZIMSEC_AL_P5_4_2DCC",
+        "title": "D.C. Circuits",
+        "icon": "🔌",
+        "description": "Learners will apply Kirchhoff's laws to solve DC circuit problems, understand potential dividers, and utilize potentiometers for comparing potential differences.",
+        "order": 13
+      },
+      {
+        "id": "ZIMSEC_AL_P5_4_3EF",
+        "title": "Electric Fields",
+        "icon": "🧲",
+        "description": "Learners will describe electric fields and field strength, apply Coulomb's law, and understand electric potential and potential gradient.",
+        "order": 14
+      },
+      {
+        "id": "ZIMSEC_AL_P5_4_4C",
+        "title": "Capacitances",
+        "icon": "🔋",
+        "description": "Learners will understand capacitance, function of capacitors in series and parallel circuits, energy storage in capacitors, and their charging and discharging behavior.",
+        "order": 15
+      }
+    ]
+  }
+]

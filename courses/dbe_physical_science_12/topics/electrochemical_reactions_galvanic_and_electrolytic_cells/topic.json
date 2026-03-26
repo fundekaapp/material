@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS12_ECR",
+  "title": "Electrochemical Reactions (Galvanic and Electrolytic Cells)",
+  "description": "Defines galvanic and electrolytic cells, explains oxidation/reduction via electron transfer, utilizes standard electrode potentials to calculate cell emf, and applies these principles to industrial electrochemistry.",
+  "order": 11,
+  "icon": "🔋"
+}

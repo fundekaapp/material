@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS12_ECEM",
+  "title": "Electric Circuits and Electrodynamics",
+  "description": "Solves problems for series-parallel networks with internal resistance, and explains the fundamental principles of AC generators, motors, and alternating current.",
+  "order": 5,
+  "icon": "⚡"
+}

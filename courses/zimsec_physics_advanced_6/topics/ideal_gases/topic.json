@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_IG",
+  "title": "Ideal Gases",
+  "description": "Introduces the kinetic theory of gases, explaining the relationship between molecular motion and macroscopic properties like pressure and temperature, and applies the ideal gas equation of state.",
+  "order": 10,
+  "icon": "💨"
+}

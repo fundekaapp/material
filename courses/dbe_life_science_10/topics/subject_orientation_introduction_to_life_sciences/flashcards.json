@@ -1,0 +1,436 @@
+{
+  "flashcards": [
+    {
+      "id": "DBE_FET_LSG10_SO-C01-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C01",
+      "front": "What is the main purpose of the 'Subject Orientation: Introduction to Life Sciences' topic in Grade 10?",
+      "back": "It establishes links between natural and life sciences, defines life's scope and continuity, outlines scientific inquiry methods and skills, connects prior knowledge with future learning, describes knowledge construction, introduces basic scientific principles, and familiarizes learners with necessary skills for the FET phase."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C02-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C02",
+      "front": "What does Section 2 of the Life Sciences Subject Orientation provide, according to the CAPS document?",
+      "back": "It provides the foundational understanding of Life Sciences, covering its definition, scope, and the rationale behind its study in the school curriculum."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C03-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C03",
+      "front": "What does the initial Grade 10 Term 1 module for Subject Orientation cover?",
+      "back": "It bridges Natural Sciences (GET) with Life Sciences (FET), defines life's scope and continuity, emphasizes its dynamic, homeostatic nature and hierarchical organization, characterizes science as involving contested, evidence-based knowledge and non-dogmatic inferences, details scientific methodology, specific skills to be developed, and rules for learning organization."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C04-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C04",
+      "front": "What are the core principles introduced in Life Sciences regarding the nature of life and science?",
+      "back": "Core principles include the dynamic nature of life, the concept of homeostasis at all organizational levels, living systems existing across a hierarchy from molecules to biomes, and the nature of science as a discipline involving contested knowledge, peer review, and inferences based on evidence, rather than dogmatic truths."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C05-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C05",
+      "front": "How much instructional time is allocated for the 'Subject Orientation' in Grade 10 Life Sciences?",
+      "back": "It is allocated 1/2 week or 2 hours of instructional time within Term 1."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C06-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C06",
+      "front": "How is the 'Subject Orientation' content assessed in Life Sciences?",
+      "back": "The 'Subject Orientation' content is not directly assessable as a standalone unit. Instead, its principles and skills are integrated and assessed within the context of specific subject content throughout the academic year."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C07-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C07",
+      "front": "How is 'Life Sciences' defined?",
+      "back": "'Life Sciences' is defined as the scientific study of living things, encompassing their interactions with each other and their environments from a molecular level, involving specific, replicable, and systematic methods of scientific inquiry."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C08-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C08",
+      "front": "Provide the definition of Life Sciences.",
+      "back": "Life Sciences is the scientific study of living things, from molecular level to their interactions with one another and their environments. It requires scientific methods for broadening existing knowledge or discovering new things, which must be replicable and systematic."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C09-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C09",
+      "front": "Describe the nature of scientific knowledge production.",
+      "back": "Scientific knowledge production is an ongoing endeavor, evolving gradually with occasional leaps as new theories replace old ones. It changes over time as understanding improves and societal views shift, often involving debates leading to consensus. School-taught science theory is generally accepted and tested."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C10-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C10",
+      "front": "What are the primary reasons for studying Life Sciences at school level?",
+      "back": "The primary reasons are to gain useful everyday knowledge and skills, expose learners to the breadth of biological studies, stimulate interest in specializations, and provide a foundation for higher education in biological sub-disciplines."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C11-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C11",
+      "front": "Name some sub-disciplines and specialisations introduced in Life Sciences at school level.",
+      "back": "Biochemistry, Biotechnology, Microbiology, Genetics, Zoology, Botany, Entomology, Physiology (plant and animal), Anatomy (plant and animal), Morphology (plant and animal), Taxonomy (plant and animal), Environmental Studies, and Sociobiology (animal behaviour)."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C12-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C12",
+      "front": "List the key reasons why learners study Life Sciences.",
+      "back": "Studying Life Sciences provides useful knowledge and skills for everyday life, exposes learners to the scope of biological studies to stimulate interest in and create awareness of possible specialisations, and provides a sufficient background for further studies in biological sub-disciplines."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C13-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C13",
+      "front": "What are the main purposes of studying Life Sciences in detail?",
+      "back": "The study aims for the development of scientific knowledge and understanding, cultivation of science process skills for investigations, and fostering an understanding of science's roles and applications in society. It prepares learners for active participation in a democratic society that values human rights and environmental responsibility."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C14-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C14",
+      "front": "How does scientific knowledge in Life Sciences benefit learners?",
+      "back": "It helps answer questions about the living world, prepares learners for economic activity, self-expression, and further scientific studies. It also lays the foundation for active participation in a democratic society that values human rights and environmental responsibility."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C15-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C15",
+      "front": "What does the development of science process skills in Life Sciences foster?",
+      "back": "It fosters creativity, responsibility, confidence, objective thinking, and different types of reasoning through investigation, reflection, synthesis, and communication, applicable in daily life, community, and the workplace."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C16-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C16",
+      "front": "What should learners comprehend regarding science's societal roles?",
+      "back": "Learners should comprehend the significant positive and negative impacts of science and technology, understand science as a human activity, its history, relationship with other subjects, contribution to social justice and societal development, and the responsible use of scientific knowledge in relation to ethical issues."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C17-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C17",
+      "front": "What are the three broad subject-specific aims outlined for Life Sciences?",
+      "back": "The three aims are: knowing the subject content (theory), performing practical work and investigations, and appreciating the history, importance, and applications of Life Sciences in society."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C18-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C18",
+      "front": "What does Specific Aim 1, 'Knowing Life Sciences,' involve beyond factual recall?",
+      "back": "It involves knowing, understanding, and making meaning of scientific concepts, processes, phenomena, mechanisms, principles, theories, laws, and models, enabling learners to connect ideas and apply knowledge in new contexts, emphasizing a deep understanding, and includes process skills for investigations."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C19-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C19",
+      "front": "What are some fundamental principles and processes involved in 'How Science Works'?",
+      "back": "Science operates on fundamental knowledge built on scientific evidence and peer-reviewed findings, involving systematic processes like observing, investigating, measuring (and understanding scaling), collecting/presenting data (drawings, descriptions, tables, graphs), understanding evidence limitations, identifying patterns, communicating findings, and considering societal aspects."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C20-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C20",
+      "front": "What are the foundational principles science is built upon regarding evidence and review?",
+      "back": "Science is founded on fundamental knowledge derived from scientific evidence and verified findings, often published in journals or presented at conferences, undergoing a process of peer review to ensure validity and reliability."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C21-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C21",
+      "front": "List key scientific processes and data handling skills.",
+      "back": "Observing, investigating, making measurements (with understanding of scaling), collecting and presenting data (drawings, written descriptions, tables, graphs), recognizing limitations of scientific evidence, identifying patterns/relationships, communicating findings, and considering societal aspects of evidence."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C22-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C22",
+      "front": "What skills are essential for acquiring knowledge under Specific Aim 1?",
+      "back": "Learners must develop skills to access information from various sources, select key ideas, recall facts, and accurately describe concepts, processes, phenomena, mechanisms, principles, theories, laws, and models in Life Sciences."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C23-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C23",
+      "front": "What does 'Access Information' mean in Life Sciences?",
+      "back": "Ability to retrieve information from a variety of sources including teachers, reference books, textbooks, the internet, experts, peers, and parents."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C24-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C24",
+      "front": "Define the skill 'Select Key Ideas.'",
+      "back": "Ability to identify and extract the most important or central concepts from a given body of information."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C25-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C25",
+      "front": "What does 'Recall Facts' involve?",
+      "back": "Ability to remember and reproduce specific factual information from memory."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C26-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C26",
+      "front": "What does it mean to 'Describe Concepts, Processes, Phenomena, Mechanisms, Principles, Theories, Laws and Models'?",
+      "back": "Ability to articulate and explain scientific concepts, processes, phenomena, mechanisms, principles, theories, laws, and models in Life Sciences."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C27-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C27",
+      "front": "How can learners make meaning and achieve understanding according to Specific Aim 1?",
+      "back": "Learners must build conceptual frameworks, organise or reorganise knowledge to derive new meaning, write summaries, develop visual aids like flow charts, diagrams, and mind maps, and recognise patterns and trends."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C28-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C28",
+      "front": "What is involved in 'Building a Conceptual Framework of Science Ideas'?",
+      "back": "Ability to construct an organized and interconnected understanding of scientific ideas and principles."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C29-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C29",
+      "front": "What does the skill 'Organise or Reorganise Knowledge to Derive New Meaning' entail?",
+      "back": "Ability to structure existing information or restructure it in new ways to gain fresh insights and understanding."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C30-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C30",
+      "front": "Describe the skill 'Write Summaries.'",
+      "back": "Ability to condense and present key information from larger texts or concepts concisely."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C31-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C31",
+      "front": "What is the purpose of developing flow charts, diagrams, and mind maps in Life Sciences?",
+      "back": "Ability to create visual representations to illustrate processes, relationships, and structures of information."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C32-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C32",
+      "front": "What does it mean to 'Recognise Patterns and Trends'?",
+      "back": "Ability to identify recurring elements, regularities, or general directions in scientific data or phenomena."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C33-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C33",
+      "front": "What is the goal of Specific Aim 1 regarding applying knowledge?",
+      "back": "Learners must demonstrate the ability to use information in novel ways and apply their knowledge of Life Sciences to contexts or situations that are new or unfamiliar to them."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C34-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C34",
+      "front": "Explain 'Use Information in a New Way.'",
+      "back": "Ability to innovate with existing information, adapting it for different purposes or interpretations beyond its original context."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C35-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C35",
+      "front": "What does 'Apply Knowledge to New and Unfamiliar Contexts' signify?",
+      "back": "Ability to transfer and utilize acquired scientific knowledge and skills in novel or previously unencountered situations."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C36-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C36",
+      "front": "What skills are encompassed in Specific Aim 1 concerning the analysis, evaluation, and synthesis of scientific knowledge?",
+      "back": "Learners must develop skills to analyse information/data, recognise relationships between existing and new ideas, critically evaluate scientific information, identify assumptions, and categorise information."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C37-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C37",
+      "front": "Define the skill 'Analyse Information/Data.'",
+      "back": "Ability to break down complex information or data into its components to understand their relationships and implications."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C38-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C38",
+      "front": "What is the meaning of 'Recognise Relationships Between Existing Knowledge and New Ideas'?",
+      "back": "Ability to identify and establish connections between previously learned concepts and newly acquired scientific information."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C39-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C39",
+      "front": "Explain 'Critically Evaluate Scientific Information.'",
+      "back": "Ability to assess the validity, reliability, and significance of scientific information, including discerning biases and limitations."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C40-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C40",
+      "front": "What does it mean to 'Identify Assumptions'?",
+      "back": "Ability to pinpoint unstated beliefs or conditions that underpin scientific arguments, models, or conclusions."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C41-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C41",
+      "front": "Define 'Categorise Information.'",
+      "back": "Ability to sort and classify scientific information into groups or categories based on shared characteristics or defined criteria."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C42-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C42",
+      "front": "What is the focus of Specific Aim 2 in Life Sciences?",
+      "back": "This aim focuses on developing learners' ability to plan and carry out investigations and solve problems requiring practical skills, fostering curiosity about the natural world and living things, encompassing a range of practical skills to be assessed at a grade-appropriate level by the end of Grade 10."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C43-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C43",
+      "front": "Why is the ability to 'Follow Instructions for Practical Work' an essential skill?",
+      "back": "It is essential, particularly for lower grades and large classes, to use unfamiliar equipment and perform tasks independently by following clear instructions, adhering to safety rules, with assistance levels indicating performance."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C44-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C44",
+      "front": "What does 'Handle Equipment or Apparatus Appropriately' involve?",
+      "back": "Involves knowing the names and uses of apparatus, and being able to use various types of equipment (standard and improvised) appropriately and safely in investigations, rather than just memorizing names."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C45-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C45",
+      "front": "What different ways can learners 'Make Observations' and record them?",
+      "back": "Ability to perform a variety of observations and record them in different ways, including drawings, descriptions, grouping materials based on similarities/differences, measurements, comparing materials before/after treatment, and observing experimental results, including counting."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C46-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C46",
+      "front": "How should learners 'Record Information or Data'?",
+      "back": "Ability to document observations and information through drawings, descriptions, simple tables, and simple graphs. This recording skill is transferable across different scientific activities."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C47-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C47",
+      "front": "What does 'Measure Quantities' in Life Sciences involve?",
+      "back": "Ability to know what and how to measure, understand the required accuracy, and quantify observations such as length, volume, temperature, weight/mass, and counts, including making estimations."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C48-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C48",
+      "front": "What skills are part of 'Interpreting Information'?",
+      "back": "Ability to convert information from one form to another (e.g., table to graph), perform simple calculations, analyze/extract information from visuals, apply theory to practice, recognize patterns/trends, appreciate experimental limitations, and make deductions based on evidence."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C49-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C49",
+      "front": "What does the ability to 'Design/Plan Investigations or Experiments' encompass for Grades 10-12?",
+      "back": "Ability to design investigations by identifying problems, formulating hypotheses, selecting apparatus, identifying/controlling variables, planning experiments, suggesting recording methods, and understanding the need for replication/verification, applicable to simple investigations/experiments."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C50-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C50",
+      "front": "What does it mean to 'Identify a Problem for Scientific Investigation'?",
+      "back": "Ability to clearly define the scientific question or issue that needs to be addressed through an investigation."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C51-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C51",
+      "front": "Define the skill 'Formulate Hypotheses.'",
+      "back": "Ability to propose testable explanations or predictions for observed phenomena in an investigation."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C52-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C52",
+      "front": "What is involved in 'Selecting Appropriate Apparatus, Equipment, and Materials'?",
+      "back": "Ability to choose the necessary tools, equipment, and substances required to conduct an experiment or investigation effectively and safely."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C53-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C53",
+      "front": "What types of variables should learners be able to 'Identify Variables' in a scientific investigation?",
+      "back": "Ability to recognize and distinguish between independent, dependent, and controlled variables relevant to a scientific investigation."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C54-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C54",
+      "front": "What is meant by 'Suggest Ways of Controlling Variables'?",
+      "back": "Ability to propose methods and strategies to maintain extraneous factors constant during an experiment, ensuring the validity of results."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C55-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C55",
+      "front": "What does it mean to 'Plan an Experiment'?",
+      "back": "Ability to systematically outline the sequence of steps and procedures for conducting a scientific experiment."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C56-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C56",
+      "front": "What is the skill 'Suggest Methods for Recording Results'?",
+      "back": "Ability to propose suitable formats and strategies for documenting observations and data obtained from an investigation."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C57-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C57",
+      "front": "Why is it important to 'Understand the Need for Replication or Verification' in science?",
+      "back": "Ability to comprehend the importance of repeating experiments and confirming findings to ensure scientific validity and reliability."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C58-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C58",
+      "front": "What is the focus of Specific Aim 3 in Life Sciences?",
+      "back": "This aim focuses on enabling learners to understand the relevance of school science to their lives, including its historical context, indigenous knowledge systems, and ongoing scientific developments. It fosters an appreciation for the societal impact and applications of Life Sciences."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C59-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C59",
+      "front": "What should learners understand about the history and relevance of scientific discoveries?",
+      "back": "Learners should comprehend the historical context and societal relevance of scientific discoveries, linking these aspects to specific subject content, individual scientists, and the evolution of scientific thought."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C60-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C60",
+      "front": "How should learners understand the relationship between indigenous knowledge and Life Sciences?",
+      "back": "Learners should understand that knowledge originates from diverse worldviews, distinguishing modern science from traditional indigenous knowledge systems. They should explore the cultural contexts of indigenous knowledge, with a focus on South African examples linked to Life Sciences content."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C61-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C61",
+      "front": "What should learners recognize about the value and application of Life Sciences in society?",
+      "back": "Learners should recognize the wide-ranging applications and relevance of Life Sciences in society and various industries, including career opportunities in fields such as socio-biology, animal behaviour, plant pathology, game management, environmental impact studies, and biotechnology."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C62-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C62",
+      "front": "What general scientific skills are developed in Life Sciences?",
+      "back": "Scientific skills encompass understanding biological principles like surface area to volume/size relationships and structure-function relationships, biological drawing principles, translating 3D objects into 2D drawings, interpreting graphs, and calculation skills. These are a general introduction to the skills listed under the specific aims."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C63-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C63",
+      "front": "Why is understanding biological principles like surface area to volume/size and structure-function relationships important?",
+      "back": "Understanding key biological principles such as the relationship between surface area and volume/size, and the relationship between structure and function, is crucial for comprehending life processes."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C64-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C64",
+      "front": "What skills are involved in 'Biological Drawings and Interpretation'?",
+      "back": "Skills involve understanding principles for biological drawings, translating 3-dimensional objects or specimens into 2-dimensional drawings/photographs, and interpreting 2-dimensional drawings/photographs, including transverse and longitudinal sections."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C65-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C65",
+      "front": "What is the purpose of the 'General Introduction to Specific Aims Skills'?",
+      "back": "This covers a general introduction to the broad range of skills listed in detail under Specific Aims 1, 2, and 3, ensuring learners are aware of the comprehensive skillset they need to develop."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C66-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C66",
+      "front": "What essential scientific skills are covered in the 'Introduction to Graphs and Calculations'?",
+      "back": "Understanding different kinds of graphs, when to use them, how to interpret them, and developing basic calculation abilities are essential scientific skills."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C67-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C67",
+      "front": "What aspects are included in the 'Organisation of Learning and Classroom Rules' for Life Sciences?",
+      "back": "This includes guidelines for using equipment and other resources, understanding procedures for safe use of apparatus in laboratories and classrooms, working effectively in groups, understanding assessment requirements, and a brief mention of career paths and subject combinations for higher education."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C68-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C68",
+      "front": "What do 'Using Equipment and Other Resources' guidelines pertain to?",
+      "back": "Guidelines and expectations regarding the effective and appropriate use of various equipment and learning resources in the Life Sciences classroom and laboratory."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C69-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C69",
+      "front": "Why are 'Safety Procedures in Laboratories and Classrooms' crucial for learning organization?",
+      "back": "Understanding and adhering to procedures for safely using apparatus in both laboratory and classroom settings is a crucial part of learning organization."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C70-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C70",
+      "front": "What does 'Working in Groups' involve in the context of learning organization?",
+      "back": "Expectations and guidelines for collaborative learning, including effective participation and cooperation within group activities."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C71-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C71",
+      "front": "Why is it important for learners to have an 'Understanding of Assessment Requirements'?",
+      "back": "Learners need to be familiar with the various assessment requirements and criteria that will be applied throughout the Life Sciences curriculum."
+    },
+    {
+      "id": "DBE_FET_LSG10_SO-C72-FC01",
+      "concept_id": "DBE_FET_LSG10_SO-C72",
+      "front": "What is covered in 'Careers and Subject Combinations for Higher Education' during subject orientation?",
+      "back": "A brief introduction to potential career paths in Life Sciences and recommended subject combinations necessary for entrance to higher education."
+    }
+  ]
+}

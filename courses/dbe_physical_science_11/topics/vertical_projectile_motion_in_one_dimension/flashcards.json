@@ -1,0 +1,52 @@
+{
+  "flashcards": [
+    {
+      "id": "DBE-PS12-VPM1D-FC01",
+      "concept_id": "DBE-PS12-VPM1D-C01",
+      "front": "What is the nature of a projectile's acceleration due to gravity?",
+      "back": "Projectiles fall freely with gravitational acceleration 'g', accelerating downwards with a constant acceleration irrespective of whether the projectile is moving upward, downward, or is at its maximum height."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC02",
+      "concept_id": "DBE-PS12-VPM1D-C02",
+      "front": "What is time symmetry in projectile motion?",
+      "back": "Time symmetry in projectile motion refers to the phenomenon where projectiles take the same time to reach their greatest height from the point of upward launch as the time they take to fall back to the point of launch."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC03",
+      "concept_id": "DBE-PS12-VPM1D-C03",
+      "front": "How are the equations for projectile motion unified?",
+      "back": "Projectiles can have their motion described by a single set of equations that apply to both their upward and downward motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC04",
+      "concept_id": "DBE-PS12-VPM1D-C04",
+      "front": "What can the equations of motion be used for in projectile motion?",
+      "back": "The equations of motion can be used to determine the position, velocity, and displacement of a projectile at any given time."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC05",
+      "concept_id": "DBE-PS12-VPM1D-C05",
+      "front": "What types of graphs are used to represent one-dimensional projectile motion?",
+      "back": "Position vs. time (x vs. t), velocity vs. time (v vs. t), and acceleration vs. time (a vs. t) graphs are used for one-dimensional projectile motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC06",
+      "concept_id": "DBE-PS12-VPM1D-C06",
+      "front": "What equations correspond to the position vs. time and velocity vs. time graphs for one-dimensional projectile motion?",
+      "back": "The relevant equations for position versus time and velocity versus time correspond to the graphs of one-dimensional projectile motion."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC07",
+      "concept_id": "DBE-PS12-VPM1D-C07",
+      "front": "How can kinematic graphs (x vs. t, v vs. t, a vs. t) be used to analyze projectile motion?",
+      "back": "Given position vs. time (x vs. t), velocity vs. time (v vs. t), or acceleration vs. time (a vs. t) graphs, one can determine the position, displacement, velocity, or acceleration of a projectile at any specified time t."
+    },
+    {
+      "id": "DBE-PS12-VPM1D-FC08",
+      "concept_id": "DBE-PS12-VPM1D-C08",
+      "front": "What information can be derived from kinematic graphs (x vs. t, v vs. t, a vs. t) regarding the type of motion?",
+      "back": "Given position vs. time (x vs. t), velocity vs. time (v vs. t), or acceleration vs. time (a vs. t) graphs, one can describe the motion of the object, such as a ball bouncing, thrown vertically upwards, or thrown vertically downward."
+    }
+  ]
+}

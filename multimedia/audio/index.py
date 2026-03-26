@@ -1,0 +1,10 @@
+import torchaudio as ta
+from chatterbox.tts import ChatterboxTTS
+
+model = ChatterboxTTS.from_pretrained(device="cpu")
+
+
+text = "In times of trouble, may the Lord answer your cry. May the name of the God of Jacob keep you safe from all harm. May he send you help from his sanctuary and strengthen you from Jerusalem. May he remember all your gifts and look favorably on your burnt offerings. Interlude May he grant your heart’s desires and make all your plans succeed. May we shout for joy when we hear of your victory and raise a victory banner in the name of our God. May the Lord answer all your prayers. Now I know that the Lord rescues his anointed king. He will answer him from his holy heaven and rescue him by his great power. Some nations boast of their chariots and horses, but we boast in the name of the Lord our God. Those nations will fall down and collapse, but we will rise up and stand firm. Give victory to our king, O Lord ! Answer our cry for help."
+texts = "Ezreal and Jinx teamed up with Ahri, Yasuo, and Teemo to take down the enemy's Nexus in an epic late-game pentakill."
+wav = model.generate(text, audio_prompt_path="morgan_freeman.wav")
+ta.save("test-1.wav", wav, model.sr)

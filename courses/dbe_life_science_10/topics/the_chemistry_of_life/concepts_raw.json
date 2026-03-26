@@ -1,0 +1,127 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_COL-C00",
+      "title": "The Chemistry of Life Overview",
+      "body": "Explores the fundamental organic and inorganic molecules essential for life, including their basic structures, functions, and the importance of minerals and water. This section introduces learners to life at the molecular, cellular, tissue, and organ level, emphasizing how these components enable basic life processes and maintain balance within living systems, as per the Grade 10 Life Sciences curriculum.",
+      "children": [
+        "DBE_FET_LSG10_COL-C01"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C01",
+      "title": "Molecules For Life",
+      "body": "All living organisms are composed of atoms that form molecules, which are the fundamental units of life – cells. Cells exhibit complex organization, enabling essential life processes such as movement, nutrition, respiration, excretion, growth, reproduction, and response to stimuli. Cells differentiate to form specialized tissues, which in turn form organs, each with specific functions. This topic serves as an introduction to life at the molecular, cellular, tissue, and organ level, building on Grade 9 knowledge.",
+      "children": [
+        "DBE_FET_LSG10_COL-C02",
+        "DBE_FET_LSG10_COL-C12",
+        "DBE_FET_LSG10_COL-C16"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C02",
+      "title": "Organic Compounds",
+      "body": "Examines organic molecules, which are primarily composed of Carbon, Hydrogen, and Oxygen, with some also containing Nitrogen and Phosphorus. This section covers the basic structural details, types, and functions of proteins, carbohydrates, lipids, nucleic acids, and vitamins.",
+      "children": [
+        "DBE_FET_LSG10_COL-C03",
+        "DBE_FET_LSG10_COL-C04",
+        "DBE_FET_LSG10_COL-C05",
+        "DBE_FET_LSG10_COL-C08",
+        "DBE_FET_LSG10_COL-C09",
+        "DBE_FET_LSG10_COL-C10",
+        "DBE_FET_LSG10_COL-C11"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C03",
+      "title": "Carbohydrates",
+      "body": "Covers monosaccharides (single sugars like glucose and fructose), disaccharides (double sugars like sucrose and maltose), and polysaccharides (many sugars like starch, cellulose, and glycogen). Only basic structural details are required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C04",
+      "title": "Lipids (Fats and Oils)",
+      "body": "Explores lipids, which consist of one glycerol molecule and three fatty acids. Differentiates between unsaturated and saturated fats and discusses the role of cholesterol in foods and its link to heart disease, building on Grade 9 knowledge. Only basic structural details are required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C05",
+      "title": "Proteins",
+      "body": "Examines proteins, which are composed of amino acids containing Carbon, Hydrogen, Oxygen, Nitrogen, and sometimes Phosphorus and Sulphur, Iron. Discusses their sensitivity to temperature and pH, leading to denaturation (loss of structure and function). Only basic structural details are required.",
+      "children": [
+        "DBE_FET_LSG10_COL-C06",
+        "DBE_FET_LSG10_COL-C07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C06",
+      "title": "Enzyme Action",
+      "body": "Focuses on the role of enzymes in breaking down and synthesizing molecules. Explores the influence of temperature and pH on enzyme action and introduces the Lock and Key Model. Examples of enzymes in everyday life, such as those in washing powders, are also discussed.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C07",
+      "title": "Practical: Investigate Enzyme Effect",
+      "body": "An essential investigation to demonstrate the effect of enzymes using Hydrogen Peroxide and chicken liver, or fresh pineapple juice and solid egg white. Learners will observe, measure, and record the results of the experiment at different temperatures.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C08",
+      "title": "Nucleic Acids (DNA and RNA)",
+      "body": "Introduces nucleic acids, DNA and RNA, as molecules composed of Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus. At this level, no detailed structural information is required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C09",
+      "title": "Vitamins",
+      "body": "Covers various vitamins, including examples such as A, B, C, D, and E. Simple diagrams may be used to represent these molecules. Learners will briefly review the necessity of vitamins for plants and animals, building on prior knowledge from Grade 9, without requiring detailed structural or functional information.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C10",
+      "title": "Practical: Food Tests",
+      "body": "An essential practical investigation involving food tests for starch, glucose, lipids, and proteins. Required resources include various chemicals, Bunsen burners, and thermometers.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C11",
+      "title": "Practical: Biological Washing Powder Investigation",
+      "body": "An optional investigation to study the effectiveness of a 'biological' washing powder that contains enzymes. This practical activity helps understand enzyme function in everyday applications.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C12",
+      "title": "Inorganic Compounds",
+      "body": "Focuses on the basic structural details of essential inorganic molecules like water and minerals. Explores their main functions in living systems, identifies essential macro and micro elements, and discusses the consequences of mineral deficiency diseases. Also addresses the environmental impact of fertilisers, linking to ecological concepts.",
+      "children": [
+        "DBE_FET_LSG10_COL-C13",
+        "DBE_FET_LSG10_COL-C14",
+        "DBE_FET_LSG10_COL-C15"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C13",
+      "title": "Water (H2O)",
+      "body": "Examines water, composed of two hydrogen atoms and one oxygen atom. Focuses on its fundamental role and main functions within living organisms. Only basic structural details are required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C14",
+      "title": "Minerals",
+      "body": "Identifies key macro and micro elements such as Sodium (Na), Potassium (K), Calcium (Ca), Phosphorus (P), Iron (Fe), Iodine (I), nitrates, and phosphates. Discusses their primary functions and the associated deficiency diseases, building on Grade 9 knowledge.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C15",
+      "title": "Fertilisers and Eutrophication",
+      "body": "Explores the necessity of fertilisers for crops in over-utilized soils and explains the environmental consequences when fertilisers are washed into rivers, leading to eutrophication, establishing a link to ecological studies.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C16",
+      "title": "Practical: Analyze Nutritional Content of Food Packaging",
+      "body": "An investigation where learners analyze the nutritional content, including vitamins, minerals, and other components, as indicated on food packaging. This activity also involves comparing the Recommended Daily Allowance (RDA) with individual diets and discussing the implications. Resources include a selection of food packaging.",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_PS11_ELC",
+  "title": "Electric Circuits",
+  "description": "Covers Ohm's Law, analyzing series and parallel circuits, calculating electrical power and energy, and understanding the concept of kilowatt-hour and electricity costs.",
+  "order": 13,
+  "icon": "🔌"
+}

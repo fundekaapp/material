@@ -4,17 +4,35 @@ use std::{error::Error, fs, path::PathBuf};
 
 #[derive(Serialize, Deserialize)]
 pub struct Course {
-    id: i32,
+    id: String,
     title: String,
-    color: String,
     icon: String,
     level: String,
     examination_body: String,
 }
 
+#[derive(Serialize, Deserialize)]
+pub struct TopicMeta {
+    id: String,
+    pub title: String,
+    description: String,
+    order: i32,
+    icon: String,
+}
+
+#[derive(Deserialize)]
+pub struct CourseMeta {
+    id: String,
+    title: String,
+    icon: String,
+    level: String,
+    examination_body: String,
+    pub topics: Vec<TopicMeta>,
+}
+
 impl Course {
-    pub fn id(&self) -> i32 {
-        self.id
+    pub fn id(&self) -> String {
+        self.id.clone()
     }
 }
 
@@ -29,16 +47,6 @@ pub struct Lesson {
     order: i32,
     course: i32,
 }
-
-#[derive(Deserialize)]
-pub struct TopicMeta {
-    id: String,
-    title: String,
-    description: String,
-    order: i32,
-    icon: String,
-}
-
 impl TopicMeta {
     pub fn id(&self) -> String {
         self.id.clone()
@@ -85,10 +93,9 @@ pub struct FlashcardMeta {
     concept_id: String,
 }
 
-
 #[derive(Serialize, Deserialize)]
 pub struct FlashcardArray {
- flashcards : Vec<FlashcardMeta>
+    flashcards: Vec<FlashcardMeta>,
 }
 
 pub async fn send_course(course: Course) -> Result<(), Box<dyn Error>> {
@@ -133,7 +140,11 @@ pub async fn send_lesson(file_path: &PathBuf, course_id: i32) -> Result<(), Box<
     Ok(())
 }
 
-pub async fn send_concept(file_path: &PathBuf, lesson_id: String, course_id: i32) -> Result<(), Box<dyn Error>> {
+pub async fn send_concept(
+    file_path: &PathBuf,
+    lesson_id: String,
+    course_id: i32,
+) -> Result<(), Box<dyn Error>> {
     let concepts_string = fs::read_to_string(file_path.join("concepts.json"))?;
     let concepts: ConceptArray = serde_json::from_str(&concepts_string)?;
 
@@ -145,7 +156,7 @@ pub async fn send_concept(file_path: &PathBuf, lesson_id: String, course_id: i32
             order: index as i32,
             difficulty: 0,
             lesson: format!("{}{}", course_id, lesson_id.clone()),
-       //     parent: concept.id.clone(),
+            //     parent: concept.id.clone(),
         };
 
         let client = Client::new();
@@ -160,12 +171,15 @@ pub async fn send_concept(file_path: &PathBuf, lesson_id: String, course_id: i32
     Ok(())
 }
 
-pub async fn send_flashcards(file_path: &PathBuf, lesson_id: String, course_id: i32) -> Result<(), Box<dyn Error>> {
+pub async fn send_flashcards(
+    file_path: &PathBuf,
+    lesson_id: String,
+    course_id: i32,
+) -> Result<(), Box<dyn Error>> {
     let flashcards_string = fs::read_to_string(file_path.join("flashcards.json"))?;
     let flashcards: FlashcardArray = serde_json::from_str(&flashcards_string)?;
- 
+
     for flashcard in flashcards.flashcards.iter() {
-        
         let flashcard = Flashcard {
             id: flashcard.id.clone(),
             front: flashcard.front.clone(),
@@ -186,7 +200,3 @@ pub async fn send_flashcards(file_path: &PathBuf, lesson_id: String, course_id: 
 
     Ok(())
 }
-
-
-
-

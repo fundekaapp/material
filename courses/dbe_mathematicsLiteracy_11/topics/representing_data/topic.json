@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_DTA_RDA",
+  "title": "Representing Data",
+  "description": "Creates and interprets various graphs from given data, making estimations, deductions, and predictions about trends.",
+  "order": 20,
+  "icon": "📊"
+}

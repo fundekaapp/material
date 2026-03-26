@@ -1,0 +1,75 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_HTS-C01",
+      "title": "Human Transport Systems Overview",
+      "body": "Learners must be able to **define** what constitutes a human transport system and **explain** its critical role in maintaining homeostasis and overall survival. This includes the major components of the circulatory and lymphatic systems.",
+      "children": [
+        "DBE_FET_LSG10_HTS-C02",
+        "DBE_FET_LSG10_HTS-C09",
+        "DBE_FET_LSG10_HTS-C10"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C02",
+      "title": "The Circulatory System: General Principles",
+      "body": "Learners must be able to **describe** the human circulatory system as a double, closed system. **Explain** the advantages of this type of circulation.",
+      "children": [
+        "DBE_FET_LSG10_HTS-C03",
+        "DBE_FET_LSG10_HTS-C04",
+        "DBE_FET_LSG10_HTS-C05",
+        "DBE_FET_LSG10_HTS-C06",
+        "DBE_FET_LSG10_HTS-C07",
+        "DBE_FET_LSG10_HTS-C08"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C03",
+      "title": "Heart Structure",
+      "body": "Learners must be able to **identify** and **label** the external and internal structures of the mammalian heart, including chambers, valves, and major associated blood vessels. Visual identification/drawing required, possibly through dissection of a mammal heart (sheep, cow or pig) or detailed diagrams/models.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C04",
+      "title": "Heart Function and Cardiac Cycle",
+      "body": "Learners must be able to **describe** the functioning of the heart, including the rhythmic contraction and relaxation, and the sequence of blood flow through the heart during a complete cardiac cycle.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C05",
+      "title": "Control of Heart Rate and Cardiac Output",
+      "body": "Learners must be able to **explain** the mechanisms for controlling the cardiac cycle and heart rate (pulse). Learners must be able to **measure**, **record**, **interpret**, and **explain** changes in pulse rate data before and after physical exercise, presenting the data graphically.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C06",
+      "title": "Pulmonary and Systemic Circulation Pathways",
+      "body": "Learners must be able to **differentiate** between the pulmonary and systemic circulation pathways. **Trace** and **illustrate** the direction of oxygenated and deoxygenated blood flow through these systems, specifically mentioning the lungs, pulmonary vessels, major systemic organs (brain, small intestine, liver, kidneys), and their associated blood vessels. Visual representation via schematic diagrams is required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C07",
+      "title": "Blood Vessels: Structure and Function",
+      "body": "Learners must be able to **describe** and **compare** the distinct structural features and functions of arteries, veins (noting the presence of valves), and capillaries. Learners must be able to **observe** and **draw** cross-sections of these blood vessels from prepared microscope slides or micrographs. **Construct** a table to highlight the differences between different types of blood vessels.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C08",
+      "title": "Blood Components and Functions",
+      "body": "Learners must be able to **identify** and **describe** the main components of blood, including plasma and the major types of blood cells (red blood cells, white blood cells, platelets). **Explain** the function of each component in transport and defence. Visual identification of blood cells from prepared microscope slides or micrographs is required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C09",
+      "title": "The Lymphatic System: Structure and Function",
+      "body": "Learners must be able to **describe** the structure and components of the lymphatic system. **Explain** its relationship with the circulatory system and **outline** its primary functions, such as fluid balance, fat absorption, and immune response.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_HTS-C10",
+      "title": "Common Diseases of Human Transport Systems",
+      "body": "Learners must be able to **identify** and **describe** common diseases affecting the heart and circulatory system, such as high blood pressure, low blood pressure, heart attacks, and strokes, outlining their basic causes and symptoms. **Mention** various contemporary treatments for heart diseases, including stents, valve replacements, bypass surgery, pacemakers, and heart transplants (mention only, no detailed mechanisms required).",
+      "children": []
+    }
+  ]
+}

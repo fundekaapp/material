@@ -1,0 +1,136 @@
+{
+  "id": "ZIMSEC_Biology_AL_F6",
+  "title": "Biology",
+  "examination_body": "Zimbabwe School Examinations Council",
+  "level": "Advanced Level",
+  "description": "ZIMSEC Advanced Level Biology provides a comprehensive understanding of biological principles, fostering critical thinking and problem-solving skills. The syllabus encourages research into contemporary issues and promotes the sustainable utilization of local flora and fauna. It emphasizes practical application and inquiry-based learning, empowering students to make informed decisions about health and environmental conservation.",
+  "icon": "🧬",
+  "topics": [
+    {
+      "id": "ZIMSEC_AL_B6_GT_IP",
+      "title": "Insulin Production",
+      "icon": "💉",
+      "description": "This topic outlines the steps involved in the bacterial synthesis of human insulin and explains the therapeutic advantages for diabetics.",
+      "order": 1
+    },
+    {
+      "id": "ZIMSEC_AL_B6_GT_GSF",
+      "title": "Genetic Screening and Fingerprinting",
+      "icon": "🔍",
+      "description": "Explores the procedures and theoretical basis of genetic screening and DNA fingerprinting, including their roles in identifying genetic conditions and for forensic purposes.",
+      "order": 2
+    },
+    {
+      "id": "ZIMSEC_AL_B6_GT_GTH",
+      "title": "Gene Therapy",
+      "icon": "🩹",
+      "description": "This section introduces the fundamental principles and applications of gene therapy as a medical intervention.",
+      "order": 3
+    },
+    {
+      "id": "ZIMSEC_AL_B6_GT_BHGT",
+      "title": "Benefits and Hazards of Gene Technology",
+      "icon": "⚠️",
+      "description": "Discusses the various advantages and potential risks associated with the application of gene technology.",
+      "order": 4
+    },
+    {
+      "id": "ZIMSEC_AL_B6_GT_EIGT",
+      "title": "Ethical implications of Gene Technology",
+      "icon": "🤔",
+      "description": "Examines the social and ethical considerations arising from advancements and applications in gene technology.",
+      "order": 5
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ICE_NS",
+      "title": "Natural Selection",
+      "icon": "🌿",
+      "description": "Explains how mutations and environmental factors influence phenotype and drive the process of natural selection leading to evolution.",
+      "order": 6
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ICE_AS",
+      "title": "Artificial Selection",
+      "icon": "🍎",
+      "description": "Describes examples and principles of artificial selection, highlighting human influence on the genetic makeup of populations.",
+      "order": 7
+    },
+    {
+      "id": "ZIMSEC_AL_B6_TS_MCS",
+      "title": "Mammalian Circulatory System",
+      "icon": "🩸",
+      "description": "Identifies the structures of arteries, veins, and capillaries, explains the role of haemoglobin and the Bohr effect in oxygen and carbon dioxide transport, and describes the cardiac cycle.",
+      "order": 8
+    },
+    {
+      "id": "ZIMSEC_AL_B6_NC_NFC",
+      "title": "Need for Communication",
+      "icon": "🗣️",
+      "description": "Recognizes the fundamental requirement for efficient communication systems within living organisms.",
+      "order": 9
+    },
+    {
+      "id": "ZIMSEC_AL_B6_NC_AP",
+      "title": "Action Potential",
+      "icon": "⚡",
+      "description": "Describes the generation and transmission of an action potential along myelinated neurons, emphasizing the roles of myelin sheath and refractory period in impulse speed.",
+      "order": 10
+    },
+    {
+      "id": "ZIMSEC_AL_B6_SR_SRP",
+      "title": "Sexual Reproduction in Plants",
+      "icon": "🌸",
+      "description": "Describes anther structure, pollen formation, ovule development, double fertilization, and its significance in plant reproduction.",
+      "order": 11
+    },
+    {
+      "id": "ZIMSEC_AL_B6_SR_SRH",
+      "title": "Sexual Reproduction in Humans",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Recognizes the microscopic structures of the ovary and testis, describes gametogenesis, hormonal control, fertilization, placenta structure and roles, contraception, and abortion.",
+      "order": 12
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ECO_LEO",
+      "title": "Levels of Ecological Organisation",
+      "icon": "🌐",
+      "description": "Defines terms such as species, habitat, population, niche, community, and ecosystem in the context of ecological organization.",
+      "order": 13
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ECO_NC",
+      "title": "Nitrogen Cycle",
+      "icon": "♻️",
+      "description": "Outlines the nitrogen cycle, detailing the roles of nitrogen-fixing, nitrifying, and denitrifying bacteria.",
+      "order": 14
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ECO_AIE",
+      "title": "Anthropogenic Impact on Ecosystems",
+      "icon": "🏭",
+      "description": "Describes the effects of human activities like human settlement, deforestation, industrial activities, agriculture, mining, global warming, and invasive plant species on ecosystems.",
+      "order": 15
+    },
+    {
+      "id": "ZIMSEC_AL_B6_ECO_CON",
+      "title": "Conservation",
+      "icon": "🌳",
+      "description": "Explains conservation methods including preservation, management, and reclamation, with specific examples like African Elephants and White Rhinoceros, also discussing the role of EMA and CAMPFIRE.",
+      "order": 16
+    },
+    {
+      "id": "ZIMSEC_AL_B6_BIO_CLASS",
+      "title": "Classification",
+      "icon": "🧩",
+      "description": "Identifies organisms using diagnostic features of the five Kingdoms and phyla, states the taxonomic hierarchy, and observes the rules of binomial nomenclature.",
+      "order": 17
+    },
+    {
+      "id": "ZIMSEC_AL_B6_BIO_IMP",
+      "title": "Importance of Biodiversity",
+      "icon": "💖",
+      "description": "Describes the socio-economic importance of the five Kingdoms (Prokaryotae, Protista, Fungi, Plantae, Animalia) in various aspects like fermentation, biotechnology, food, decomposition, medicine, and tourism.",
+      "order": 18
+    }
+  ]
+}

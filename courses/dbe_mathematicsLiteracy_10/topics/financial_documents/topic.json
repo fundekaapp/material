@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_ML10_FND",
+  "title": "Financial Documents",
+  "description": "Involves making sense of common financial documents, such as household bills, and extracting relevant information.",
+  "order": 6,
+  "icon": "🧾"
+}

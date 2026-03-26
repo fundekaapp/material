@@ -1,0 +1,150 @@
+{
+  "id": "DBE_MathematicalLiteracy_FET_G10",
+  "title": "Mathematical Literacy",
+  "examination_body": "Department of Basic Education, Republic of South Africa",
+  "level": "Further Education and Training (FET) Phase - Grade 10",
+  "description": "Mathematical Literacy in the FET phase equips learners with the ability to use foundational mathematical concepts and techniques to solve real-life problems. The curriculum emphasizes understanding authentic scenarios and applying both mathematical and non-mathematical reasoning. It develops critical thinking, problem-solving, and communication skills essential for navigating everyday situations and making informed decisions.",
+  "icon": "💡",
+  "topics": [
+    {
+      "id": "DBE_FET_ML10_RND",
+      "title": "Rounding Numbers",
+      "icon": "🧮",
+      "description": "Focuses on understanding and applying appropriate rounding techniques in various numerical contexts.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_ML10_PRP",
+      "title": "Proportion",
+      "icon": "⚖️",
+      "description": "Explores direct and indirect proportion, enabling learners to analyze relationships and compare quantities in real-life scenarios.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_ML10_RTS",
+      "title": "Rates",
+      "icon": "⏱️",
+      "description": "Covers the calculation and interpretation of rates, such as comparing prices, to make informed decisions.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_ML10_PCT",
+      "title": "Percentages",
+      "icon": "📊",
+      "description": "Focuses on applying percentages to understand relative sizes and making comparisons in diverse contexts.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_ML10_RRTGE",
+      "title": "Representing Relationships (Tables, Graphs, Equations)",
+      "icon": "📈",
+      "description": "Develops skills in identifying and representing various relationships using tables, graphs, and equations, including graphical representation of costs.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_ML10_FND",
+      "title": "Financial Documents",
+      "icon": "🧾",
+      "description": "Involves making sense of common financial documents, such as household bills, and extracting relevant information.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_ML10_IEP",
+      "title": "Income, Expenditure, and Budgets",
+      "icon": "💸",
+      "description": "Focuses on understanding, creating, and analyzing income and expenditure statements, including developing household budgets and managing profit/loss.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_ML10_MLD",
+      "title": "Measuring Length and Distance",
+      "icon": "📏",
+      "description": "Emphasizes the accurate measurement of length and distance using appropriate tools and techniques.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_ML10_PAV",
+      "title": "Perimeter, Area, and Volume",
+      "icon": "📐",
+      "description": "Covers the calculation of perimeter, area, and volume, applying these concepts in practical tasks like garden design and costing.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_ML10_TIM",
+      "title": "Time",
+      "icon": "⏰",
+      "description": "Involves understanding and performing calculations related to time, often in the context of planning activities.",
+      "order": 10
+    },
+    {
+      "id": "DBE_FET_ML10_SCL",
+      "title": "Scale (Maps & Plans)",
+      "icon": "🗺️",
+      "description": "Explores the concept of scale in maps and plans, enabling learners to understand how resizing affects representations of the physical world.",
+      "order": 11
+    },
+    {
+      "id": "DBE_FET_ML10_MPS",
+      "title": "Map Interpretation",
+      "icon": "📍",
+      "description": "Focuses on interpreting maps to find locations and determine routes, as demonstrated in tasks like \"Finding your way.\"",
+      "order": 12
+    },
+    {
+      "id": "DBE_FET_ML10_PLN",
+      "title": "Plan Interpretation",
+      "icon": "🏡",
+      "description": "Involves understanding and interpreting plans, including tasks like writing instructions for assembling objects.",
+      "order": 13
+    },
+    {
+      "id": "DBE_FET_ML10_DHA_DQC",
+      "title": "Data Collection and Questionnaires",
+      "icon": "📝",
+      "description": "Focuses on understanding and creating questionnaires or surveys to gather information from various contexts.",
+      "order": 14
+    },
+    {
+      "id": "DBE_FET_ML10_DHA_COD",
+      "title": "Classifying and Organising Data",
+      "icon": "🗃️",
+      "description": "Covers sorting, counting, and distinguishing between different types of data (categorical, numerical, discrete, continuous).",
+      "order": 15
+    },
+    {
+      "id": "DBE_FET_ML10_DHA_MED",
+      "title": "Measuring Data",
+      "icon": "📊",
+      "description": "Involves identifying maximum and minimum values within a dataset to understand its range and characteristics.",
+      "order": 16
+    },
+    {
+      "id": "DBE_FET_ML10_DHA_RED",
+      "title": "Representing Data",
+      "icon": "📈",
+      "description": "Focuses on reading and interpreting information presented in various graphical formats, such as charts and graphs.",
+      "order": 17
+    },
+    {
+      "id": "DBE_FET_ML10_PRO_EXP",
+      "title": "Expressions of Probability",
+      "icon": "🔢",
+      "description": "Teaches learners to identify percentage chances and understand key terms associated with probability, such as event and outcome.",
+      "order": 18
+    },
+    {
+      "id": "DBE_FET_ML10_PRO_PRD",
+      "title": "Probability Prediction",
+      "icon": "🔮",
+      "description": "Involves making and evaluating predictions based on probability, such as rainfall forecasts or other real-world likelihoods.",
+      "order": 19
+    },
+    {
+      "id": "DBE_FET_ML10_PRO_EEP",
+      "title": "Evaluating Probability Expressions",
+      "icon": "🤔",
+      "description": "Focuses on critically assessing probability statements and scenarios to determine their validity and implications.",
+      "order": 20
+    }
+  ]
+}

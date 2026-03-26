@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_MPR_PLN",
+  "title": "Plans",
+  "description": "Interprets various types of plans (floor, elevation) to extract dimensions, identify features, and apply them in practical projects.",
+  "order": 15,
+  "icon": "🏠"
+}

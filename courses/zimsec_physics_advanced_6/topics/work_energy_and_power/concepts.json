@@ -1,0 +1,126 @@
+```json
+{
+  "concepts": [
+    {
+      "id": "DBE-PS12-MI-C01",
+      "title": "Energy Conversion and Conservation",
+      "body": "This concept covers the principles of energy conversion and conservation, including the understanding of energy losses in practical devices and the concept of efficiency. Learners should be able to describe and explain everyday examples of energy conversion systems, such as hydro, thermal, solar, wind, and chemical electric power, along with associated environmental concerns. Suggested learning activities include visiting power stations and utilizing solar panels for heating and lighting.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C02",
+          "title": "Explaining Energy Losses and Efficiency",
+          "body": "Explain that there are energy losses in practical devices and use the concept of efficiency.",
+          "children": []
+        },
+        {
+          "id": "DBE-PS12-MI-C03",
+          "title": "Everyday Examples of Energy Conversion",
+          "body": "Describe and explain everyday examples of energy conversion (e.g., hydro, thermal, solar, wind, chemical electric power, and environmental concerns). This includes understanding how energy is converted in systems like power stations (through visits) and solar panels (for heating and lighting).",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C04",
+      "title": "Work",
+      "body": "This concept requires learners to define work as the product of a force and displacement in the direction of the force, and to calculate the work done in various situations. Practical application includes measuring work required for various tasks.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C05",
+          "title": "Defining Work",
+          "body": "Define work in terms of the product of a force and displacement in the direction of the force.",
+          "children": []
+        },
+        {
+          "id": "DBE-PS12-MI-C06",
+          "title": "Calculating Work Done in Various Situations",
+          "body": "Calculate the work done in a number of situations, including the work done by a gas expanding against a constant external pressure. A suggested activity is measuring work required for various tasks.",
+          "children": []
+        },
+        {
+          "id": "DBE-PS12-MI-C07",
+          "title": "Work Done by an Expanding Gas",
+          "body": "Calculate the work done by a gas which is expanding against a constant external pressure using the formula: W = pΔV.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C08",
+      "title": "Potential Energy, Kinetic Energy, and Internal Energy",
+      "body": "This unit encompasses the fundamental concepts of potential energy, kinetic energy, and internal energy, focusing on their definitions, derivations, applications, and the ability to distinguish between different forms of energy.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C09",
+          "title": "Kinetic Energy",
+          "body": "Learners should be able to derive, recall, and apply the formula for kinetic energy, Ek = ½mv². Suggested activities involve estimating the kinetic energy of various objects.",
+          "children": [
+            {
+              "id": "DBE-PS12-MI-C10",
+              "title": "Deriving Kinetic Energy Formula",
+              "body": "Derive, from the equations of motion, the formula Ek = ½mv².",
+              "children": []
+            },
+            {
+              "id": "DBE-PS12-MI-C11",
+              "title": "Applying Kinetic Energy Formula",
+              "body": "Recall and apply the formula Ek = ½mv². An activity for this concept is estimating the kinetic energy of various objects.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "DBE-PS12-MI-C12",
+          "title": "Potential Energy",
+          "body": "Learners should distinguish between different forms of potential energy and be able to derive and use the formula Ep = mgh for gravitational potential energy changes near the Earth's surface. Investigating the speed of a falling object is a suggested learning activity.",
+          "children": [
+            {
+              "id": "DBE-PS12-MI-C13",
+              "title": "Distinguishing Potential Energy Types",
+              "body": "Distinguish between gravitational potential energy, electric potential energy, and elastic potential energy.",
+              "children": []
+            },
+            {
+              "id": "DBE-PS12-MI-C14",
+              "title": "Deriving Gravitational Potential Energy Formula",
+              "body": "Derive, from the defining equation W = FΔs, the formula Ep = mgh for potential energy changes near the Earth's surface.",
+              "children": []
+            },
+            {
+              "id": "DBE-PS12-MI-C15",
+              "title": "Applying Gravitational Potential Energy Formula",
+              "body": "Use the formula Ep = mgh for potential energy changes near the Earth's surface. This can be explored through investigating the speed of a falling object (gravitational potential).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "DBE-PS12-MI-C16",
+          "title": "Internal Energy",
+          "body": "Explain the concept of internal energy.",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "DBE-PS12-MI-C17",
+      "title": "Power",
+      "body": "Learners should understand the relationship between power, work done, and time taken, and be able to derive and use power as the product of force and velocity. Measuring the power output of an electric motor is a suggested practical activity.",
+      "children": [
+        {
+          "id": "DBE-PS12-MI-C18",
+          "title": "Power, Work Done, and Time Taken",
+          "body": "Relate power to work done and time taken using appropriate examples.",
+          "children": []
+        },
+        {
+          "id": "DBE-PS12-MI-C19",
+          "title": "Power as the Product of Force and Velocity",
+          "body": "Derive and use power as the product of force and velocity. An example activity includes measuring the power output of an electric motor.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
+```

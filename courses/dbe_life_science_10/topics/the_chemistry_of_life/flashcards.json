@@ -1,0 +1,106 @@
+{
+  "flashcards": [
+    {
+      "id": "DBE_FET_LSG10_COL-C00-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C00",
+      "front": "What are the key areas covered in 'The Chemistry of Life Overview' according to the Grade 10 Life Sciences curriculum?",
+      "back": "This section explores fundamental organic and inorganic molecules essential for life, including their basic structures, functions, the importance of minerals and water, and introduces life at the molecular, cellular, tissue, and organ level, emphasizing how these components enable basic life processes and maintain balance within living systems."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C01-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C01",
+      "front": "How do 'Molecules For Life' explain the organization of living organisms and their essential processes?",
+      "back": "Living organisms are composed of atoms that form molecules, which are the fundamental units of life – cells. Cells exhibit complex organization, enabling essential life processes such as movement, nutrition, respiration, excretion, growth, reproduction, and response to stimuli. Cells differentiate to form specialized tissues, which in turn form organs with specific functions, introducing life at the molecular, cellular, tissue, and organ level."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C02-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C02",
+      "front": "What are the primary elements found in organic compounds, and what major types of organic molecules are examined?",
+      "back": "Organic molecules are primarily composed of Carbon, Hydrogen, and Oxygen, with some also containing Nitrogen and Phosphorus. This section covers the basic structural details, types, and functions of proteins, carbohydrates, lipids, nucleic acids, and vitamins."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C03-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C03",
+      "front": "Name the three categories of carbohydrates and give an example for each.",
+      "back": "Carbohydrates include monosaccharides (single sugars like glucose and fructose), disaccharides (double sugars like sucrose and maltose), and polysaccharides (many sugars like starch, cellulose, and glycogen). Only basic structural details are required."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C04-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C04",
+      "front": "Describe the basic composition of lipids and differentiate between types of fats, also mentioning the role of cholesterol.",
+      "back": "Lipids consist of one glycerol molecule and three fatty acids. This section differentiates between unsaturated and saturated fats and discusses the role of cholesterol in foods and its link to heart disease. Only basic structural details are required."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C05-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C05",
+      "front": "What are proteins composed of, and how do temperature and pH affect them?",
+      "back": "Proteins are composed of amino acids containing Carbon, Hydrogen, Oxygen, Nitrogen, and sometimes Phosphorus and Sulphur, Iron. They are sensitive to temperature and pH, which can lead to denaturation (loss of structure and function). Only basic structural details are required."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C06-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C06",
+      "front": "What is the function of enzymes, and what model describes their action?",
+      "back": "Enzymes are involved in breaking down and synthesizing molecules. Their action is explained by the Lock and Key Model, and their activity is influenced by temperature and pH. Examples of enzymes in everyday life, such as those in washing powders, are also discussed."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C07-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C07",
+      "front": "What materials can be used to investigate enzyme effects practically, and what should learners observe?",
+      "back": "An essential investigation demonstrates the effect of enzymes using Hydrogen Peroxide and chicken liver, or fresh pineapple juice and solid egg white. Learners will observe, measure, and record the results of the experiment at different temperatures."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C08-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C08",
+      "front": "What are nucleic acids, and what elements are they composed of?",
+      "back": "Nucleic acids, DNA and RNA, are molecules composed of Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus. No detailed structural information is required at this level."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C09-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C09",
+      "front": "Why are vitamins important for living organisms, and can you name a few examples?",
+      "back": "Vitamins are necessary for plants and animals. Examples include A, B, C, D, and E. Detailed structural or functional information is not required, building on prior knowledge from Grade 9."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C10-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C10",
+      "front": "What types of organic molecules are tested in the 'Practical: Food Tests' investigation?",
+      "back": "The 'Practical: Food Tests' investigation involves testing for starch, glucose, lipids, and proteins. Required resources include various chemicals, Bunsen burners, and thermometers."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C11-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C11",
+      "front": "What is the purpose of the 'Practical: Biological Washing Powder Investigation'?",
+      "back": "This optional investigation studies the effectiveness of a 'biological' washing powder that contains enzymes. It helps understand enzyme function in everyday applications."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C12-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C12",
+      "front": "What essential inorganic molecules are focused on in this section, and what key aspects are discussed regarding them?",
+      "back": "This section focuses on the basic structural details of essential inorganic molecules like water and minerals. It explores their main functions in living systems, identifies essential macro and micro elements, discusses the consequences of mineral deficiency diseases, and addresses the environmental impact of fertilisers."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C13-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C13",
+      "front": "Describe the chemical composition of water and its fundamental role in living organisms.",
+      "back": "Water (H2O) is composed of two hydrogen atoms and one oxygen atom. It has a fundamental role and main functions within living organisms. Only basic structural details are required."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C14-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C14",
+      "front": "Name some key macro and micro elements (minerals) and explain their importance.",
+      "back": "Key macro and micro elements include Sodium (Na), Potassium (K), Calcium (Ca), Phosphorus (P), Iron (Fe), Iodine (I), nitrates, and phosphates. They are important for their primary functions and to prevent associated deficiency diseases, building on Grade 9 knowledge."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C15-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C15",
+      "front": "Explain the necessity of fertilisers and the environmental consequence of their misuse.",
+      "back": "Fertilisers are necessary for crops in over-utilized soils. However, when they are washed into rivers, they can lead to environmental consequences like eutrophication, which establishes a link to ecological studies."
+    },
+    {
+      "id": "DBE_FET_LSG10_COL-C16-FC01",
+      "concept_id": "DBE_FET_LSG10_COL-C16",
+      "front": "What is the objective of the practical investigation involving food packaging analysis?",
+      "back": "The investigation involves learners analyzing the nutritional content (vitamins, minerals, and other components) on food packaging, comparing the Recommended Daily Allowance (RDA) with individual diets, and discussing the implications. Resources include a selection of food packaging."
+    }
+  ]
+}

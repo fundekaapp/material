@@ -1,0 +1,253 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_CDM-C01",
+      "title": "Overview of Cell Division: Mitosis and Cancer",
+      "body": "This section covers the cell cycle, the stages and significance of mitosis for growth and repair, the role of chromosomes, and briefly discusses cancer as uncontrolled cell division, as outlined for Grade 10 Life Sciences.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C02",
+        "DBE_FET_LSG10_CDM-C15",
+        "DBE_FET_LSG10_CDM-C19",
+        "DBE_FET_LSG10_CDM-C26"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C02",
+      "title": "The Cell Cycle and Mitosis",
+      "body": "Study of the cell cycle, including interphase, the phases of mitosis, cytokinesis, and overall cell growth. It emphasizes the continuous process of cell division.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C03",
+        "DBE_FET_LSG10_CDM-C08",
+        "DBE_FET_LSG10_CDM-C11",
+        "DBE_FET_LSG10_CDM-C12"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C03",
+      "title": "Stages of Cell Cycle and Mitosis",
+      "body": "Detailed examination of the different stages within the cell cycle that contribute to cell division.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C04",
+        "DBE_FET_LSG10_CDM-C05",
+        "DBE_FET_LSG10_CDM-C06",
+        "DBE_FET_LSG10_CDM-C07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C04",
+      "title": "Interphase",
+      "body": "The phase of the cell cycle during which the cell grows and makes a copy of its DNA.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C05",
+      "title": "Mitosis Phases",
+      "body": "Understanding the names and characteristics of the distinct phases of mitosis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C06",
+      "title": "Cytokinesis",
+      "body": "The physical process of cell division, which divides the cytoplasm of a parental cell into two daughter cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C07",
+      "title": "Cell Growth",
+      "body": "Understanding the aspect of cell growth as part of the cell cycle.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C08",
+      "title": "Continuous Process of Mitosis",
+      "body": "Mitosis as a continuous process where a single cell divides to form two identical cells.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C09",
+        "DBE_FET_LSG10_CDM-C10"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C09",
+      "title": "Formation of Two Identical Daughter Cells",
+      "body": "A simple description of mitosis leading to the formation of two genetically identical daughter cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C10",
+      "title": "Chromosome Changes During Mitosis",
+      "body": "Understanding chromosome changes with diagrams to illustrate how a parent cell forms two identical daughter cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C11",
+      "title": "Difference in Telophase (Plant vs Animal Cells)",
+      "body": "Identification of the distinctions in the telophase stage of mitosis between plant and animal cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C12",
+      "title": "Chromosomes",
+      "body": "Study of chromosomes, their location, and basic structure.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C13",
+        "DBE_FET_LSG10_CDM-C14"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C13",
+      "title": "Chromosome Location in Cell Nuclei",
+      "body": "Chromosomes are found in the nuclei of all cells.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C14",
+      "title": "Chromosome Structure: Chromatids and Centromere",
+      "body": "Description of chromosomes as consisting of two chromatids joined by a centromere.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C15",
+      "title": "Role and Significance of Mitosis",
+      "body": "Understanding the vital functions of mitosis in living organisms.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C16",
+        "DBE_FET_LSG10_CDM-C17",
+        "DBE_FET_LSG10_CDM-C18"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C16",
+      "title": "Mitosis for Growth",
+      "body": "The role of mitosis in the growth of multicellular organisms.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C17",
+      "title": "Mitosis for Repair",
+      "body": "The role of mitosis in replacing damaged or old cells for tissue repair.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C18",
+      "title": "Mitosis for Reproduction in Simple Organisms",
+      "body": "Understanding mitosis as a method of reproduction in certain simple organisms.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C19",
+      "title": "Cancer: Uncontrolled Cell Division",
+      "body": "A brief discussion of cancer as a disease characterized by uncontrolled cell division and growth.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C20",
+        "DBE_FET_LSG10_CDM-C21",
+        "DBE_FET_LSG10_CDM-C22",
+        "DBE_FET_LSG10_CDM-C24"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C20",
+      "title": "Definition of Cancer",
+      "body": "Cancer is defined as uncontrolled cell division and growth.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C21",
+      "title": "Causes of Cancer",
+      "body": "An overview of the factors that lead to the development of cancer.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C22",
+      "title": "Societal Aspects of Cancer",
+      "body": "Discussion on the beliefs and attitudes related to cancer within society.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C23"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C23",
+      "title": "Beliefs and Attitudes Concerning Cancer",
+      "body": "Brief discussion of public beliefs and attitudes surrounding cancer.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C24",
+      "title": "Treatments for Cancer",
+      "body": "An introduction to various methods used in cancer treatment.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C25"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C25",
+      "title": "Medical Biotechnology in Cancer Treatment",
+      "body": "Mention of medical biotechnology applications in cancer treatment, such as radiotherapy and chemotherapy (no detailed knowledge required).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C26",
+      "title": "Practical Activities and Investigations",
+      "body": "Hands-on activities and research tasks to reinforce understanding of cell division and cancer.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C27",
+        "DBE_FET_LSG10_CDM-C32"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C27",
+      "title": "Examine Cell Division Using Resources",
+      "body": "Utilizing various resources to observe and understand the process of cell division.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C28",
+        "DBE_FET_LSG10_CDM-C29",
+        "DBE_FET_LSG10_CDM-C30",
+        "DBE_FET_LSG10_CDM-C31"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C28",
+      "title": "Observation of Microscope Slides",
+      "body": "Using microscope slides to examine cells in different stages of division.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C29",
+      "title": "Observation of Micrographs",
+      "body": "Studying micrographs to visualize cell division stages.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C30",
+      "title": "Using Posters and Models",
+      "body": "Examining posters and models to understand the concepts of cell division.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C31",
+      "title": "Record Observations as Drawings",
+      "body": "Documenting observations of cell division through detailed drawings.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C32",
+      "title": "Research on a Specific Cancer",
+      "body": "Conducting research and presenting information on one type of cancer.",
+      "children": [
+        "DBE_FET_LSG10_CDM-C33",
+        "DBE_FET_LSG10_CDM-C34"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C33",
+      "title": "Cancer Research Content",
+      "body": "The research should include information on the causes, prevalence, and treatment of the chosen cancer.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_CDM-C34",
+      "title": "Cancer Research Presentation",
+      "body": "Information gathered from cancer research can be presented verbally or as a written report.",
+      "children": []
+    }
+  ]
+}

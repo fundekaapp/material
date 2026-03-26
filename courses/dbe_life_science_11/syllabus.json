@@ -1,0 +1,80 @@
+{
+  "id": "DBE_LifeSciences_FET_G11",
+  "title": "Life Sciences",
+  "examination_body": "Department of Basic Education (DBE)",
+  "level": "Further Education and Training (FET) Phase",
+  "description": "The DBE Life Sciences curriculum for Grade 11 offers a deep exploration into the biological world, focusing on the diversity of life, intricate life processes in plants and animals, and critical environmental studies. Learners develop scientific inquiry skills while investigating topics ranging from microorganisms and animal nutrition to population dynamics and human impact on the environment. This course prepares students for further academic pursuits and fosters responsible citizenship through an understanding of biological principles and their societal applications.",
+  "icon": "🌿",
+  "topics": [
+    {
+      "id": "DBE_FET_LSG11_BCM",
+      "title": "Biodiversity and Classification of Microorganisms",
+      "icon": "🦠",
+      "description": "Explores the basic structure, characteristics, and ecological roles of viruses, bacteria, protists, and fungi, including their involvement in diseases, immunity, and biotechnological applications.",
+      "order": 1
+    },
+    {
+      "id": "DBE_FET_LSG11_BP",
+      "title": "Biodiversity of Plants",
+      "icon": "🌳",
+      "description": "Examines the classification of major plant groups based on structural features and explores diverse reproductive strategies, focusing on the adaptations of flowers for pollination and the significance of seeds.",
+      "order": 2
+    },
+    {
+      "id": "DBE_FET_LSG11_BA",
+      "title": "Biodiversity of Animals",
+      "icon": "🦋",
+      "description": "Introduces the classification of animals into major phyla, highlighting key body plan features and adaptations, and discusses the ecological roles of invertebrates.",
+      "order": 3
+    },
+    {
+      "id": "DBE_FET_LSG11_ETP",
+      "title": "Energy Transformations: Photosynthesis",
+      "icon": "☀️",
+      "description": "Details the process of photosynthesis, its significance in energy transformation and oxygen production, and how environmental factors influence its rate, including the role of ATP.",
+      "order": 4
+    },
+    {
+      "id": "DBE_FET_LSG11_ANM",
+      "title": "Animal Nutrition (Mammals)",
+      "icon": "🍎",
+      "description": "Explores the digestive system in mammals, covering mechanical and chemical digestion, absorption, assimilation, and the homeostatic regulation of blood sugar, alongside factors affecting human nutrition and related health issues.",
+      "order": 5
+    },
+    {
+      "id": "DBE_FET_LSG11_ETCR",
+      "title": "Energy Transformations: Cellular Respiration",
+      "icon": "⚡",
+      "description": "Examines aerobic and anaerobic cellular respiration, detailing their processes, products, and energy yield, with an emphasis on their role in sustaining life and industrial applications.",
+      "order": 6
+    },
+    {
+      "id": "DBE_FET_LSG11_GE",
+      "title": "Gaseous Exchange",
+      "icon": "🌬️",
+      "description": "Differentiates between breathing, cellular respiration, and gas exchange, exploring efficient gas exchange organs in diverse environments and focusing on the human respiratory system, its diseases, and external factors affecting it.",
+      "order": 7
+    },
+    {
+      "id": "DBE_FET_LSG11_EH",
+      "title": "Excretion in Humans",
+      "icon": "💧",
+      "description": "Investigates the excretory functions of various human organs, with a detailed focus on the urinary system, kidney structure and function, waste removal, and the homeostatic regulation of water and salts.",
+      "order": 8
+    },
+    {
+      "id": "DBE_FET_LSG11_PE",
+      "title": "Population Ecology",
+      "icon": "🧑‍🤝‍🧑",
+      "description": "Explores the dynamics of population size, including factors that influence growth and density, examines interspecific and intraspecific interactions within ecological communities, and discusses ecological succession and human population growth patterns.",
+      "order": 9
+    },
+    {
+      "id": "DBE_FET_LSG11_HIECC",
+      "title": "Human Impact on Environment: Current Crises",
+      "icon": "🌐",
+      "description": "Investigates various human impacts on the environment, including climate change, water resource management, challenges to food security, and the causes and consequences of biodiversity loss, emphasizing current global crises.",
+      "order": 10
+    }
+  ]
+}

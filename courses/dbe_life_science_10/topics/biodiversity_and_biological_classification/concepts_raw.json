@@ -1,0 +1,54 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_BBC-C01",
+      "title": "Introduction to Biodiversity and Classification",
+      "body": "Learners must be able to **introduce** the vast scope of biodiversity on Earth and the fundamental principles of biological classification. **Explain** the significance of classifying organisms and **understand** its application in organizing the natural world.",
+      "children": [
+        "DBE_FET_LSG10_BBC-C02",
+        "DBE_FET_LSG10_BBC-C03"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C02",
+      "title": "Earth's Biodiversity and Southern African Endemism",
+      "body": "Learners must be able to **describe** the enormous biodiversity on Earth, encompassing the variety of species, diverse ecosystems, and genetic differences. **Emphasise** the extent of biodiversity and endemism in Southern Africa, specifically **identifying** indigenous and endemic species.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C03",
+      "title": "Classification Principles and Historical Context",
+      "body": "Learners must be able to **define** classification schemes as systematic methods for organizing biodiversity. **Explain** the brief history of biological classification, including how scientists initially classified organisms based on shared features and how these systems evolve with new information. As an investigative task, learners should be able to **apply** principles of classification by **grouping** everyday objects based on shared similarities into simple nested hierarchies.",
+      "children": [
+        "DBE_FET_LSG10_BBC-C04",
+        "DBE_FET_LSG10_BBC-C05",
+        "DBE_FET_LSG10_BBC-C06",
+        "DBE_FET_LSG10_BBC-C07"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C04",
+      "title": "The Five-Kingdom Classification System",
+      "body": "Learners must be able to **identify** and **describe** one of the currently accepted biological classification systems, specifically the five-kingdom system, which includes Animalia, Plantae, Fungi, Protista, and Monera (Bacteria).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C05",
+      "title": "Binomial Nomenclature and Linnaean System",
+      "body": "Learners must be able to **explain** the scientific naming conventions, focusing on the species concept and binomial system. **Describe** the historical role of Carl von Linne (Linnaeus) in developing classification systems and **justify** the continued use of Latin in scientific nomenclature.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C06",
+      "title": "Differentiating Prokaryotic and Eukaryotic Organisms",
+      "body": "Learners must be able to **differentiate** between prokaryotic and eukaryotic organisms. This includes **comparing** their fundamental cell structures. Visual identification/drawing of cell types may be required.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_BBC-C07",
+      "title": "Main Organism Groupings and Diagnostic Features",
+      "body": "Learners must be able to **identify** the main groupings of living organisms: Bacteria, Protista, Fungi, Plants, and Animals. For each grouping, **describe** their characteristic diagnostic features. As an investigative skill, learners should be able to **classify** a selection of familiar organisms into these groups based on visible evidence, using identification keys and guides (e.g., from photographs or live specimens).",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ZIMSEC_AL_P6_NVFF",
+  "title": "Non-Viscous Fluid Flow",
+  "description": "Explores the principles of ideal fluid dynamics, including streamlines, the equation of continuity, and the Bernoulli effect, and applies these concepts to various real-world phenomena.",
+  "order": 11,
+  "icon": "🌊"
+}

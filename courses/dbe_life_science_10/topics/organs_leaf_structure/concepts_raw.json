@@ -1,0 +1,330 @@
+{
+  "concepts": [
+    {
+      "id": "DBE_FET_LSG10_Organs-C01",
+      "title": "Organs: Leaf Structure Overview",
+      "body": "This section introduces organs as groups of tissues performing specific functions, using the dicotyledonous leaf as an example to illustrate its structure and functions like photosynthesis and transport, linking these to plant tissues, cell organelles, and molecular movement.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C02",
+        "DBE_FET_LSG10_Organs-C03",
+        "DBE_FET_LSG10_Organs-C17"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C02",
+      "title": "Introduction to Organs",
+      "body": "Organs consist of a number of specialized tissues working together to perform particular functions. The dicotyledonous leaf is used as a primary example of an organ.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C03",
+      "title": "Dicotyledonous Leaf Structure",
+      "body": "A detailed study of the cross-section of a dicotyledonous leaf is undertaken to demonstrate and explain its structure in terms of its functions, linking it with plant tissues, appropriate cell organelles, and movement across membranes.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C04",
+        "DBE_FET_LSG10_Organs-C05",
+        "DBE_FET_LSG10_Organs-C06"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C04",
+      "title": "Leaf Structure Learning Objectives",
+      "body": "Learners must be able to understand and explain the structural components of a dicotyledonous leaf and relate them to its physiological functions.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C07",
+        "DBE_FET_LSG10_Organs-C08",
+        "DBE_FET_LSG10_Organs-C09"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C07",
+      "title": "Explain Dicotyledonous Leaf Structure",
+      "body": "Demonstrate and explain the structure of a cross-section of a dicotyledonous leaf.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C08",
+      "title": "Relate Leaf Structure to Functions",
+      "body": "Explain the leaf's structure in terms of its functions, including photosynthesis, gas exchange, and transport.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C09",
+      "title": "Linking Leaf Structure to Biological Concepts",
+      "body": "Link the leaf's structure with plant tissues, appropriate cell organelles, movement across membranes, and the movement of molecules into, through, and out of the leaf.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C05",
+      "title": "Leaf Structure Investigations",
+      "body": "Practical activities for learners to examine and identify the structural features of a dicotyledonous leaf.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C10",
+        "DBE_FET_LSG10_Organs-C11",
+        "DBE_FET_LSG10_Organs-C12"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C10",
+      "title": "Observe and Draw Leaf Sections",
+      "body": "Learners will observe and draw a section of a dicotyledonous leaf.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C11",
+      "title": "Microscope Observation of Leaf Sections",
+      "body": "Learners will observe prepared slides of a cross-section of a leaf using a microscope.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C12",
+      "title": "Micrographs and Bioviewer Strips for Leaf Structure",
+      "body": "Learners will observe micrographs or bioviewer slide strips depicting leaf sections, particularly if microscopes are unavailable.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C06",
+      "title": "Leaf Structure Resources",
+      "body": "Materials and equipment required for teaching and learning about leaf structure.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C13",
+        "DBE_FET_LSG10_Organs-C14",
+        "DBE_FET_LSG10_Organs-C15",
+        "DBE_FET_LSG10_Organs-C16"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C13",
+      "title": "Textbooks for Leaf Structure",
+      "body": "Textbooks containing information on dicotyledonous leaf structure.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C14",
+      "title": "Charts for Leaf Structure",
+      "body": "Charts illustrating the cross-section and parts of a dicotyledonous leaf.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C15",
+      "title": "Microscopes and Slides for Leaf Study",
+      "body": "Microscope slides and microscopes for direct observation of leaf sections.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C16",
+      "title": "Micrographs and Bioviewers for Leaf Study",
+      "body": "Micrographs or bioviewer slide strips as alternatives or supplements to direct microscope observation.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C17",
+      "title": "Functions of the Leaf",
+      "body": "Exploration of the primary biological processes carried out by the leaf, specifically photosynthesis and transport.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C18",
+        "DBE_FET_LSG10_Organs-C19"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C18",
+      "title": "Photosynthesis",
+      "body": "The process by which plants convert radiant energy into chemical energy, encompassing raw materials, energy trapping, food formation in chloroplasts, and oxygen release. Includes discussion of factors affecting its rate and practical investigations.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C20",
+        "DBE_FET_LSG10_Organs-C21",
+        "DBE_FET_LSG10_Organs-C22",
+        "DBE_FET_LSG10_Organs-C23",
+        "DBE_FET_LSG10_Organs-C24",
+        "DBE_FET_LSG10_Organs-C25"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C20",
+      "title": "Photosynthesis Process (Words and Symbols)",
+      "body": "Describe the process of photosynthesis using words and symbols, covering the intake of raw materials, trapping and storing energy, food formation in chloroplasts, and oxygen release. Briefly mention light and dark phases without biochemical detail.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C21",
+      "title": "Importance of Photosynthesis",
+      "body": "Understand the importance of photosynthesis for releasing oxygen, taking up carbon dioxide from the atmosphere, and producing food (trapping energy).",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C22",
+      "title": "Factors Affecting Photosynthesis Rate",
+      "body": "Discuss the effects of variable amounts of light, carbon dioxide, and temperature on the rate of photosynthesis, including brief discussion with graphs.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C23",
+      "title": "Photosynthesis Applications and ATP Role",
+      "body": "Understand the role of carbon dioxide enrichment, optimum light, and optimal temperatures in greenhouse systems to improve crop yields, and the role of ATP as an important energy carrier in the cell.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C24",
+      "title": "Photosynthesis Investigations",
+      "body": "Experiments and demonstrations to show key aspects of photosynthesis.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C26",
+        "DBE_FET_LSG10_Organs-C27",
+        "DBE_FET_LSG10_Organs-C28",
+        "DBE_FET_LSG10_Organs-C29",
+        "DBE_FET_LSG10_Organs-C30",
+        "DBE_FET_LSG10_Organs-C31"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C26",
+      "title": "Investigation: Starch Production",
+      "body": "Investigate photosynthesis by showing that starch is produced during the process.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C27",
+      "title": "Investigation: Light Necessity",
+      "body": "Investigate photosynthesis by showing that light is necessary for the process.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C28",
+      "title": "Investigation: Carbon Dioxide Necessity",
+      "body": "Conduct experiments or demonstrations to show that carbon dioxide is necessary for photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C29",
+      "title": "Investigation: Chlorophyll Necessity",
+      "body": "Conduct experiments or demonstrations to show that chlorophyll is necessary for photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C30",
+      "title": "Investigation: Oxygen Production",
+      "body": "Conduct experiments or demonstrations to show that oxygen is produced during photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C31",
+      "title": "Interpretation of Photosynthesis Data",
+      "body": "Interpret relevant data that can be provided and interpreted by learners concerning photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C25",
+      "title": "Photosynthesis Resources",
+      "body": "Materials and equipment required for teaching and learning about photosynthesis.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C32",
+        "DBE_FET_LSG10_Organs-C33",
+        "DBE_FET_LSG10_Organs-C34"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C32",
+      "title": "Textbooks for Photosynthesis",
+      "body": "Textbooks containing information on photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C33",
+      "title": "Living Plants for Photosynthesis Experiments",
+      "body": "Access to living plants for practical investigations related to photosynthesis.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C34",
+      "title": "Equipment and Chemicals for Photosynthesis",
+      "body": "Suitable equipment and chemicals required for photosynthesis experiments.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C19",
+      "title": "Transport Systems in Plants (Relevant to leaf function)",
+      "body": "Understanding the anatomy of dicotyledonous plants, including root and stem tissues, secondary growth, and the processes of transpiration, water and mineral intake/transport, and food translocation, all directly related to the leaf's role.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C35",
+        "DBE_FET_LSG10_Organs-C36",
+        "DBE_FET_LSG10_Organs-C37",
+        "DBE_FET_LSG10_Organs-C38",
+        "DBE_FET_LSG10_Organs-C39"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C35",
+      "title": "Transpiration and Leaf Structure",
+      "body": "Understand the relationship between water loss (transpiration) and leaf structure, and identify factors that affect the rate of transpiration such as temperature, light intensity, wind, and humidity. Includes wilting and guttation.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C36",
+      "title": "Water and Mineral Intake & Transport",
+      "body": "Describe the intake of water and minerals into the xylem in roots, and their subsequent transport to leaves.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C37",
+      "title": "Translocation of Manufactured Food",
+      "body": "Explain the translocation of manufactured food from leaves to other parts of the plant.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C38",
+      "title": "Plant Transport Investigations",
+      "body": "Practical investigations to demonstrate and analyze plant transport processes.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C40",
+        "DBE_FET_LSG10_Organs-C41",
+        "DBE_FET_LSG10_Organs-C42"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C40",
+      "title": "Investigate Transpiration Rate",
+      "body": "Design an investigation to discover the effect of temperature, light intensity, or humidity on transpiration rate using a simple potometer, identifying variables and control variables.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C41",
+      "title": "Investigate Water Uptake",
+      "body": "Investigate water uptake through the roots.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C42",
+      "title": "Investigate Water Movement through Xylem",
+      "body": "Investigate water movement through xylem, using plants like Impatiens if possible.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C39",
+      "title": "Plant Transport Resources",
+      "body": "Materials and equipment required for teaching and learning about plant transport systems.",
+      "children": [
+        "DBE_FET_LSG10_Organs-C43",
+        "DBE_FET_LSG10_Organs-C44",
+        "DBE_FET_LSG10_Organs-C45"
+      ]
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C43",
+      "title": "Potometer and Beakers",
+      "body": "Potometers and beakers for conducting transpiration experiments.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C44",
+      "title": "Leafy Twigs for Transport Studies",
+      "body": "Leafy twigs used for investigations into water movement and transpiration.",
+      "children": []
+    },
+    {
+      "id": "DBE_FET_LSG10_Organs-C45",
+      "title": "Soft Plants and Eosin for Xylem Observation",
+      "body": "Soft plants (e.g., Busy Lizzie/Impatiens) and eosin dye for observing water movement through xylem.",
+      "children": []
+    }
+  ]
+}

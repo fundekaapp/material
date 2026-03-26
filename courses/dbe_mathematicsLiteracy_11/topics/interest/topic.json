@@ -1,0 +1,7 @@
+{
+  "id": "DBE_FET_MLG11_FIN_INT",
+  "title": "Interest",
+  "description": "Investigates simple and compound interest calculations, modelling their impact on loans and investments over time.",
+  "order": 5,
+  "icon": "🏦"
+}
